@@ -1,0 +1,5 @@
+Starting RBAC-Aware experiments.
+Using embedding model: ibm/granite-embedding-278m-multilingual
+Target % assigned roles: 0
+Using model:mistralai/mistral-medium-2505
+Target number shown permissions: 10

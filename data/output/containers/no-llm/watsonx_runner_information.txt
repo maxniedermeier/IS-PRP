@@ -1,0 +1,3 @@
+Using embedding model: ibm/granite-embedding-278m-multilingual
+Target % assigned roles: 0
+Target % assigned roles: 30

@@ -1,0 +1,24 @@
+Starting Baseline Experiments.
+Category name: ai-machine-learning
+Explicit example 1: microsoft.insights/privatelinkscopes/privateendpointconnections/read
+Explicit example 2: microsoft.insights/transactions/read
+Wildcard example: microsoft.healthbot/healthbots/dataconnections/*
+Role example 1: cognitive services speech contributor
+Role example 2: azure ai inference deployment operator
+Invalid roles:
+azure ai developer
+azureml data scientist
+cognitive services contributor
+cognitive services custom vision deployment
+cognitive services custom vision labeler
+cognitive services custom vision reader
+cognitive services custom vision trainer
+cognitive services language owner
+cognitive services language reader
+cognitive services language writer
+cognitive services luis writer
+cognitive services metrics advisor user
+cognitive services openai user
+cognitive services speech user
+Using model: mistralai/mistral-small-3-1-24b-instruct-2503
+Using model: mistralai/mistral-medium-2505

@@ -1,0 +1,139 @@
+role_name,permission_name
+azure migrate decide and plan expert,microsoft.applicationmigration/*
+azure migrate decide and plan expert,microsoft.authorization/*/read
+azure migrate decide and plan expert,microsoft.authorization/locks/delete
+azure migrate decide and plan expert,microsoft.authorization/locks/write
+azure migrate decide and plan expert,microsoft.azurearcdata/register/action
+azure migrate decide and plan expert,microsoft.datareplication/*/read
+azure migrate decide and plan expert,microsoft.datareplication/register/action
+azure migrate decide and plan expert,microsoft.datareplication/replicationvaults/write
+azure migrate decide and plan expert,microsoft.dependencymap/*
+azure migrate decide and plan expert,microsoft.guestconfiguration/register/action
+azure migrate decide and plan expert,microsoft.hybridcompute/machines/delete
+azure migrate decide and plan expert,microsoft.hybridcompute/machines/read
+azure migrate decide and plan expert,microsoft.hybridcompute/machines/write
+azure migrate decide and plan expert,microsoft.hybridcompute/register/action
+azure migrate decide and plan expert,microsoft.hybridconnectivity/register/action
+azure migrate decide and plan expert,microsoft.insights/alertrules/*
+azure migrate decide and plan expert,microsoft.keyvault/checknameavailability/read
+azure migrate decide and plan expert,microsoft.keyvault/register/action
+azure migrate decide and plan expert,microsoft.keyvault/vaults/*
+azure migrate decide and plan expert,microsoft.migrate/*
+azure migrate decide and plan expert,microsoft.mysqldiscovery/*
+azure migrate decide and plan expert,microsoft.network/networksecuritygroups/join/action
+azure migrate decide and plan expert,microsoft.network/privatednszones/a/write
+azure migrate decide and plan expert,microsoft.network/privatednszones/join/action
+azure migrate decide and plan expert,microsoft.network/privatednszones/virtualnetworklinks/write
+azure migrate decide and plan expert,microsoft.network/privatednszones/write
+azure migrate decide and plan expert,microsoft.network/privateendpoints/privatednszonegroups/read
+azure migrate decide and plan expert,microsoft.network/privateendpoints/privatednszonegroups/write
+azure migrate decide and plan expert,microsoft.network/privateendpoints/read
+azure migrate decide and plan expert,microsoft.network/privateendpoints/write
+azure migrate decide and plan expert,microsoft.network/register/action
+azure migrate decide and plan expert,microsoft.network/virtualnetworks/join/action
+azure migrate decide and plan expert,microsoft.network/virtualnetworks/subnets/join/action
+azure migrate decide and plan expert,microsoft.network/virtualnetworks/subnets/read
+azure migrate decide and plan expert,microsoft.network/virtualnetworks/subnets/write
+azure migrate decide and plan expert,microsoft.offazure/*
+azure migrate decide and plan expert,microsoft.recoveryservices/register/action
+azure migrate decide and plan expert,microsoft.recoveryservices/vaults/*
+azure migrate decide and plan expert,microsoft.resources/checkresourcename/action
+azure migrate decide and plan expert,microsoft.resources/deployments/*
+azure migrate decide and plan expert,microsoft.resources/deploymentscripts/read
+azure migrate decide and plan expert,microsoft.resources/deploymentscripts/write
+azure migrate decide and plan expert,microsoft.resources/links/read
+azure migrate decide and plan expert,microsoft.resources/links/write
+azure migrate decide and plan expert,microsoft.resources/subscriptions/locations/read
+azure migrate decide and plan expert,microsoft.resources/subscriptions/read
+azure migrate decide and plan expert,microsoft.resources/subscriptions/resourcegroups/read
+azure migrate decide and plan expert,microsoft.storage/storageaccounts/*/read
+azure migrate decide and plan expert,microsoft.storage/storageaccounts/*/write
+azure migrate decide and plan expert,microsoft.storage/storageaccounts/listkeys/action
+azure migrate decide and plan expert,microsoft.support/*
+azure migrate owner,microsoft.applicationmigration/*
+azure migrate owner,microsoft.authorization/*/read
+azure migrate owner,microsoft.authorization/locks/delete
+azure migrate owner,microsoft.authorization/locks/write
+azure migrate owner,microsoft.authorization/roleassignments/delete
+azure migrate owner,microsoft.authorization/roleassignments/write
+azure migrate owner,microsoft.azurearcdata/register/action
+azure migrate owner,microsoft.compute/availabilitysets/read
+azure migrate owner,microsoft.compute/availabilitysets/vmsizes/read
+azure migrate owner,microsoft.compute/diskencryptionsets/read
+azure migrate owner,microsoft.compute/disks/delete
+azure migrate owner,microsoft.compute/disks/read
+azure migrate owner,microsoft.compute/disks/write
+azure migrate owner,microsoft.compute/register/action
+azure migrate owner,microsoft.compute/skus/read
+azure migrate owner,microsoft.compute/virtualmachines/delete
+azure migrate owner,microsoft.compute/virtualmachines/read
+azure migrate owner,microsoft.compute/virtualmachines/write
+azure migrate owner,microsoft.datareplication/*/read
+azure migrate owner,microsoft.datareplication/register/action
+azure migrate owner,microsoft.datareplication/replicationvaults/write
+azure migrate owner,microsoft.dependencymap/*
+azure migrate owner,microsoft.guestconfiguration/register/action
+azure migrate owner,microsoft.hybridcompute/machines/delete
+azure migrate owner,microsoft.hybridcompute/machines/read
+azure migrate owner,microsoft.hybridcompute/machines/write
+azure migrate owner,microsoft.hybridcompute/register/action
+azure migrate owner,microsoft.hybridconnectivity/register/action
+azure migrate owner,microsoft.insights/alertrules/*
+azure migrate owner,microsoft.keyvault/checknameavailability/read
+azure migrate owner,microsoft.keyvault/register/action
+azure migrate owner,microsoft.keyvault/vaults/*
+azure migrate owner,microsoft.migrate/*
+azure migrate owner,microsoft.mysqldiscovery/*
+azure migrate owner,microsoft.network/networkinterfaces/delete
+azure migrate owner,microsoft.network/networkinterfaces/read
+azure migrate owner,microsoft.network/networkinterfaces/write
+azure migrate owner,microsoft.network/networksecuritygroups/join/action
+azure migrate owner,microsoft.network/privatednszones/a/write
+azure migrate owner,microsoft.network/privatednszones/join/action
+azure migrate owner,microsoft.network/privatednszones/virtualnetworklinks/write
+azure migrate owner,microsoft.network/privatednszones/write
+azure migrate owner,microsoft.network/privateendpoints/privatednszonegroups/read
+azure migrate owner,microsoft.network/privateendpoints/privatednszonegroups/write
+azure migrate owner,microsoft.network/privateendpoints/read
+azure migrate owner,microsoft.network/privateendpoints/write
+azure migrate owner,microsoft.network/register/action
+azure migrate owner,microsoft.network/virtualnetworks/join/action
+azure migrate owner,microsoft.network/virtualnetworks/read
+azure migrate owner,microsoft.network/virtualnetworks/subnets/join/action
+azure migrate owner,microsoft.network/virtualnetworks/subnets/read
+azure migrate owner,microsoft.network/virtualnetworks/subnets/write
+azure migrate owner,microsoft.offazure/*
+azure migrate owner,microsoft.recoveryservices/operations/read
+azure migrate owner,microsoft.recoveryservices/register/action
+azure migrate owner,microsoft.recoveryservices/vaults/*
+azure migrate owner,microsoft.resources/checkresourcename/action
+azure migrate owner,microsoft.resources/deployments/*
+azure migrate owner,microsoft.resources/deploymentscripts/read
+azure migrate owner,microsoft.resources/deploymentscripts/write
+azure migrate owner,microsoft.resources/links/read
+azure migrate owner,microsoft.resources/links/write
+azure migrate owner,microsoft.resources/subscriptions/locations/read
+azure migrate owner,microsoft.resources/subscriptions/read
+azure migrate owner,microsoft.resources/subscriptions/resourcegroups/read
+azure migrate owner,microsoft.resources/subscriptions/resourcegroups/write
+azure migrate owner,microsoft.storage/storageaccounts/*
+azure migrate owner,microsoft.support/*
+azure migrate service reader,microsoft.applicationmigration/*/read
+azure migrate service reader,microsoft.authorization/*/read
+azure migrate service reader,microsoft.insights/alertrules/*
+azure migrate service reader,microsoft.migrate/*/read
+azure migrate service reader,microsoft.mysqldiscovery/*/read
+azure migrate service reader,microsoft.offazure/*/read
+azure migrate service reader,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationmigrationitems/read
+azure migrate service reader,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotectableitems/read
+azure migrate service reader,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotecteditems/read
+azure migrate service reader,microsoft.resources/deployments/*
+azure migrate service reader,microsoft.resources/subscriptions/resourcegroups/read
+migrate arc discovery reader - preview,microsoft.azurearcdata/sqlserverinstances/availabilitygroups/getdetailview/action
+migrate arc discovery reader - preview,microsoft.azurearcdata/sqlserverinstances/availabilitygroups/read
+migrate arc discovery reader - preview,microsoft.azurearcdata/sqlserverinstances/databases/read
+migrate arc discovery reader - preview,microsoft.azurearcdata/sqlserverinstances/gettelemetry/action
+migrate arc discovery reader - preview,microsoft.azurearcdata/sqlserverinstances/read
+migrate arc discovery reader - preview,microsoft.hybridcompute/machines/extensions/read
+migrate arc discovery reader - preview,microsoft.hybridcompute/machines/read
+migrate arc discovery reader - preview,microsoft.resources/subscriptions/resourcegroups/read

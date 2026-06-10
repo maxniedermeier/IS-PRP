@@ -1,0 +1,251 @@
+request;permission;role
+I need to get the properties of a lab plan.;microsoft.labservices/labplans/read;lab services reader
+I need to get the properties of a lab plan.;microsoft.labservices/labplans/read;lab services reader
+I need to get the properties of a lab plan.;microsoft.labservices/labplans/read;lab services reader
+I need to get the properties of a lab plan.;microsoft.labservices/labplans/read;lab services reader
+I need to get the properties of a lab plan.;microsoft.labservices/labplans/read;lab services reader
+I need to allow a user to read upcoming actions.;microsoft.devcenter/projects/users/devboxes/userupcomingactionread/action;devcenter dev box user
+I need to allow a user to read upcoming actions.;microsoft.devcenter/projects/users/devboxes/userupcomingactionread/action;devcenter dev box user
+I need to allow a user to read upcoming actions.;microsoft.devcenter/projects/users/devboxes/userupcomingactionread/action;devcenter dev box user
+I need to allow a user to read upcoming actions.;microsoft.devcenter/projects/users/devboxes/userupcomingactionread/action;devcenter dev box user
+I need to allow a user to read upcoming actions.;microsoft.devcenter/projects/users/devboxes/userupcomingactionread/action;devcenter dev box user
+I need to start a virtual machine.;microsoft.labservices/labs/virtualmachines/start/action;lab assistant
+I need to start a virtual machine.;microsoft.labservices/labs/virtualmachines/start/action;lab assistant
+I need to start a virtual machine.;microsoft.labservices/labs/virtualmachines/start/action;lab assistant
+I need to start a virtual machine.;microsoft.labservices/labs/virtualmachines/start/action;lab assistant
+I need to start a virtual machine.;microsoft.labservices/labs/virtualmachines/start/action;lab assistant
+I need to create and manage lab services components.;none;none
+I need to create and manage lab services components.;microsoft.labservices/labs/write;lab contributor
+I need to create and manage lab services components.;microsoft.labservices/labs/write;lab contributor
+I need to create and manage lab services components.;microsoft.labservices/labs/write;lab contributor
+I need to create and manage lab services components.;none;none
+I need to create new or update an existing schedule.;microsoft.labservices/labs/schedules/write;lab operator
+I need to create new or update an existing schedule.;microsoft.labservices/labs/schedules/write;lab operator
+I need to create new or update an existing schedule.;microsoft.labservices/labs/schedules/write;lab operator
+I need to create new or update an existing schedule.;microsoft.labservices/labs/schedules/write;lab operator
+I need to create new or update an existing schedule.;microsoft.labservices/labs/schedules/write;lab operator
+I need to allow a user to skip or delay dev box actions.;microsoft.devcenter/projects/users/devboxes/useractionmanage/action;devcenter dev box user
+I need to allow a user to skip or delay dev box actions.;microsoft.devcenter/projects/users/devboxes/useractionmanage/action;devcenter dev box user
+I need to allow a user to skip or delay dev box actions.;microsoft.devcenter/projects/users/devboxes/useractionmanage/action;devcenter dev box user
+I need to allow a user to skip or delay dev box actions.;microsoft.devcenter/projects/users/devboxes/useractionmanage/action;devcenter dev box user
+I need to allow a user to skip or delay dev box actions.;microsoft.devcenter/projects/users/devboxes/useractionmanage/action;devcenter dev box user
+I need to get all targets that extend a tracked resource.;microsoft.chaos/targets/read;chaos studio target contributor
+I need to get all targets that extend a tracked resource.;microsoft.chaos/targets/read;chaos studio target contributor
+I need to get all targets that extend a tracked resource.;microsoft.chaos/targets/read;chaos studio target contributor
+I need to get all targets that extend a tracked resource.;microsoft.chaos/targets/read;chaos studio target contributor
+I need to get all targets that extend a tracked resource.;microsoft.chaos/targets/read;chaos studio target contributor
+I need to start a chaos experiment to inject faults.;microsoft.chaos/experiments/start/action;chaos studio operator
+I need to start a chaos experiment to inject faults.;microsoft.chaos/experiments/start/action;chaos studio operator
+I need to start a chaos experiment to inject faults.;microsoft.chaos/experiments/start/action;chaos studio operator
+I need to start a chaos experiment to inject faults.;microsoft.chaos/experiments/start/action;chaos studio operator
+I need to start a chaos experiment to inject faults.;microsoft.chaos/experiments/start/action;chaos studio operator
+I need to get the properties of a virtual machine.;microsoft.labservices/labs/virtualmachines/read;lab services reader
+I need to get the properties of a virtual machine.;microsoft.labservices/labs/virtualmachines/read;lab services reader
+I need to get the properties of a virtual machine.;microsoft.labservices/labs/virtualmachines/read;lab services reader
+I need to get the properties of a virtual machine.;microsoft.labservices/labs/virtualmachines/read;lab services reader
+I need to get the properties of a virtual machine.;microsoft.labservices/labs/virtualmachines/read;lab services reader
+I need to unregister the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/unregister/action;devops infrastructure contributor
+I need to unregister the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/unregister/action;devops infrastructure contributor
+I need to unregister the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/unregister/action;devops infrastructure contributor
+I need to unregister the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/unregister/action;devops infrastructure contributor
+I need to unregister the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/unregister/action;devops infrastructure contributor
+I need to write operationstatuses.;microsoft.devopsinfrastructure/locations/operationstatuses/write;devops infrastructure contributor
+I need to write operationstatuses.;microsoft.devopsinfrastructure/locations/operationstatuses/write;devops infrastructure contributor
+I need to write operationstatuses.;microsoft.devopsinfrastructure/locations/operationstatuses/write;devops infrastructure contributor
+I need to write operationstatuses.;microsoft.devopsinfrastructure/locations/operationstatuses/write;devops infrastructure contributor
+I need to write operationstatuses.;microsoft.devopsinfrastructure/locations/operationstatuses/write;devops infrastructure contributor
+I need to register the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/register/action;devops infrastructure contributor
+I need to register the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/register/action;devops infrastructure contributor
+I need to register the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/register/action;devops infrastructure contributor
+I need to register the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/register/action;devops infrastructure contributor
+I need to register the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/register/action;devops infrastructure contributor
+I need to create and update a support ticket.;microsoft.support/*;lab creator
+I need to create and update a support ticket.;microsoft.support/*;lab creator
+I need to create and update a support ticket.;microsoft.support/*;lab creator
+I need to create and update a support ticket.;microsoft.support/*;lab creator
+I need to create and update a support ticket.;microsoft.support/*;lab creator
+I need to get the properties of a lab.;microsoft.labservices/labs/read;lab services reader
+I need to get the properties of a lab.;microsoft.labservices/labs/read;lab services reader
+I need to get the properties of a lab.;microsoft.labservices/labs/read;lab services reader
+I need to get the properties of a lab.;microsoft.labservices/labs/read;lab services reader
+I need to get the properties of a lab.;microsoft.labservices/labs/read;lab services reader
+I need to create a new lab from a lab plan.;microsoft.labservices/labplans/createlab/action;lab contributor
+I need to create a new lab from a lab plan.;microsoft.labservices/labplans/createlab/action;lab contributor
+I need to create a new lab from a lab plan.;microsoft.labservices/labplans/createlab/action;lab contributor
+I need to create a new lab from a lab plan.;microsoft.labservices/labplans/createlab/action;lab contributor
+I need to create a new lab from a lab plan.;microsoft.labservices/labplans/createlab/action;lab contributor
+I need to allow a user to stop their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userstop/action;devcenter dev box user
+I need to allow a user to stop their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userstop/action;devcenter dev box user
+I need to allow a user to stop their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userstop/action;devcenter dev box user
+I need to allow a user to stop their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userstop/action;devcenter dev box user
+I need to allow a user to stop their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userstop/action;devcenter dev box user
+I need to redeploy a virtual machine to a different compute node.;microsoft.labservices/labs/virtualmachines/redeploy/action;lab assistant
+I need to redeploy a virtual machine to a different compute node.;microsoft.labservices/labs/virtualmachines/redeploy/action;lab assistant
+I need to redeploy a virtual machine to a different compute node.;microsoft.labservices/labs/virtualmachines/redeploy/action;lab assistant
+I need to redeploy a virtual machine to a different compute node.;microsoft.labservices/labs/virtualmachines/redeploy/action;lab assistant
+I need to redeploy a virtual machine to a different compute node.;microsoft.labservices/labs/virtualmachines/redeploy/action;lab assistant
+I need to read roles and role assignments.;microsoft.authorization/*/read;playwright workspace reader
+I need to read roles and role assignments.;microsoft.authorization/*/read;playwright workspace reader
+I need to read roles and role assignments.;microsoft.authorization/*/read;playwright workspace reader
+I need to read roles and role assignments.;microsoft.authorization/*/read;playwright workspace reader
+I need to read roles and role assignments.;microsoft.authorization/*/read;playwright workspace reader
+I need to create a role assignment at the specified scope.;microsoft.authorization/roleassignments/write;devcenter owner
+I need to create a role assignment at the specified scope.;microsoft.authorization/roleassignments/write;devcenter owner
+I need to create a role assignment at the specified scope.;microsoft.authorization/roleassignments/write;devcenter owner
+I need to create a role assignment at the specified scope.;microsoft.authorization/roleassignments/write;devcenter owner
+I need to create a role assignment at the specified scope.;microsoft.authorization/roleassignments/write;devcenter owner
+I need to delete a capability resource that extends a target resource.;microsoft.chaos/targets/capabilities/delete;chaos studio target contributor
+I need to delete a capability resource that extends a target resource.;microsoft.chaos/targets/capabilities/delete;chaos studio target contributor
+I need to delete a capability resource that extends a target resource.;microsoft.chaos/targets/capabilities/delete;chaos studio target contributor
+I need to delete a capability resource that extends a target resource.;microsoft.chaos/targets/capabilities/delete;chaos studio target contributor
+I need to delete a capability resource that extends a target resource.;microsoft.chaos/targets/capabilities/delete;chaos studio target contributor
+I need to cancel a running chaos experiment to stop the fault injection.;microsoft.chaos/experiments/cancel/action;chaos studio operator
+I need to cancel a running chaos experiment to stop the fault injection.;microsoft.chaos/experiments/cancel/action;chaos studio operator
+I need to cancel a running chaos experiment to stop the fault injection.;microsoft.chaos/experiments/cancel/action;chaos studio operator
+I need to cancel a running chaos experiment to stop the fault injection.;microsoft.chaos/experiments/cancel/action;chaos studio operator
+I need to cancel a running chaos experiment to stop the fault injection.;microsoft.chaos/experiments/cancel/action;chaos studio operator
+I need to get usage in a location.;microsoft.labservices/locations/usages/read;lab services reader
+I need to get usage in a location.;microsoft.labservices/locations/usages/read;lab services reader
+I need to get usage in a location.;microsoft.labservices/locations/usages/read;lab services reader
+I need to get usage in a location.;microsoft.labservices/locations/usages/read;lab services reader
+I need to get usage in a location.;microsoft.labservices/locations/usages/read;lab services reader
+I need to delete the lab and all its users, schedules and virtual machines.;microsoft.labservices/labs/delete;lab contributor
+I need to delete the lab and all its users, schedules and virtual machines.;microsoft.labservices/labs/delete;lab contributor
+I need to delete the lab and all its users, schedules and virtual machines.;microsoft.labservices/labs/delete;lab contributor
+I need to delete the lab and all its users, schedules and virtual machines.;microsoft.labservices/labs/delete;lab contributor
+I need to delete the lab and all its users, schedules and virtual machines.;microsoft.labservices/labs/delete;lab contributor
+I need to update the list of users from the active directory group assigned to the lab.;microsoft.labservices/labs/syncgroup/action;lab contributor
+I need to update the list of users from the active directory group assigned to the lab.;microsoft.labservices/labs/syncgroup/action;lab contributor
+I need to update the list of users from the active directory group assigned to the lab.;microsoft.labservices/labs/syncgroup/action;lab contributor
+I need to update the list of users from the active directory group assigned to the lab.;microsoft.labservices/labs/syncgroup/action;lab contributor
+I need to update the list of users from the active directory group assigned to the lab.;microsoft.labservices/labs/syncgroup/action;lab contributor
+I need to get details of a chaos experiment execution for a given chaos experiment.;microsoft.chaos/experiments/executions/getexecutiondetails/action;chaos studio reader
+I need to get details of a chaos experiment execution for a given chaos experiment.;microsoft.chaos/experiments/executions/getexecutiondetails/action;chaos studio reader
+I need to get details of a chaos experiment execution for a given chaos experiment.;microsoft.chaos/experiments/executions/getexecutiondetails/action;chaos studio reader
+I need to get details of a chaos experiment execution for a given chaos experiment.;microsoft.chaos/experiments/executions/getexecutiondetails/action;chaos studio reader
+I need to get details of a chaos experiment execution for a given chaos experiment.;microsoft.chaos/experiments/executions/getexecutiondetails/action;chaos studio reader
+I need to allow a user to skip or delay upcoming actions.;microsoft.devcenter/projects/users/devboxes/userupcomingactionmanage/action;devcenter dev box user
+I need to allow a user to skip or delay upcoming actions.;microsoft.devcenter/projects/users/devboxes/userupcomingactionmanage/action;devcenter dev box user
+I need to allow a user to skip or delay upcoming actions.;microsoft.devcenter/projects/users/devboxes/userupcomingactionmanage/action;devcenter dev box user
+I need to allow a user to skip or delay upcoming actions.;microsoft.devcenter/projects/users/devboxes/userupcomingactionmanage/action;devcenter dev box user
+I need to allow a user to skip or delay upcoming actions.;microsoft.devcenter/projects/users/devboxes/userupcomingactionmanage/action;devcenter dev box user
+I need to get the properties of a schedule.;microsoft.labservices/labs/schedules/read;lab services reader
+I need to get the properties of a schedule.;microsoft.labservices/labs/schedules/read;lab services reader
+I need to get the properties of a schedule.;microsoft.labservices/labs/schedules/read;lab services reader
+I need to get the properties of a schedule.;microsoft.labservices/labs/schedules/read;lab services reader
+I need to get the properties of a schedule.;microsoft.labservices/labs/schedules/read;lab services reader
+I need to delete a pool.;microsoft.devopsinfrastructure/pools/delete;devops infrastructure contributor
+I need to delete a pool.;microsoft.devopsinfrastructure/pools/delete;devops infrastructure contributor
+I need to delete a pool.;microsoft.devopsinfrastructure/pools/delete;devops infrastructure contributor
+I need to delete a pool.;microsoft.devopsinfrastructure/pools/delete;devops infrastructure contributor
+I need to delete a pool.;microsoft.devopsinfrastructure/pools/delete;devops infrastructure contributor
+I need to create and manage a deployment.;microsoft.resources/deployments/*;playwright workspace contributor
+I need to create and manage a deployment.;microsoft.resources/deployments/*;playwright workspace contributor
+I need to create and manage a deployment.;microsoft.resources/deployments/*;playwright workspace contributor
+I need to create and manage a deployment.;microsoft.resources/deployments/*;playwright workspace contributor
+I need to create and manage a deployment.;microsoft.resources/deployments/*;playwright workspace contributor
+I need to get the pricing and availability of combinations of sizes, geographies, and operating systems for the lab account.;microsoft.labservices/labaccounts/getpricingandavailability/action;lab creator
+I need to get the pricing and availability of combinations of sizes, geographies, and operating systems for the lab account.;microsoft.labservices/labaccounts/getpricingandavailability/action;lab creator
+I need to get the pricing and availability of combinations of sizes, geographies, and operating systems for the lab account.;microsoft.labservices/labaccounts/getpricingandavailability/action;lab creator
+I need to get the pricing and availability of combinations of sizes, geographies, and operating systems for the lab account.;microsoft.labservices/labaccounts/getpricingandavailability/action;lab creator
+I need to get the pricing and availability of combinations of sizes, geographies, and operating systems for the lab account.;microsoft.labservices/labaccounts/getpricingandavailability/action;lab creator
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;playwright workspace reader
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;playwright workspace reader
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;playwright workspace reader
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;playwright workspace reader
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;playwright workspace reader
+I need to create new or update an existing lab.;microsoft.labservices/labs/write;lab contributor
+I need to create new or update an existing lab.;microsoft.labservices/labs/write;lab contributor
+I need to create new or update an existing lab.;microsoft.labservices/labs/write;lab contributor
+I need to create new or update an existing lab.;microsoft.labservices/labs/write;lab contributor
+I need to create new or update an existing lab.;microsoft.labservices/labs/write;lab contributor
+I need to get the properties of a user.;microsoft.labservices/labs/users/read;lab services reader
+I need to get the properties of a user.;microsoft.labservices/labs/users/read;lab services reader
+I need to get the properties of a user.;microsoft.labservices/labs/users/read;lab services reader
+I need to get the properties of a user.;microsoft.labservices/labs/users/read;lab services reader
+I need to get the properties of a user.;microsoft.labservices/labs/users/read;lab services reader
+I need to allow a user to customize their own dev box resources.;microsoft.devcenter/projects/users/devboxes/usercustomize/action;devcenter dev box user
+I need to allow a user to customize their own dev box resources.;microsoft.devcenter/projects/users/devboxes/usercustomize/action;devcenter dev box user
+I need to allow a user to customize their own dev box resources.;microsoft.devcenter/projects/users/devboxes/usercustomize/action;devcenter dev box user
+I need to allow a user to customize their own dev box resources.;microsoft.devcenter/projects/users/devboxes/usercustomize/action;devcenter dev box user
+I need to allow a user to customize their own dev box resources.;microsoft.devcenter/projects/users/devboxes/usercustomize/action;devcenter dev box user
+I need to allow a user to read their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userread/action;devcenter dev box user
+I need to allow a user to read their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userread/action;devcenter dev box user
+I need to allow a user to read their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userread/action;devcenter dev box user
+I need to allow a user to read their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userread/action;devcenter dev box user
+I need to allow a user to read their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userread/action;devcenter dev box user
+I need to allow a user to start their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userstart/action;devcenter dev box user
+I need to allow a user to start their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userstart/action;devcenter dev box user
+I need to allow a user to start their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userstart/action;devcenter dev box user
+I need to allow a user to start their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userstart/action;devcenter dev box user
+I need to allow a user to start their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userstart/action;devcenter dev box user
+I need to update a pool.;microsoft.devopsinfrastructure/pools/write;devops infrastructure contributor
+I need to update a pool.;microsoft.devopsinfrastructure/pools/write;devops infrastructure contributor
+I need to update a pool.;microsoft.devopsinfrastructure/pools/write;devops infrastructure contributor
+I need to update a pool.;microsoft.devopsinfrastructure/pools/write;devops infrastructure contributor
+I need to update a pool.;microsoft.devopsinfrastructure/pools/write;devops infrastructure contributor
+I need to create new or update an existing user.;microsoft.labservices/labs/users/write;lab operator
+I need to create new or update an existing user.;microsoft.labservices/labs/users/write;lab operator
+I need to create new or update an existing user.;microsoft.labservices/labs/users/write;lab operator
+I need to create new or update an existing user.;microsoft.labservices/labs/users/write;lab operator
+I need to create new or update an existing user.;microsoft.labservices/labs/users/write;lab operator
+I need to read lab services properties.;microsoft.labservices/labs/read;lab services reader
+I need to read lab services properties.;microsoft.labservices/labs/read;lab services reader
+I need to read lab services properties.;microsoft.labservices/labs/read;lab services reader
+I need to read lab services properties.;microsoft.labservices/labs/read;lab services reader
+I need to read lab services properties.;microsoft.labservices/labs/read;lab services reader
+I need to delete a target resource that extends a tracked resource.;microsoft.chaos/targets/delete;chaos studio target contributor
+I need to delete a target resource that extends a tracked resource.;microsoft.chaos/targets/delete;chaos studio target contributor
+I need to delete a target resource that extends a tracked resource.;microsoft.chaos/targets/delete;chaos studio target contributor
+I need to delete a target resource that extends a tracked resource.;microsoft.chaos/targets/delete;chaos studio target contributor
+I need to delete a target resource that extends a tracked resource.;microsoft.chaos/targets/delete;chaos studio target contributor
+I need to create and manage a classic metric alert.;microsoft.insights/alertrules/*;chaos studio target contributor
+I need to create and manage a classic metric alert.;microsoft.insights/alertrules/*;chaos studio target contributor
+I need to create and manage a classic metric alert.;microsoft.insights/alertrules/*;chaos studio target contributor
+I need to create and manage a classic metric alert.;microsoft.insights/alertrules/*;chaos studio target contributor
+I need to create and manage a classic metric alert.;microsoft.insights/alertrules/*;chaos studio target contributor
+I need to get all capabilities that extend a target resource.;microsoft.chaos/targets/capabilities/read;chaos studio target contributor
+I need to get all capabilities that extend a target resource.;microsoft.chaos/targets/capabilities/read;chaos studio target contributor
+I need to get all capabilities that extend a target resource.;microsoft.chaos/targets/capabilities/read;chaos studio target contributor
+I need to get all capabilities that extend a target resource.;microsoft.chaos/targets/capabilities/read;chaos studio target contributor
+I need to get all capabilities that extend a target resource.;microsoft.chaos/targets/capabilities/read;chaos studio target contributor
+I need to reimage a virtual machine to the last published image.;microsoft.labservices/labs/virtualmachines/reimage/action;lab assistant
+I need to reimage a virtual machine to the last published image.;microsoft.labservices/labs/virtualmachines/reimage/action;lab assistant
+I need to reimage a virtual machine to the last published image.;microsoft.labservices/labs/virtualmachines/reimage/action;lab assistant
+I need to reimage a virtual machine to the last published image.;microsoft.labservices/labs/virtualmachines/reimage/action;lab assistant
+I need to reimage a virtual machine to the last published image.;microsoft.labservices/labs/virtualmachines/reimage/action;lab assistant
+I need to allow a user to get the rdp connection information for their own dev box resources.;microsoft.devcenter/projects/users/devboxes/usergetremoteconnection/action;devcenter dev box user
+I need to allow a user to get the rdp connection information for their own dev box resources.;microsoft.devcenter/projects/users/devboxes/usergetremoteconnection/action;devcenter dev box user
+I need to allow a user to get the rdp connection information for their own dev box resources.;microsoft.devcenter/projects/users/devboxes/usergetremoteconnection/action;devcenter dev box user
+I need to allow a user to get the rdp connection information for their own dev box resources.;microsoft.devcenter/projects/users/devboxes/usergetremoteconnection/action;devcenter dev box user
+I need to allow a user to get the rdp connection information for their own dev box resources.;microsoft.devcenter/projects/users/devboxes/usergetremoteconnection/action;devcenter dev box user
+I need to allow a user to delete their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userdelete/action;devcenter dev box user
+I need to allow a user to delete their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userdelete/action;devcenter dev box user
+I need to allow a user to delete their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userdelete/action;devcenter dev box user
+I need to allow a user to delete their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userdelete/action;devcenter dev box user
+I need to allow a user to delete their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userdelete/action;devcenter dev box user
+I need to stop and deallocate a virtual machine.;microsoft.labservices/labs/virtualmachines/stop/action;lab assistant
+I need to stop and deallocate a virtual machine.;microsoft.labservices/labs/virtualmachines/stop/action;lab assistant
+I need to stop and deallocate a virtual machine.;microsoft.labservices/labs/virtualmachines/stop/action;lab assistant
+I need to stop and deallocate a virtual machine.;microsoft.labservices/labs/virtualmachines/stop/action;lab assistant
+I need to stop and deallocate a virtual machine.;microsoft.labservices/labs/virtualmachines/stop/action;lab assistant
+I need to get the properties of an image.;microsoft.labservices/labplans/images/read;lab services reader
+I need to get the properties of an image.;microsoft.labservices/labplans/images/read;lab services reader
+I need to get the properties of an image.;microsoft.labservices/labplans/images/read;lab services reader
+I need to get the properties of an image.;microsoft.labservices/labplans/images/read;lab services reader
+I need to get the properties of an image.;microsoft.labservices/labplans/images/read;lab services reader
+I need to allow a user to create and update their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userwrite/action;devcenter dev box user
+I need to allow a user to create and update their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userwrite/action;devcenter dev box user
+I need to allow a user to create and update their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userwrite/action;devcenter dev box user
+I need to allow a user to create and update their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userwrite/action;devcenter dev box user
+I need to allow a user to create and update their own dev box resources.;microsoft.devcenter/projects/users/devboxes/userwrite/action;devcenter dev box user
+I need to create a lab in a lab account.;microsoft.labservices/labaccounts/createlab/action;lab creator
+I need to create a lab in a lab account.;microsoft.labservices/labaccounts/createlab/action;lab creator
+I need to create a lab in a lab account.;microsoft.labservices/labaccounts/createlab/action;lab creator
+I need to create a lab in a lab account.;microsoft.labservices/labaccounts/createlab/action;lab creator
+I need to create a lab in a lab account.;microsoft.labservices/labaccounts/createlab/action;lab creator
+I need to create or update a capability resource that extends a target resource.;microsoft.chaos/targets/capabilities/write;chaos studio target contributor
+I need to create or update a capability resource that extends a target resource.;microsoft.chaos/targets/capabilities/write;chaos studio target contributor
+I need to create or update a capability resource that extends a target resource.;microsoft.chaos/targets/capabilities/write;chaos studio target contributor
+I need to create or update a capability resource that extends a target resource.;microsoft.chaos/targets/capabilities/write;chaos studio target contributor
+I need to create or update a capability resource that extends a target resource.;microsoft.chaos/targets/capabilities/write;chaos studio target contributor

@@ -1,0 +1,14 @@
+Starting Baseline Experiments.
+Category name: containers
+Explicit example 1: microsoft.network/loadbalancers/inboundnatrules/join/action
+Explicit example 2: microsoft.app/managedenvironments/read
+Wildcard example: microsoft.containerservice/fleets/endpoints/*
+Role example 1: azure container storage owner
+Role example 2: acrpush
+Invalid roles:
+azure kubernetes fleet manager rbac admin for member clusters
+azure kubernetes fleet manager rbac cluster admin
+azure kubernetes service rbac admin
+container apps sessionpools contributor
+Using model: mistralai/mistral-small-3-1-24b-instruct-2503
+Using model: mistralai/mistral-medium-2505

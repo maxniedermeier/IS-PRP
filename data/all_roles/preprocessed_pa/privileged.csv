@@ -1,0 +1,16 @@
+role_name,permission_name
+owner,*
+reservations administrator,microsoft.authorization/roleassignments/delete
+reservations administrator,microsoft.authorization/roleassignments/read
+reservations administrator,microsoft.authorization/roleassignments/write
+reservations administrator,microsoft.authorization/roledefinitions/read
+reservations administrator,microsoft.capacity/*/action
+reservations administrator,microsoft.capacity/*/read
+reservations administrator,microsoft.capacity/*/write
+role based access control administrator,*/read
+role based access control administrator,microsoft.authorization/roleassignments/delete
+role based access control administrator,microsoft.authorization/roleassignments/write
+role based access control administrator,microsoft.support/*
+user access administrator,*/read
+user access administrator,microsoft.authorization/*
+user access administrator,microsoft.support/*

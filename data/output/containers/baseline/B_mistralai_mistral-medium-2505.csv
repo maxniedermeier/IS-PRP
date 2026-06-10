@@ -1,0 +1,501 @@
+request;permission;role
+I need to return the result of adding blob content.;microsoft.storage/storageaccounts/blobservices/containers/blobs/add/action;storage blob data contributor
+I need to return the result of adding blob content.;microsoft.storage/storageaccounts/blobservices/containers/blobs/add/action;storage blob data contributor
+I need to return the result of adding blob content.;microsoft.storage/storageaccounts/blobservices/containers/blobs/add/action;storage blob data contributor
+I need to return the result of adding blob content.;microsoft.storage/storageaccounts/blobservices/containers/blobs/add/action;storage blob data contributor
+I need to return the result of adding blob content.;microsoft.storage/storageaccounts/blobservices/containers/blobs/add/action;storage blob data contributor
+I need to create the hybrid aks provisioned cluster instance.;microsoft.containerservice/fleets/managedclusters/write;azure kubernetes fleet manager rbac writer
+I need to create the hybrid aks provisioned cluster instance.;microsoft.containerservice/fleets/write;azure kubernetes fleet manager rbac writer
+I need to create the hybrid aks provisioned cluster instance.;microsoft.containerservice/fleets/managedclusters/write;azure kubernetes fleet manager rbac writer
+I need to create the hybrid aks provisioned cluster instance.;microsoft.containerservice/fleets/managedclusters/write;azure kubernetes fleet manager rbac writer
+I need to create the hybrid aks provisioned cluster instance.;microsoft.containerservice/fleets/managedclusters/write;azure kubernetes fleet manager rbac writer
+I need to delete a role assignment at the specified scope.;microsoft.authorization/roleassignments/delete;azure container storage owner
+I need to delete a role assignment at the specified scope.;microsoft.authorization/roleassignments/delete;azure container storage owner
+I need to delete a role assignment at the specified scope.;microsoft.authorization/roleassignments/delete;azure container storage owner
+I need to delete a role assignment at the specified scope.;microsoft.authorization/roleassignments/delete;azure container storage owner
+I need to delete a role assignment at the specified scope.;microsoft.authorization/roleassignments/delete;azure container storage owner
+I need to delete a cache rule from a container registry.;microsoft.containerregistry/registries/cacherules/delete;acrdelete
+I need to delete a cache rule from a container registry.;microsoft.containerregistry/registries/cacherules/delete;acrdelete
+I need to delete a cache rule from a container registry.;microsoft.containerregistry/registries/cacherules/delete;acrdelete
+I need to delete a cache rule from a container registry.;microsoft.containerregistry/registries/cacherules/delete;acrdelete
+I need to delete a cache rule from a container registry.;microsoft.containerregistry/registries/cacherules/delete;acrdelete
+I need to create or update a connected registry for a container registry with the specified parameters.;microsoft.containerregistry/registries/connectedregistries/write;acrpush
+I need to create or update a connected registry for a container registry with the specified parameters.;microsoft.containerregistry/registries/connectedregistries/write;acrpush
+I need to create or update a connected registry for a container registry with the specified parameters.;microsoft.containerregistry/registries/connectedregistries/write;acrpush
+I need to create or update a connected registry for a container registry with the specified parameters.;microsoft.containerregistry/registries/connectedregistries/write;acrpush
+I need to create or update a connected registry for a container registry with the specified parameters.;microsoft.containerregistry/registries/connectedregistries/write;acrpush
+I need to get the log sas url for a run.;microsoft.containerinstance/containergroups/exec/read;azure container instance contributor
+I need to get the log sas url for a run.;microsoft.containerinstance/containergroups/exec/read;azure container instance container exec user
+I need to get the log sas url for a run.;microsoft.containerinstance/containergroups/exec/read;azure container instance contributor
+I need to get the log sas url for a run.;microsoft.containerinstance/containergroups/exec/read;azure container instance contributor
+I need to get the log sas url for a run.;microsoft.containerinstance/containergroups/exec/read;azure container instance contributor
+I need to delete the metadata of a repository for a container registry.;microsoft.containerregistry/registries/delete;acrdelete
+I need to delete the metadata of a repository for a container registry.;microsoft.containerregistry/registries/delete;acrdelete
+I need to delete the metadata of a repository for a container registry.;microsoft.containerregistry/registries/delete;acrdelete
+I need to delete the metadata of a repository for a container registry.;microsoft.containerregistry/registries/delete;acrdelete
+I need to delete the metadata of a repository for a container registry.;microsoft.containerregistry/registries/delete;acrdelete
+I need to get the subscription operation results.;microsoft.resources/subscriptions/operationresults/read;reader
+I need to get the subscription operation results.;microsoft.resources/subscriptions/operationresults/read;reader
+I need to get the subscription operation results.;microsoft.resources/subscriptions/operationresults/read;reader
+I need to get the subscription operation results.;microsoft.resources/subscriptions/operationresults/read;reader
+I need to get the subscription operation results.;microsoft.resources/subscriptions/operationresults/read;reader
+I need to create and manage a classic metric alert.;microsoft.insights/alertrules/read;monitoring reader
+I need to create and manage a classic metric alert.;microsoft.insights/alertrules/read;monitoring reader
+I need to create and manage a classic metric alert.;microsoft.insights/alertrules/read;monitoring reader
+I need to create and manage a classic metric alert.;microsoft.insights/alertrules/read;monitoring reader
+I need to create and manage a classic metric alert.;microsoft.insights/alertrules/read;monitoring reader
+I need to delete a container apps job.;microsoft.app/jobs/delete;azure container apps jobs contributor
+I need to delete a container apps job.;microsoft.app/jobs/delete;azure container apps jobs contributor
+I need to delete a container apps job.;microsoft.app/jobs/delete;azure container apps jobs contributor
+I need to delete a container apps job.;microsoft.app/jobs/delete;azure container apps jobs contributor
+I need to delete a container apps job.;microsoft.app/jobs/delete;azure container apps jobs contributor
+I need to create or update a webhook for a container registry with the specified parameters.;microsoft.containerregistry/registries/webhooks/write;acrpush
+I need to create or update a webhook for a container registry with the specified parameters.;microsoft.containerregistry/registries/webhooks/write;acrpush
+I need to create or update a webhook for a container registry with the specified parameters.;microsoft.containerregistry/registries/webhooks/write;acrpush
+I need to create or update a webhook for a container registry with the specified parameters.;microsoft.containerregistry/registries/webhooks/write;acrpush
+I need to create or update a webhook for a container registry with the specified parameters.;microsoft.containerregistry/registries/webhooks/write;acrpush
+I need to create or update an export pipeline for a container registry with the specified parameters.;microsoft.containerregistry/registries/exportpipeline/write;acrpush
+I need to create or update an export pipeline for a container registry with the specified parameters.;microsoft.containerregistry/registries/exportpipeline/write;acrpush
+I need to create or update an export pipeline for a container registry with the specified parameters.;microsoft.containerregistry/registries/exportpipeline/write;acrpush
+I need to create or update an export pipeline for a container registry with the specified parameters.;microsoft.containerregistry/registries/exportpipeline/write;acrpush
+I need to create or update an export pipeline for a container registry with the specified parameters.;microsoft.containerregistry/registries/exportpipeline/write;acrpush
+I need to deactivate a connected registry for a container registry.;microsoft.containerregistry/registries/connectedregistries/delete;acrdelete
+I need to deactivate a connected registry for a container registry.;microsoft.containerregistry/registries/connectedregistries/delete;acrdelete
+I need to deactivate a connected registry for a container registry.;microsoft.containerregistry/registries/connectedregistries/delete;acrdelete
+I need to deactivate a connected registry for a container registry.;microsoft.containerregistry/registries/connectedregistries/delete;acrdelete
+I need to deactivate a connected registry for a container registry.;microsoft.containerregistry/registries/connectedregistries/delete;acrdelete
+I need to read connectedclusters.;microsoft.kubernetes/connectedclusters/read;azure connected kubernetes cluster user role
+I need to read connectedclusters.;microsoft.kubernetes/connectedclusters/read;azure kubernetes service rbac reader
+I need to read connectedclusters.;microsoft.kubernetes/connectedclusters/read;azure kubernetes service rbac reader
+I need to read connectedclusters.;microsoft.kubernetes/connectedclusters/read;azure kubernetes service rbac reader
+I need to read connectedclusters.;microsoft.kubernetes/connectedclusters/read;azure kubernetes service rbac reader
+I need to delete a scope map from a container registry.;microsoft.containerregistry/registries/scopemaps/delete;acrdelete
+I need to delete a scope map from a container registry.;microsoft.containerregistry/registries/scopemaps/delete;acrdelete
+I need to delete a scope map from a container registry.;microsoft.containerregistry/registries/scopemaps/delete;acrdelete
+I need to delete a scope map from a container registry.;microsoft.containerregistry/registries/scopemaps/delete;acrdelete
+I need to delete a scope map from a container registry.;microsoft.containerregistry/registries/scopemaps/delete;acrdelete
+I need to push/pull content trust metadata for a container registry.;microsoft.containerregistry/registries/content/trustmetadata/write;acrpush
+I need to push/pull content trust metadata for a container registry.;microsoft.containerregistry/registries/content/trustmetadata/write;acrpush
+I need to push/pull content trust metadata for a container registry.;microsoft.containerregistry/registries/pushpull/contenttrust/read;acrpush
+I need to push/pull content trust metadata for a container registry.;microsoft.containerregistry/registries/content/trustmetadata/write;acrpush
+I need to push/pull content trust metadata for a container registry.;microsoft.containerregistry/registries/content/trustmetadata/write;acrpush
+I need to read operations.;microsoft.insights/operations/read;reader
+I need to read operations.;microsoft.insights/operations/read;reader
+I need to read operations.;microsoft.insights/operations/read;reader
+I need to read operations.;microsoft.insights/operations/read;reader
+I need to read operations.;microsoft.insights/operations/read;reader
+I need to read upgradeprofiles.;microsoft.containerservice/managedclusters/upgradeprofiles/read;azure kubernetes service rbac reader
+I need to read upgradeprofiles.;microsoft.containerservice/managedclusters/upgradeprofiles/read;azure kubernetes service rbac reader
+I need to read upgradeprofiles.;microsoft.containerservice/managedclusters/upgradeprofiles/read;azure container service managed cluster reader
+I need to read upgradeprofiles.;microsoft.containerservice/managedclusters/upgradeprofiles/read;azure container service managed cluster reader
+I need to read upgradeprofiles.;microsoft.containerservice/managedclusters/upgradeprofiles/read;azure container service managed cluster reader
+I need to list cluster credentials of a managed namespace.;microsoft.containerservice/managedclusters/listclusterusercredentials/action;azure kubernetes service rbac reader
+I need to list cluster credentials of a managed namespace.;microsoft.containerservice/managedclusters/listclusterusercredentials/action;azure kubernetes service rbac reader
+I need to list cluster credentials of a managed namespace.;microsoft.containerservice/managedclusters/listclusterusercredentials/action;azure kubernetes service rbac reader
+I need to list cluster credentials of a managed namespace.;microsoft.containerservice/managedclusters/listclusterusercredentials/action;azure kubernetes service rbac reader
+I need to list cluster credentials of a managed namespace.;microsoft.containerservice/managedclusters/listclusterusercredentials/action;azure kubernetes service rbac reader
+I need to join a nat gateway.;microsoft.network/natgateways/join/action;network contributor
+I need to join a nat gateway.;microsoft.network/natgateways/join/action;network contributor
+I need to join a nat gateway.;microsoft.network/natgateways/join/action;network contributor
+I need to join a nat gateway.;microsoft.network/natgateways/join/action;network contributor
+I need to join a nat gateway.;microsoft.network/natgateways/join/action;network contributor
+I need to register the feature for a subscription in a given resource provider.;microsoft.resources/subscriptions/resourceproviders/register/action;azure container storage owner
+I need to register the feature for a subscription in a given resource provider.;microsoft.resources/subscriptions/resourceproviders/register/action;azure container storage owner
+I need to register the feature for a subscription in a given resource provider.;microsoft.resources/subscriptions/resourceproviders/register/action;azure container storage owner
+I need to register the feature for a subscription in a given resource provider.;microsoft.resources/subscriptions/resourceproviders/register/action;azure container storage owner
+I need to register the feature for a subscription in a given resource provider.;microsoft.resources/subscriptions/resourceproviders/register/action;contributor
+I need to create or update a replication for a container registry with the specified parameters.;microsoft.containerregistry/registries/replications/write;acrpush
+I need to create or update a replication for a container registry with the specified parameters.;microsoft.containerregistry/registries/replications/write;acrpush
+I need to create or update a replication for a container registry with the specified parameters.;microsoft.containerregistry/registries/replications/write;acrpush
+I need to create or update a replication for a container registry with the specified parameters.;microsoft.containerregistry/registries/replications/write;acrpush
+I need to create or update a replication for a container registry with the specified parameters.;microsoft.containerregistry/registries/replications/write;acrpush
+I need to create a load balancer or update an existing load balancer.;microsoft.network/loadbalancers/write;network contributor
+I need to create a load balancer or update an existing load balancer.;microsoft.network/loadbalancers/write;network contributor
+I need to create a load balancer or update an existing load balancer.;microsoft.network/loadbalancers/write;network contributor
+I need to create a load balancer or update an existing load balancer.;microsoft.network/loadbalancers/write;network contributor
+I need to create a load balancer or update an existing load balancer.;microsoft.network/loadbalancers/write;network contributor
+I need to get the feature of a subscription in a given resource provider.;microsoft.resources/subscriptions/providers/features/read;reader
+I need to get the feature of a subscription in a given resource provider.;microsoft.resources/subscriptions/providers/features/read;reader
+I need to get the feature of a subscription in a given resource provider.;microsoft.resources/subscriptions/providers/features/read;reader
+I need to get the feature of a subscription in a given resource provider.;microsoft.resources/subscriptions/providers/features/read;reader
+I need to get the feature of a subscription in a given resource provider.;microsoft.resources/subscriptions/providers/features/read;reader
+I need to move the blob from one path to another.;microsoft.storage/storageaccounts/blobservices/containers/blobs/move/action;storage blob data contributor
+I need to move the blob from one path to another.;microsoft.storage/storageaccounts/blobservices/containers/blobs/move/action;storage blob data contributor
+I need to move the blob from one path to another.;microsoft.storage/storageaccounts/blobservices/containers/blobs/move/action;storage blob data contributor
+I need to move the blob from one path to another.;microsoft.storage/storageaccounts/blobservices/containers/blobs/move/action;storage blob data contributor
+I need to move the blob from one path to another.;microsoft.storage/storageaccounts/blobservices/containers/blobs/move/action;storage blob data contributor
+I need to read secrets.;microsoft.keyvault/vaults/secrets/read;key vault secrets user
+I need to read secrets.;microsoft.keyvault/vaults/secrets/read;key vault secrets user
+I need to read secrets.;microsoft.keyvault/vaults/secrets/read;key vault secrets user
+I need to read secrets.;microsoft.keyvault/vaults/secrets/read;key vault secrets user
+I need to read secrets.;microsoft.keyvault/vaults/secrets/read;key vault secrets user
+I need to get the properties of the specified connected registry or list all the connected registries for the specified container registry.;microsoft.containerregistry/registries/connectedregistries/read;acrpull
+I need to get the properties of the specified connected registry or list all the connected registries for the specified container registry.;microsoft.containerregistry/registries/connectedregistries/read;acrpull
+I need to get the properties of the specified connected registry or list all the connected registries for the specified container registry.;microsoft.containerregistry/registries/connectedregistries/read;acrpull
+I need to get the properties of the specified connected registry or list all the connected registries for the specified container registry.;microsoft.containerregistry/registries/connectedregistries/read;acrpull
+I need to get the properties of the specified connected registry or list all the connected registries for the specified container registry.;microsoft.containerregistry/registries/connectedregistries/read;acrpull
+I need to delete an existing storage account.;microsoft.storage/storageaccounts/delete;storage account contributor
+I need to delete an existing storage account.;microsoft.storage/storageaccounts/delete;storage account contributor
+I need to delete an existing storage account.;microsoft.storage/storageaccounts/delete;storage account contributor
+I need to delete an existing storage account.;microsoft.storage/storageaccounts/delete;storage account contributor
+I need to delete an existing storage account.;microsoft.storage/storageaccounts/delete;storage account contributor
+I need to list the supported kubernetes versions from the underlying custom location.;microsoft.extendedlocation/customlocations/read;azure container storage owner
+I need to list the supported kubernetes versions from the underlying custom location.;microsoft.extendedlocation/customlocations/read;azure container storage owner
+I need to list the supported kubernetes versions from the underlying custom location.;microsoft.extendedlocation/customlocations/read;azure container storage owner
+I need to list the supported kubernetes versions from the underlying custom location.;microsoft.extendedlocation/customlocations/read;azure container storage owner
+I need to list the supported kubernetes versions from the underlying custom location.;microsoft.extendedlocation/customlocations/read;azure container storage owner
+I need to get the properties of a run against a container registry or list runs.;microsoft.containerregistry/runs/read;acrquarantine reader
+I need to get the properties of a run against a container registry or list runs.;microsoft.containerregistry/runs/read;acrquarantine reader
+I need to get the properties of a run against a container registry or list runs.;microsoft.containerregistry/runs/read;acrquarantine reader
+I need to get the properties of a run against a container registry or list runs.;microsoft.containerregistry/runs/read;acrquarantine reader
+I need to get the properties of a run against a container registry or list runs.;microsoft.containerregistry/runs/read;acrquarantine reader
+I need to get a virtual network subnet definition.;microsoft.network/virtualnetworks/subnets/read;network contributor
+I need to get a virtual network subnet definition.;microsoft.network/virtualnetworks/subnets/read;network contributor
+I need to get a virtual network subnet definition.;microsoft.network/virtualnetworks/subnets/read;reader
+I need to get a virtual network subnet definition.;microsoft.network/virtualnetworks/subnets/read;reader
+I need to get a virtual network subnet definition.;microsoft.network/virtualnetworks/subnets/read;reader
+I need to delete the private endpoint connection.;microsoft.network/privateendpointconnections/delete;none
+I need to delete the private endpoint connection.;microsoft.network/privateendpointconnections/delete;network contributor
+I need to delete the private endpoint connection.;microsoft.network/privateendpointconnections/delete;network contributor
+I need to delete the private endpoint connection.;microsoft.network/privateendpointconnections/delete;network contributor
+I need to delete the private endpoint connection.;microsoft.network/privateendpointconnections/delete;network contributor
+I need to update the properties of a virtual machine in a vm scale set.;microsoft.compute/virtualmachinescalesets/virtualmachines/write;virtual machine contributor
+I need to update the properties of a virtual machine in a vm scale set.;microsoft.compute/virtualmachinescalesets/virtualmachines/write;virtual machine contributor
+I need to update the properties of a virtual machine in a vm scale set.;microsoft.compute/virtualmachinescalesets/virtualmachines/write;virtual machine contributor
+I need to update the properties of a virtual machine in a vm scale set.;microsoft.compute/virtualmachinescalesets/virtualmachines/write;virtual machine contributor
+I need to update the properties of a virtual machine in a vm scale set.;microsoft.compute/virtualmachinescalesets/virtualmachines/write;virtual machine contributor
+I need to get a container apps job.;microsoft.app/jobs/read;azure container apps jobs reader
+I need to get a container apps job.;microsoft.app/jobs/read;azure container apps job viewer
+I need to get a container apps job.;microsoft.app/jobs/read;azure container apps jobs reader
+I need to get a container apps job.;microsoft.app/jobs/read;azure container apps job viewer
+I need to get a container apps job.;microsoft.app/jobs/read;azure container apps job viewer
+I need to get or list deployment operation statuses.;microsoft.resources/deployments/operationstatuses/read;reader
+I need to get or list deployment operation statuses.;microsoft.resources/deployments/operationstatuses/read;reader
+I need to get or list deployment operation statuses.;microsoft.resources/deployments/operationstatuses/read;reader
+I need to get or list deployment operation statuses.;microsoft.resources/deployments/operationstatuses/read;reader
+I need to get or list deployment operation statuses.;microsoft.resources/deployments/operationstatuses/read;reader
+I need to get the properties of a virtual machine scale set.;microsoft.compute/virtualmachinescalesets/read;reader
+I need to get the properties of a virtual machine scale set.;microsoft.compute/virtualmachinescalesets/read;reader
+I need to get the properties of a virtual machine scale set.;microsoft.compute/virtualmachinescalesets/read;reader
+I need to get the properties of a virtual machine scale set.;microsoft.compute/virtualmachinescalesets/read;reader
+I need to get the properties of a virtual machine scale set.;microsoft.compute/virtualmachinescalesets/read;reader
+I need to create a new availability set or update an existing one.;microsoft.compute/availabilitysets/write;contributor
+I need to create a new availability set or update an existing one.;microsoft.compute/availabilitysets/write;contributor
+I need to create a new availability set or update an existing one.;microsoft.compute/availabilitysets/write;contributor
+I need to create a new availability set or update an existing one.;microsoft.compute/availabilitysets/write;contributor
+I need to create a new availability set or update an existing one.;microsoft.compute/availabilitysets/write;contributor
+I need to put a private dns zone group.;microsoft.network/privateendpoints/privatednszonegroups/write;private dns zone contributor
+I need to put a private dns zone group.;microsoft.network/privateendpoints/privatednszonegroups/write;private dns zone contributor
+I need to put a private dns zone group.;microsoft.network/privateendpoints/privatednszonegroups/write;private dns zone contributor
+I need to put a private dns zone group.;microsoft.network/privateendpoints/privatednszonegroups/write;private dns zone contributor
+I need to put a private dns zone group.;microsoft.network/privateendpoints/privatednszonegroups/write;network contributor
+I need to get the properties of the specified webhook or list all the webhooks for the specified container registry.;microsoft.containerregistry/registries/webhooks/read;acrpush
+I need to get the properties of the specified webhook or list all the webhooks for the specified container registry.;microsoft.containerregistry/registries/webhooks/read;acrquarantine reader
+I need to get the properties of the specified webhook or list all the webhooks for the specified container registry.;microsoft.containerregistry/registries/webhooks/read;acrquarantine reader
+I need to get the properties of the specified webhook or list all the webhooks for the specified container registry.;microsoft.containerregistry/registries/webhooks/read;acrquarantine reader
+I need to get the properties of the specified webhook or list all the webhooks for the specified container registry.;microsoft.containerregistry/registries/webhooks/read;acrquarantine reader
+I need to get the virtual network definition.;microsoft.network/virtualnetworks/read;reader
+I need to get the virtual network definition.;microsoft.network/virtualnetworks/read;network contributor
+I need to get the virtual network definition.;microsoft.network/virtualnetworks/read;network contributor
+I need to get the virtual network definition.;microsoft.network/virtualnetworks/read;network contributor
+I need to get the virtual network definition.;microsoft.network/virtualnetworks/read;network contributor
+I need to update a run.;microsoft.app/containerapps/runs/write;azure container apps contributor
+I need to update a run.;microsoft.app/containerapps/runs/write;azure container apps contributor
+I need to update a run.;microsoft.containerinstance/containergroups/exec/action;azure container instance container exec user
+I need to update a run.;microsoft.app/containerapps/runs/write;azure container apps contributor
+I need to update a run.;microsoft.app/containerapps/runs/write;azure container apps contributor
+I need to get the agent pools in the hybrid aks provisioned cluster instance.;microsoft.containerservice/managedclusters/agentpools/read;azure kubernetes service rbac reader
+I need to get the agent pools in the hybrid aks provisioned cluster instance.;microsoft.containerservice/managedclusters/agentpools/read;azure kubernetes service rbac reader
+I need to get the agent pools in the hybrid aks provisioned cluster instance.;microsoft.containerservice/managedclusters/agentpools/read;azure kubernetes service rbac reader
+I need to get the agent pools in the hybrid aks provisioned cluster instance.;microsoft.containerservice/managedclusters/agentpools/read;azure kubernetes service rbac reader
+I need to get the agent pools in the hybrid aks provisioned cluster instance.;microsoft.containerservice/managedclusters/agentpools/read;azure kubernetes service rbac reader
+I need to list management groups for the authenticated user.;microsoft.management/managementgroups/read;reader
+I need to list management groups for the authenticated user.;microsoft.management/managementgroups/read;reader
+I need to list management groups for the authenticated user.;microsoft.management/managementgroups/read;reader
+I need to list management groups for the authenticated user.;microsoft.management/managementgroups/read;reader
+I need to list management groups for the authenticated user.;microsoft.management/managementgroups/read;reader
+I need to get the status of an asynchronous disk operation.;microsoft.compute/disks/operations/read;reader
+I need to get the status of an asynchronous disk operation.;microsoft.compute/disks/operations/read;reader
+I need to get the status of an asynchronous disk operation.;microsoft.compute/disks/operations/read;reader
+I need to get the status of an asynchronous disk operation.;microsoft.compute/disks/operations/read;reader
+I need to get the status of an asynchronous disk operation.;microsoft.compute/disks/operationresults/read;reader
+I need to get the properties of the specified credential set or list all the credential sets for the specified container registry.;microsoft.containerregistry/registries/credentialsets/read;acrquarantine reader
+I need to get the properties of the specified credential set or list all the credential sets for the specified container registry.;microsoft.containerregistry/registries/credentialsets/read;acrpull
+I need to get the properties of the specified credential set or list all the credential sets for the specified container registry.;microsoft.containerregistry/registries/credentialsets/read;acrquarantine reader
+I need to get the properties of the specified credential set or list all the credential sets for the specified container registry.;microsoft.containerregistry/registries/credentialsets/read;acrquarantine reader
+I need to get the properties of the specified credential set or list all the credential sets for the specified container registry.;microsoft.containerregistry/registries/credentialsets/read;acrpull
+I need to create or update an deployment.;microsoft.resources/deployments/write;contributor
+I need to create or update an deployment.;microsoft.resources/deployments/write;contributor
+I need to create or update an deployment.;microsoft.resources/deployments/write;contributor
+I need to create or update an deployment.;microsoft.resources/deployments/write;contributor
+I need to create or update an deployment.;microsoft.resources/deployments/write;contributor
+I need to create or update a classic metric alert.;microsoft.insights/alertrules/write;monitoring contributor
+I need to create or update a classic metric alert.;microsoft.insights/alertrules/write;monitoring contributor
+I need to create or update a classic metric alert.;microsoft.insights/alertrules/write;monitoring contributor
+I need to create or update a classic metric alert.;microsoft.insights/alertrules/write;monitoring contributor
+I need to create or update a classic metric alert.;microsoft.insights/alertrules/write;monitoring contributor
+I need to list the aad user credentials of a provisioned cluster instance used only in direct mode.;microsoft.containerservice/managedclusters/aadusercredentials/read;azure kubernetes service rbac reader
+I need to list the aad user credentials of a provisioned cluster instance used only in direct mode.;microsoft.containerservice/managedclusters/aadusercredentials/read;azure kubernetes service rbac reader
+I need to list the aad user credentials of a provisioned cluster instance used only in direct mode.;microsoft.containerservice/managedclusters/aadusercredentials/read;azure kubernetes service rbac reader
+I need to list the aad user credentials of a provisioned cluster instance used only in direct mode.;microsoft.containerservice/managedclusters/aadusercredentials/read;azure kubernetes service rbac reader
+I need to list the aad user credentials of a provisioned cluster instance used only in direct mode.;microsoft.containerservice/managedclusters/aadusercredentials/read;azure kubernetes service rbac reader
+I need to delete the virtual machine.;microsoft.compute/virtualmachines/delete;virtual machine contributor
+I need to delete the virtual machine.;microsoft.compute/virtualmachines/delete;virtual machine contributor
+I need to delete the virtual machine.;microsoft.compute/virtualmachines/delete;virtual machine contributor
+I need to delete the virtual machine.;microsoft.compute/virtualmachines/delete;virtual machine contributor
+I need to delete the virtual machine.;microsoft.compute/virtualmachines/delete;virtual machine contributor
+I need to create a new private endpoint, or update an existing private endpoint.;microsoft.network/privateendpoints/write;network contributor
+I need to create a new private endpoint, or update an existing private endpoint.;microsoft.network/privateendpoints/write;network contributor
+I need to create a new private endpoint, or update an existing private endpoint.;microsoft.network/privateendpoints/write;network contributor
+I need to create a new private endpoint, or update an existing private endpoint.;microsoft.network/privateendpoints/write;network contributor
+I need to create a new private endpoint, or update an existing private endpoint.;microsoft.network/privateendpoints/write;network contributor
+I need to get a public ip address definition.;microsoft.network/publicipaddresses/read;reader
+I need to get a public ip address definition.;microsoft.network/publicipaddresses/read;reader
+I need to get a public ip address definition.;microsoft.network/publicipaddresses/read;reader
+I need to get a public ip address definition.;microsoft.network/publicipaddresses/read;reader
+I need to get a public ip address definition.;microsoft.network/publicipaddresses/read;reader
+I need to create a new private link service proxy, or update an existing private link service proxy.;microsoft.network/privatelinkservices/proxies/write;network contributor
+I need to create a new private link service proxy, or update an existing private link service proxy.;microsoft.network/privatelinkservices/privateendpointconnections/write;network contributor
+I need to create a new private link service proxy, or update an existing private link service proxy.;microsoft.network/privatelinkservices/proxies/write;network contributor
+I need to create a new private link service proxy, or update an existing private link service proxy.;microsoft.network/privatelinkservices/proxies/write;network contributor
+I need to create a new private link service proxy, or update an existing private link service proxy.;microsoft.network/privatelinkservices/proxies/write;network contributor
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;reader
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;reader
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;reader
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;reader
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;reader
+I need to list secrets of a dapr component.;microsoft.app/containerapps/daprcomponents/secrets/read;azure container apps dapr components contributor
+I need to list secrets of a dapr component.;microsoft.app/containerapps/daprcomponents/secrets/read;azure container apps dapr components contributor
+I need to list secrets of a dapr component.;microsoft.app/containerapps/daprcomponents/secrets/read;azure container apps dapr components contributor
+I need to list secrets of a dapr component.;microsoft.app/containerapps/daprcomponents/secrets/read;azure container apps secrets reader
+I need to list secrets of a dapr component.;microsoft.app/containerapps/daprcomponents/secrets/read;azure container apps secrets reader
+I need to create or update an agentpool for a container registry.;microsoft.containerservice/managedclusters/agentpools/write;azure container registry owner
+I need to create or update an agentpool for a container registry.;microsoft.containerservice/managedclusters/agentpools/write;azure container registry owner
+I need to create or update an agentpool for a container registry.;microsoft.containerservice/managedclusters/agentpools/write;azure container registry owner
+I need to create or update an agentpool for a container registry.;microsoft.containerservice/managedclusters/agentpools/write;azure container registry owner
+I need to create or update an agentpool for a container registry.;microsoft.containerservice/managedclusters/agentpools/write;azure container registry owner
+I need to join a publicipprefix.;microsoft.network/publicipprefixes/join/action;network contributor
+I need to join a publicipprefix.;microsoft.network/publicipprefixes/join/action;network contributor
+I need to join a publicipprefix.;microsoft.network/publicipprefixes/join/action;network contributor
+I need to join a publicipprefix.;microsoft.network/publicipprefixes/join/action;network contributor
+I need to join a publicipprefix.;microsoft.network/publicipprefixes/join/action;network contributor
+I need to get or list federated identity credentials.;microsoft.managedidentity/userassignedidentities/federatedidentitycredentials/read;managed identity operator
+I need to get or list federated identity credentials.;microsoft.managedidentity/userassignedidentities/federatedidentitycredentials/read;managed identity operator
+I need to get or list federated identity credentials.;microsoft.containerregistry/registries/federatedcredentials/read;acrpull
+I need to get or list federated identity credentials.;microsoft.containerregistry/registries/federatedcredentials/read;acrpull
+I need to get or list federated identity credentials.;microsoft.managedidentity/userassignedidentities/federatedidentitycredentials/read;managed identity operator
+I need to get or list deployments.;microsoft.resources/deployments/read;reader
+I need to get or list deployments.;microsoft.resources/deployments/read;reader
+I need to get or list deployments.;microsoft.resources/deployments/read;reader
+I need to get or list deployments.;microsoft.resources/deployments/read;reader
+I need to get or list deployments.;microsoft.resources/deployments/read;reader
+I need to list the admin credentials of a provisioned cluster instance used only in direct mode.;microsoft.containerservice/managedclusters/listclusteradmincredential/action;azure kubernetes service cluster admin role
+I need to list the admin credentials of a provisioned cluster instance used only in direct mode.;microsoft.containerservice/managedclusters/listclusteradmincredential/action;azure kubernetes service cluster admin role
+I need to list the admin credentials of a provisioned cluster instance used only in direct mode.;microsoft.containerservice/managedclusters/listclusteradmincredential/action;azure kubernetes service cluster admin role
+I need to list the admin credentials of a provisioned cluster instance used only in direct mode.;microsoft.containerservice/managedclusters/listclusteradmincredential/action;azure kubernetes service cluster admin role
+I need to list the admin credentials of a provisioned cluster instance used only in direct mode.;microsoft.containerservice/managedclusters/listclusteradmincredential/action;azure kubernetes service cluster admin role
+I need to predict template deployment changes.;microsoft.resources/deployments/whatif/action;contributor
+I need to predict template deployment changes.;microsoft.resources/deployments/whatif/action;contributor
+I need to predict template deployment changes.;microsoft.resources/deployments/whatif/action;contributor
+I need to predict template deployment changes.;microsoft.resources/deployments/whatif/action;contributor
+I need to predict template deployment changes.;microsoft.resources/deployments/whatif/action;contributor
+I need to get the properties of the specified scope map or list all the scope maps for the specified container registry.;microsoft.containerregistry/registries/scopemaps/read;acrscopemapreader
+I need to get the properties of the specified scope map or list all the scope maps for the specified container registry.;microsoft.containerregistry/registries/scopemaps/read;acrscopemapreader
+I need to get the properties of the specified scope map or list all the scope maps for the specified container registry.;microsoft.containerregistry/registries/scopemaps/read;acrscopemapreader
+I need to get the properties of the specified scope map or list all the scope maps for the specified container registry.;microsoft.containerregistry/registries/scopemaps/read;acrscopemapreader
+I need to get the properties of the specified scope map or list all the scope maps for the specified container registry.;microsoft.containerregistry/registries/scopemaps/read;acrscopemapreader
+I need to get an azure endpoint which belongs to a traffic manager profile, including all the properties of that azure endpoint.;microsoft.network/trafficmanagerprofiles/read;reader
+I need to get an azure endpoint which belongs to a traffic manager profile, including all the properties of that azure endpoint.;microsoft.network/trafficmanagerprofiles/read;reader
+I need to get an azure endpoint which belongs to a traffic manager profile, including all the properties of that azure endpoint.;microsoft.network/trafficmanagerprofiles/read;reader
+I need to get an azure endpoint which belongs to a traffic manager profile, including all the properties of that azure endpoint.;microsoft.network/trafficmanagerprofiles/read;reader
+I need to get an azure endpoint which belongs to a traffic manager profile, including all the properties of that azure endpoint.;microsoft.network/trafficmanagerprofiles/read;reader
+I need to allow to create a container app in a managed environment.;microsoft.app/managedenvironments/containerapps/write;azure container apps contributor
+I need to allow to create a container app in a managed environment.;microsoft.app/containerapps/write;azure container apps contributor
+I need to allow to create a container app in a managed environment.;microsoft.app/managedenvironments/containerapps/write;azure container apps contributor
+I need to allow to create a container app in a managed environment.;microsoft.app/managedenvironments/containerapps/write;azure container apps contributor
+I need to allow to create a container app in a managed environment.;microsoft.app/managedenvironments/containerapps/write;azure container apps contributor
+I need to write configmaps.;microsoft.containerservice/managedclusters/configmaps/write;azure kubernetes service rbac writer
+I need to write configmaps.;microsoft.containerservice/managedclusters/configmaps/write;azure kubernetes service rbac writer
+I need to write configmaps.;microsoft.containerservice/managedclusters/configmaps/write;azure kubernetes service rbac writer
+I need to write configmaps.;microsoft.containerservice/managedclusters/configmaps/write;azure kubernetes service rbac writer
+I need to write configmaps.;microsoft.containerservice/managedclusters/configmaps/write;azure kubernetes service rbac writer
+I need to create and manage namespaces.;microsoft.containerservice/managedclusters/namespaces/write;azure kubernetes service rbac writer
+I need to create and manage namespaces.;microsoft.containerservice/fleets/namespaces/write;azure kubernetes fleet manager rbac writer
+I need to create and manage namespaces.;microsoft.containerservice/managedclusters/namespaces/write;azure kubernetes service rbac writer
+I need to create and manage namespaces.;microsoft.containerservice/fleets/namespaces/write;azure kubernetes fleet manager rbac writer
+I need to create and manage namespaces.;microsoft.containerservice/fleets/namespaces/write;azure kubernetes fleet manager rbac writer
+I need to create and manage a snapshot.;microsoft.compute/snapshots/write;contributor
+I need to create and manage a snapshot.;microsoft.compute/snapshots/write;contributor
+I need to create and manage a snapshot.;microsoft.compute/snapshots/write;azure container storage owner
+I need to create and manage a snapshot.;microsoft.compute/snapshots/write;azure container storage owner
+I need to create and manage a snapshot.;microsoft.compute/snapshots/write;contributor
+I need to get the available metrics for microsoft containerregistry.;microsoft.containerregistry/registries/metrics/read;acrquarantine reader
+I need to get the available metrics for microsoft containerregistry.;microsoft.containerregistry/registries/metrics/read;acrpull
+I need to get the available metrics for microsoft containerregistry.;microsoft.containerregistry/registries/metrics/read;acrpull
+I need to get the available metrics for microsoft containerregistry.;microsoft.containerregistry/registries/metrics/read;acrpull
+I need to get the available metrics for microsoft containerregistry.;microsoft.containerregistry/registries/metrics/read;acrpull
+I need to list file shares.;microsoft.storage/storageaccounts/fileservices/shares/read;storage file data smb share reader
+I need to list file shares.;microsoft.storage/storageaccounts/fileservices/shares/read;storage blob data reader
+I need to list file shares.;microsoft.storage/storageaccounts/fileservices/shares/read;storage file data smb share reader
+I need to list file shares.;microsoft.storage/storageaccounts/fileservices/shares/read;storage blob data reader
+I need to list file shares.;microsoft.storage/storageaccounts/fileservices/shares/read;storage blob data reader
+I need to delete a virtual network.;microsoft.network/virtualnetworks/delete;network contributor
+I need to delete a virtual network.;microsoft.network/virtualnetworks/delete;network contributor
+I need to delete a virtual network.;microsoft.network/virtualnetworks/delete;network contributor
+I need to delete a virtual network.;microsoft.network/virtualnetworks/delete;network contributor
+I need to delete a virtual network.;microsoft.network/virtualnetworks/delete;network contributor
+I need to create and manage a deployment.;microsoft.resources/deployments/write;contributor
+I need to create and manage a deployment.;microsoft.resources/deployments/write;contributor
+I need to create and manage a deployment.;microsoft.resources/deployments/write;contributor
+I need to create and manage a deployment.;microsoft.resources/deployments/write;contributor
+I need to create and manage a deployment.;microsoft.resources/deployments/write;contributor
+I need to write secrets.;microsoft.containerregistry/registries/write;acrpush
+I need to write secrets.;microsoft.containerregistry/registries/write;acrpush
+I need to write secrets.;microsoft.containerregistry/registries/write;acrpush
+I need to write secrets.;microsoft.containerregistry/registries/write;acrpush
+I need to write secrets.;microsoft.containerregistry/registries/write;acrpush
+I need to join a route table.;microsoft.network/routetables/join/action;network contributor
+I need to join a route table.;microsoft.network/routetables/join/action;network contributor
+I need to join a route table.;microsoft.network/routetables/join/action;network contributor
+I need to join a route table.;microsoft.network/routetables/join/action;network contributor
+I need to join a route table.;microsoft.network/routetables/join/action;network contributor
+I need to trigger a ping event to be sent to the webhook.;microsoft.web/connectiongateways/validate/action;none
+I need to trigger a ping event to be sent to the webhook.;microsoft.web/connectiongateways/ping/action;none
+I need to trigger a ping event to be sent to the webhook.;microsoft.web/connectiongateways/validate/action;none
+I need to trigger a ping event to be sent to the webhook.;microsoft.web/connectiongateways/validate/action;none
+I need to trigger a ping event to be sent to the webhook.;microsoft.web/connectiongateways/validate/action;none
+I need to return a blob or a list of blobs.;microsoft.storage/storageaccounts/blobservices/containers/blobs/read;storage blob data reader
+I need to return a blob or a list of blobs.;microsoft.storage/storageaccounts/blobservices/containers/blobs/read;storage blob data reader
+I need to return a blob or a list of blobs.;microsoft.storage/storageaccounts/blobservices/containers/blobs/read;storage blob data reader
+I need to return a blob or a list of blobs.;microsoft.storage/storageaccounts/blobservices/containers/blobs/read;storage blob data reader
+I need to return a blob or a list of blobs.;microsoft.storage/storageaccounts/blobservices/containers/blobs/read;storage blob data reader
+I need to create or update a pipeline run for a container registry with the specified parameters.;microsoft.containerregistry/registries/pipelineruns/write;acrpush
+I need to create or update a pipeline run for a container registry with the specified parameters.;microsoft.containerregistry/registries/pipelineruns/write;acrpush
+I need to create or update a pipeline run for a container registry with the specified parameters.;microsoft.containerregistry/registries/pipelineruns/write;acrpush
+I need to create or update a pipeline run for a container registry with the specified parameters.;microsoft.containerregistry/registries/pipelineruns/write;acrpush
+I need to create or update a pipeline run for a container registry with the specified parameters.;microsoft.containerregistry/registries/pipelineruns/write;acrpush
+I need to list the clustermonitoringuser credential of a managed cluster.;microsoft.containerservice/managedclusters/clustermonitoringusercredential/read;azure kubernetes service cluster user role
+I need to list the clustermonitoringuser credential of a managed cluster.;microsoft.containerservice/managedclusters/clustermonitoringusercredential/read;azure kubernetes service cluster user role
+I need to list the clustermonitoringuser credential of a managed cluster.;microsoft.containerservice/managedclusters/clustermonitoringusercredential/read;azure kubernetes service cluster user role
+I need to list the clustermonitoringuser credential of a managed cluster.;microsoft.containerservice/managedclusters/clustermonitoringusercredential/read;azure kubernetes service cluster user role
+I need to list the clustermonitoringuser credential of a managed cluster.;microsoft.containerservice/managedclusters/clustermonitoringusercredential/read;azure kubernetes service cluster user role
+I need to create a new virtual machine or update an existing virtual machine.;microsoft.compute/virtualmachines/write;virtual machine contributor
+I need to create a new virtual machine or update an existing virtual machine.;microsoft.compute/virtualmachines/write;virtual machine contributor
+I need to create a new virtual machine or update an existing virtual machine.;microsoft.compute/virtualmachines/write;virtual machine contributor
+I need to create a new virtual machine or update an existing virtual machine.;microsoft.compute/virtualmachines/write;virtual machine contributor
+I need to create a new virtual machine or update an existing virtual machine.;microsoft.compute/virtualmachines/write;virtual machine contributor
+I need to create and update a support ticket.;microsoft.support/supporttickets/write;none
+I need to create and update a support ticket.;microsoft.support/supporttickets/write;none
+I need to create and update a support ticket.;microsoft.support/supporttickets/write;none
+I need to create and update a support ticket.;microsoft.support/supporttickets/write;none
+I need to create and update a support ticket.;microsoft.support/supporttickets/write;none
+I need to delete a task for a container registry.;microsoft.containerregistry/tasks/delete;acrdelete
+I need to delete a task for a container registry.;microsoft.containerregistry/registries/tasks/delete;acrdelete
+I need to delete a task for a container registry.;microsoft.containerregistry/registries/tasks/delete;acrdelete
+I need to delete a task for a container registry.;microsoft.containerregistry/registries/tasks/delete;acrdelete
+I need to delete a task for a container registry.;microsoft.containerregistry/registries/tasks/delete;acrdelete
+I need to get clusters.;microsoft.containerservice/managedclusters/read;azure kubernetes service rbac reader
+I need to get clusters.;microsoft.containerservice/managedclusters/read;azure kubernetes service rbac reader
+I need to get clusters.;microsoft.containerservice/managedclusters/read;azure kubernetes service cluster user role
+I need to get clusters.;microsoft.containerservice/managedclusters/read;azure kubernetes service cluster user role
+I need to get clusters.;microsoft.containerservice/managedclusters/read;azure kubernetes service cluster user role
+I need to get information about a policy set definition.;microsoft.authorization/policysetdefinitions/read;reader
+I need to get information about a policy set definition.;microsoft.authorization/policysetdefinitions/read;reader
+I need to get information about a policy set definition.;microsoft.authorization/policysetdefinitions/read;reader
+I need to get information about a policy set definition.;microsoft.authorization/policysetdefinitions/read;reader
+I need to get information about a policy set definition.;microsoft.authorization/policysetdefinitions/read;reader
+I need to write horizontalpodautoscalers.;microsoft.containerservice/managedclusters/horizontalpodautoscalers/write;azure kubernetes service rbac writer
+I need to write horizontalpodautoscalers.;microsoft.containerservice/managedclusters/horizontalpodautoscalers/write;azure kubernetes service rbac writer
+I need to write horizontalpodautoscalers.;microsoft.containerservice/managedclusters/horizontalpodautoscalers/write;azure kubernetes service rbac writer
+I need to write horizontalpodautoscalers.;microsoft.containerservice/managedclusters/horizontalpodautoscalers/write;azure kubernetes service rbac writer
+I need to write horizontalpodautoscalers.;microsoft.containerservice/managedclusters/horizontalpodautoscalers/write;azure kubernetes service rbac writer
+I need to get a managed namespace of a managed cluster.;microsoft.containerservice/managedclusters/managednamespaces/read;azure kubernetes service rbac reader
+I need to get a managed namespace of a managed cluster.;microsoft.containerservice/managedclusters/managednamespaces/read;azure kubernetes service rbac reader
+I need to get a managed namespace of a managed cluster.;microsoft.containerservice/managedclusters/managednamespaces/read;azure kubernetes service rbac reader
+I need to get a managed namespace of a managed cluster.;microsoft.containerservice/managedclusters/managednamespaces/read;azure kubernetes service rbac reader
+I need to get a managed namespace of a managed cluster.;microsoft.containerservice/managedclusters/managednamespaces/read;azure kubernetes service rbac reader
+I need to delete a taskrun for a container registry.;microsoft.containerregistry/registries/tasks/runs/delete;acrdelete
+I need to delete a taskrun for a container registry.;microsoft.containerregistry/registries/tasks/runs/delete;acrdelete
+I need to delete a taskrun for a container registry.;microsoft.containerregistry/tasks/runs/delete;acrdelete
+I need to delete a taskrun for a container registry.;microsoft.containerregistry/registries/tasks/runs/delete;acrdelete
+I need to delete a taskrun for a container registry.;microsoft.containerregistry/registries/tasks/runs/delete;acrdelete
+I need to write jobs.;microsoft.containerinstance/containergroups/jobs/write;azure container instance jobs contributor
+I need to write jobs.;microsoft.containerinstance/containergroups/jobs/write;azure container instance jobs contributor
+I need to write jobs.;microsoft.containerinstance/containergroups/jobs/write;azure container instance jobs contributor
+I need to write jobs.;microsoft.containerinstance/containergroups/jobs/write;azure container instance jobs contributor
+I need to write jobs.;microsoft.containerinstance/containergroups/jobs/write;azure container instance jobs contributor
+I need to validate a deployment.;microsoft.resources/deployments/validate/action;contributor
+I need to validate a deployment.;microsoft.resources/deployments/validate/action;contributor
+I need to validate a deployment.;microsoft.resources/deployments/validate/action;contributor
+I need to validate a deployment.;microsoft.resources/deployments/validate/action;contributor
+I need to validate a deployment.;microsoft.resources/deployments/validate/action;contributor
+I need to get or list deployment operations.;microsoft.resources/deployments/operations/read;reader
+I need to get or list deployment operations.;microsoft.resources/deployments/operations/read;reader
+I need to get or list deployment operations.;microsoft.resources/deployments/operations/read;reader
+I need to get or list deployment operations.;microsoft.resources/deployments/operations/read;reader
+I need to get or list deployment operations.;microsoft.resources/deployments/operations/read;reader
+I need to delete the availability set.;microsoft.compute/availabilitysets/delete;contributor
+I need to delete the availability set.;microsoft.compute/availabilitysets/delete;contributor
+I need to delete the availability set.;microsoft.compute/availabilitysets/delete;contributor
+I need to delete the availability set.;microsoft.compute/availabilitysets/delete;contributor
+I need to delete the availability set.;microsoft.compute/availabilitysets/delete;contributor
+I need to write services.;microsoft.app/containerapps/services/write;azure container apps contributor
+I need to write services.;microsoft.app/containerapps/services/write;azure container apps contributor
+I need to write services.;microsoft.app/containerapps/services/write;azure container apps contributor
+I need to write services.;microsoft.app/containerapps/services/write;azure container apps contributor
+I need to write services.;microsoft.app/containerapps/services/write;azure container apps contributor
+I need to read any cluster version for a specific environment.;microsoft.app/managedenvironments/read;azure container apps environment viewer
+I need to read any cluster version for a specific environment.;microsoft.app/managedenvironments/read;azure container apps environment viewer
+I need to read any cluster version for a specific environment.;microsoft.app/managedenvironments/read;azure container apps environment viewer
+I need to read any cluster version for a specific environment.;microsoft.app/managedenvironments/read;azure container apps environment viewer
+I need to read any cluster version for a specific environment.;microsoft.app/managedenvironments/read;azure container apps environment viewer
+I need to create or update the diagnostic setting for the resource.;microsoft.insights/diagnosticsettings/write;monitoring contributor
+I need to create or update the diagnostic setting for the resource.;microsoft.insights/diagnosticsettings/write;monitoring contributor
+I need to create or update the diagnostic setting for the resource.;microsoft.insights/diagnosticsettings/write;monitoring contributor
+I need to create or update the diagnostic setting for the resource.;microsoft.insights/diagnosticsettings/write;monitoring contributor
+I need to create or update the diagnostic setting for the resource.;microsoft.insights/diagnosticsettings/write;monitoring contributor
+I need to create and manage container groups.;microsoft.containerinstance/containergroups/write;azure container instance contributor
+I need to create and manage container groups.;microsoft.containerinstance/containergroups/write;azure container instance contributor
+I need to create and manage container groups.;microsoft.containerinstance/containergroups/write;azure container instance contributor
+I need to create and manage container groups.;microsoft.containerinstance/containergroups/write;azure container instance contributor
+I need to create and manage container groups.;microsoft.containerinstance/containergroups/write;azure container instance contributor
+I need to create a new virtual machine scale set or update an existing one.;microsoft.compute/virtualmachinescalesets/write;contributor
+I need to create a new virtual machine scale set or update an existing one.;microsoft.compute/virtualmachinescalesets/write;virtual machine contributor
+I need to create a new virtual machine scale set or update an existing one.;microsoft.compute/virtualmachinescalesets/write;virtual machine contributor
+I need to create a new virtual machine scale set or update an existing one.;microsoft.compute/virtualmachinescalesets/write;virtual machine contributor
+I need to create a new virtual machine scale set or update an existing one.;microsoft.compute/virtualmachinescalesets/write;virtual machine contributor
+I need to list the clusteruser credential of a managed cluster.;microsoft.containerservice/managedclusters/clusterusercredentials/read;azure kubernetes service rbac reader
+I need to list the clusteruser credential of a managed cluster.;microsoft.containerservice/managedclusters/clusterusercredentials/read;azure kubernetes service rbac reader
+I need to list the clusteruser credential of a managed cluster.;microsoft.containerservice/managedclusters/clusterusercredentials/read;azure kubernetes service rbac reader
+I need to list the clusteruser credential of a managed cluster.;microsoft.containerservice/managedclusters/clusterusercredentials/read;azure kubernetes service rbac reader
+I need to list the clusteruser credential of a managed cluster.;microsoft.containerservice/managedclusters/clusterusercredentials/read;azure kubernetes service rbac reader
+I need to create a public ip address or update an existing public ip address.;microsoft.network/publicipaddresses/write;network contributor
+I need to create a public ip address or update an existing public ip address.;microsoft.network/publicipaddresses/write;network contributor
+I need to create a public ip address or update an existing public ip address.;microsoft.network/publicipaddresses/write;network contributor
+I need to create a public ip address or update an existing public ip address.;microsoft.network/publicipaddresses/write;network contributor
+I need to create a public ip address or update an existing public ip address.;microsoft.network/publicipaddresses/write;network contributor
+I need to read a classic metric alert incident.;microsoft.insights/alertrules/read;monitoring reader
+I need to read a classic metric alert incident.;microsoft.insights/alertrules/read;monitoring reader
+I need to read a classic metric alert incident.;microsoft.insights/alertrules/read;monitoring reader
+I need to read a classic metric alert incident.;microsoft.insights/alertrules/read;monitoring reader
+I need to read a classic metric alert incident.;microsoft.insights/alertrules/read;monitoring reader
+I need to write replicationcontrollers.;microsoft.containerservice/managedclusters/replicationcontrollers/write;azure kubernetes service rbac writer
+I need to write replicationcontrollers.;microsoft.containerservice/managedclusters/replicationcontrollers/write;azure kubernetes service rbac writer
+I need to write replicationcontrollers.;microsoft.containerservice/managedclusters/replicationcontrollers/write;azure kubernetes service rbac writer
+I need to write replicationcontrollers.;microsoft.containerservice/managedclusters/replicationcontrollers/write;azure kubernetes service rbac writer
+I need to write replicationcontrollers.;microsoft.containerservice/managedclusters/replicationcontrollers/write;azure kubernetes service rbac writer
+I need to create or update a container apps job.;microsoft.app/jobs/write;azure container apps contributor
+I need to create or update a container apps job.;microsoft.app/jobs/write;container apps contributor
+I need to create or update a container apps job.;microsoft.app/jobs/write;azure container apps contributor
+I need to create or update a container apps job.;microsoft.app/jobs/write;azure container apps contributor
+I need to create or update a container apps job.;microsoft.app/jobs/write;container apps contributor
+I need to put the vm skus resource type.;microsoft.compute/virtualmachines/read;reader
+I need to put the vm skus resource type.;microsoft.compute/virtualmachines/read;reader
+I need to put the vm skus resource type.;microsoft.compute/virtualmachines/read;reader
+I need to put the vm skus resource type.;microsoft.compute/virtualmachines/read;reader
+I need to put the vm skus resource type.;microsoft.compute/virtualmachines/skus/read;reader
+I need to write persistentvolumeclaims.;microsoft.containerservice/managedclusters/persistentvolumeclaims/write;azure kubernetes service rbac writer
+I need to write persistentvolumeclaims.;microsoft.containerservice/managedclusters/persistentvolumeclaims/write;azure kubernetes service rbac writer
+I need to write persistentvolumeclaims.;microsoft.containerservice/managedclusters/persistentvolumeclaims/write;azure kubernetes service rbac writer
+I need to write persistentvolumeclaims.;microsoft.containerservice/managedclusters/persistentvolumeclaims/write;azure kubernetes service rbac writer
+I need to write persistentvolumeclaims.;microsoft.containerservice/managedclusters/persistentvolumeclaims/write;azure kubernetes service rbac writer

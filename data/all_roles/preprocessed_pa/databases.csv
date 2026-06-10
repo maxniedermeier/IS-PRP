@@ -1,0 +1,110 @@
+role_name,permission_name
+azure connected sql server onboarding,microsoft.azurearcdata/sqlserverinstances/read
+azure connected sql server onboarding,microsoft.azurearcdata/sqlserverinstances/write
+cosmos db account reader role,microsoft.authorization/*/read
+cosmos db account reader role,microsoft.documentdb/*/read
+cosmos db account reader role,microsoft.documentdb/databaseaccounts/readonlykeys/action
+cosmos db account reader role,microsoft.insights/metricdefinitions/read
+cosmos db account reader role,microsoft.insights/metrics/read
+cosmos db account reader role,microsoft.resources/subscriptions/resourcegroups/read
+cosmos db account reader role,microsoft.support/*
+cosmosbackupoperator,microsoft.documentdb/databaseaccounts/backup/action
+cosmosbackupoperator,microsoft.documentdb/databaseaccounts/restore/action
+cosmosrestoreoperator,microsoft.documentdb/locations/restorabledatabaseaccounts/*/read
+cosmosrestoreoperator,microsoft.documentdb/locations/restorabledatabaseaccounts/read
+cosmosrestoreoperator,microsoft.documentdb/locations/restorabledatabaseaccounts/restore/action
+documentdb account contributor,microsoft.authorization/*/read
+documentdb account contributor,microsoft.documentdb/databaseaccounts/*
+documentdb account contributor,microsoft.insights/alertrules/*
+documentdb account contributor,microsoft.network/virtualnetworks/subnets/joinviaserviceendpoint/action
+documentdb account contributor,microsoft.resourcehealth/availabilitystatuses/read
+documentdb account contributor,microsoft.resources/deployments/*
+documentdb account contributor,microsoft.resources/subscriptions/resourcegroups/read
+documentdb account contributor,microsoft.support/*
+postgresql flexible server long term retention backup role,microsoft.dbforpostgresql/flexibleservers/ltrbackup/action
+postgresql flexible server long term retention backup role,microsoft.dbforpostgresql/flexibleservers/ltrbackupaccess/action
+postgresql flexible server long term retention backup role,microsoft.dbforpostgresql/flexibleservers/ltrbackupoperations/read
+postgresql flexible server long term retention backup role,microsoft.dbforpostgresql/flexibleservers/ltrbackupprecheck/action
+postgresql flexible server long term retention backup role,microsoft.dbforpostgresql/flexibleservers/ltrprebackup/action
+postgresql flexible server long term retention backup role,microsoft.dbforpostgresql/flexibleservers/ltrrestorefinalize/action
+postgresql flexible server long term retention backup role,microsoft.dbforpostgresql/flexibleservers/ltrrestoreinitialize/action
+postgresql flexible server long term retention backup role,microsoft.dbforpostgresql/flexibleservers/ltrrestoreprecheck/action
+postgresql flexible server long term retention backup role,microsoft.dbforpostgresql/flexibleservers/read
+postgresql flexible server long term retention backup role,microsoft.dbforpostgresql/flexibleservers/startltrbackup/action
+postgresql flexible server long term retention backup role,microsoft.dbforpostgresql/locations/azureasyncoperation/read
+postgresql flexible server long term retention backup role,microsoft.dbforpostgresql/locations/operationresults/read
+postgresql flexible server long term retention backup role,microsoft.resources/subscriptions/read
+postgresql flexible server long term retention backup role,microsoft.resources/subscriptions/resourcegroups/read
+redis cache contributor,microsoft.authorization/*/read
+redis cache contributor,microsoft.cache/redis/*
+redis cache contributor,microsoft.cache/register/action
+redis cache contributor,microsoft.insights/alertrules/*
+redis cache contributor,microsoft.resourcehealth/availabilitystatuses/read
+redis cache contributor,microsoft.resources/deployments/*
+redis cache contributor,microsoft.resources/subscriptions/resourcegroups/read
+redis cache contributor,microsoft.support/*
+sql security manager,microsoft.authorization/*/read
+sql security manager,microsoft.insights/alertrules/*
+sql security manager,microsoft.network/virtualnetworks/subnets/joinviaserviceendpoint/action
+sql security manager,microsoft.resourcehealth/availabilitystatuses/read
+sql security manager,microsoft.resources/deployments/*
+sql security manager,microsoft.resources/subscriptions/resourcegroups/read
+sql security manager,microsoft.security/sqlvulnerabilityassessments/*
+sql security manager,microsoft.sql/locations/administratorazureasyncoperation/read
+sql security manager,microsoft.sql/locations/ledgerdigestuploadsazureasyncoperation/read
+sql security manager,microsoft.sql/locations/ledgerdigestuploadsoperationresults/read
+sql security manager,microsoft.sql/locations/serverconfigurationoptionazureasyncoperation/read
+sql security manager,microsoft.sql/managedinstances/administrators/read
+sql security manager,microsoft.sql/managedinstances/advancedthreatprotectionsettings/read
+sql security manager,microsoft.sql/managedinstances/advancedthreatprotectionsettings/write
+sql security manager,microsoft.sql/managedinstances/azureadonlyauthentications/*
+sql security manager,microsoft.sql/managedinstances/databases/advancedthreatprotectionsettings/read
+sql security manager,microsoft.sql/managedinstances/databases/advancedthreatprotectionsettings/write
+sql security manager,microsoft.sql/managedinstances/databases/currentsensitivitylabels/*
+sql security manager,microsoft.sql/managedinstances/databases/recommendedsensitivitylabels/*
+sql security manager,microsoft.sql/managedinstances/databases/schemas/tables/columns/sensitivitylabels/*
+sql security manager,microsoft.sql/managedinstances/databases/securityalertpolicies/*
+sql security manager,microsoft.sql/managedinstances/databases/sensitivitylabels/*
+sql security manager,microsoft.sql/managedinstances/databases/transparentdataencryption/*
+sql security manager,microsoft.sql/managedinstances/databases/vulnerabilityassessments/*
+sql security manager,microsoft.sql/managedinstances/read
+sql security manager,microsoft.sql/managedinstances/securityalertpolicies/*
+sql security manager,microsoft.sql/managedinstances/serverconfigurationoptions/read
+sql security manager,microsoft.sql/managedinstances/serverconfigurationoptions/write
+sql security manager,microsoft.sql/managedinstances/vulnerabilityassessments/*
+sql security manager,microsoft.sql/servers/administrators/read
+sql security manager,microsoft.sql/servers/advancedthreatprotectionsettings/read
+sql security manager,microsoft.sql/servers/advancedthreatprotectionsettings/write
+sql security manager,microsoft.sql/servers/auditingsettings/*
+sql security manager,microsoft.sql/servers/azureadonlyauthentications/*
+sql security manager,microsoft.sql/servers/databases/advancedthreatprotectionsettings/read
+sql security manager,microsoft.sql/servers/databases/advancedthreatprotectionsettings/write
+sql security manager,microsoft.sql/servers/databases/auditingsettings/*
+sql security manager,microsoft.sql/servers/databases/auditrecords/read
+sql security manager,microsoft.sql/servers/databases/currentsensitivitylabels/*
+sql security manager,microsoft.sql/servers/databases/datamaskingpolicies/*
+sql security manager,microsoft.sql/servers/databases/extendedauditingsettings/read
+sql security manager,microsoft.sql/servers/databases/ledgerdigestuploads/*
+sql security manager,microsoft.sql/servers/databases/read
+sql security manager,microsoft.sql/servers/databases/recommendedsensitivitylabels/*
+sql security manager,microsoft.sql/servers/databases/schemas/read
+sql security manager,microsoft.sql/servers/databases/schemas/tables/columns/read
+sql security manager,microsoft.sql/servers/databases/schemas/tables/columns/sensitivitylabels/*
+sql security manager,microsoft.sql/servers/databases/schemas/tables/read
+sql security manager,microsoft.sql/servers/databases/securityalertpolicies/*
+sql security manager,microsoft.sql/servers/databases/securitymetrics/*
+sql security manager,microsoft.sql/servers/databases/sensitivitylabels/*
+sql security manager,microsoft.sql/servers/databases/sqlvulnerabilityassessments/*
+sql security manager,microsoft.sql/servers/databases/transparentdataencryption/*
+sql security manager,microsoft.sql/servers/databases/vulnerabilityassessments/*
+sql security manager,microsoft.sql/servers/databases/vulnerabilityassessmentscans/*
+sql security manager,microsoft.sql/servers/databases/vulnerabilityassessmentsettings/*
+sql security manager,microsoft.sql/servers/devopsauditingsettings/*
+sql security manager,microsoft.sql/servers/extendedauditingsettings/*
+sql security manager,microsoft.sql/servers/externalpolicybasedauthorizations/*
+sql security manager,microsoft.sql/servers/firewallrules/*
+sql security manager,microsoft.sql/servers/read
+sql security manager,microsoft.sql/servers/securityalertpolicies/*
+sql security manager,microsoft.sql/servers/sqlvulnerabilityassessments/*
+sql security manager,microsoft.sql/servers/vulnerabilityassessments/*
+sql security manager,microsoft.support/*

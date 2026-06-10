@@ -1,0 +1,126 @@
+role_name,permission_name
+azure device registry contributor,microsoft.deviceregistry/namespaces/credentials/policies/issuecertificate/action
+azure device registry contributor,microsoft.deviceregistry/namespaces/credentials/policies/read
+azure device registry contributor,microsoft.deviceregistry/namespaces/credentials/read
+azure device registry contributor,microsoft.deviceregistry/namespaces/devices/*
+azure device registry contributor,microsoft.deviceregistry/namespaces/discovereddevices/*
+azure device registry contributor,microsoft.deviceregistry/namespaces/read
+azure device registry contributor,microsoft.devices/iothubs/certificates/*
+azure device registry contributor,microsoft.devices/iothubs/devices/*
+azure device registry contributor,microsoft.devices/iothubs/read
+azure device registry credentials contributor,microsoft.deviceregistry/namespaces/credentials/*
+azure device registry credentials contributor,microsoft.deviceregistry/namespaces/credentials/policies/*
+azure device registry credentials contributor,microsoft.deviceregistry/namespaces/devices/revoke/action
+azure device registry onboarding,microsoft.deviceregistry/namespaces/credentials/*
+azure device registry onboarding,microsoft.deviceregistry/namespaces/credentials/policies/*
+azure device registry onboarding,microsoft.deviceregistry/namespaces/delete
+azure device registry onboarding,microsoft.deviceregistry/namespaces/devices/revoke/action
+azure device registry onboarding,microsoft.deviceregistry/namespaces/read
+azure device registry onboarding,microsoft.deviceregistry/namespaces/write
+azure device registry onboarding,microsoft.devices/iothubs/*
+azure device registry onboarding,microsoft.devices/provisioningservices/*
+azure device registry onboarding,microsoft.devices/provisioningservices/enrollmentgroups/*
+azure device registry onboarding,microsoft.devices/provisioningservices/enrollments/*
+azure digital twins data owner,microsoft.digitaltwins/digitaltwins/*
+azure digital twins data owner,microsoft.digitaltwins/digitaltwins/commands/*
+azure digital twins data owner,microsoft.digitaltwins/digitaltwins/relationships/*
+azure digital twins data owner,microsoft.digitaltwins/eventroutes/*
+azure digital twins data owner,microsoft.digitaltwins/jobs/*
+azure digital twins data owner,microsoft.digitaltwins/models/*
+azure digital twins data owner,microsoft.digitaltwins/query/*
+azure digital twins data reader,microsoft.digitaltwins/digitaltwins/read
+azure digital twins data reader,microsoft.digitaltwins/digitaltwins/relationships/read
+azure digital twins data reader,microsoft.digitaltwins/eventroutes/read
+azure digital twins data reader,microsoft.digitaltwins/jobs/deletions/read
+azure digital twins data reader,microsoft.digitaltwins/jobs/import/read
+azure digital twins data reader,microsoft.digitaltwins/jobs/imports/read
+azure digital twins data reader,microsoft.digitaltwins/models/read
+azure digital twins data reader,microsoft.digitaltwins/query/action
+azure iot operations administrator,microsoft.authorization/*/read
+azure iot operations administrator,microsoft.deviceregistry/assetendpointprofiles/*
+azure iot operations administrator,microsoft.deviceregistry/assets/*
+azure iot operations administrator,microsoft.deviceregistry/namespaces/assets/*
+azure iot operations administrator,microsoft.deviceregistry/namespaces/devices/*
+azure iot operations administrator,microsoft.deviceregistry/namespaces/discoveredassets/*
+azure iot operations administrator,microsoft.deviceregistry/namespaces/discovereddevices/*
+azure iot operations administrator,microsoft.deviceregistry/schemaregistries/*
+azure iot operations administrator,microsoft.edge/sites/read
+azure iot operations administrator,microsoft.insights/alertrules/*
+azure iot operations administrator,microsoft.iotoperations/*
+azure iot operations administrator,microsoft.resources/deployments/*
+azure iot operations administrator,microsoft.resources/subscriptions/resourcegroups/read
+azure iot operations onboarding,microsoft.authorization/*/read
+azure iot operations onboarding,microsoft.authorization/roleassignments/write
+azure iot operations onboarding,microsoft.deviceregistry/register/action
+azure iot operations onboarding,microsoft.deviceregistry/schemaregistries/read
+azure iot operations onboarding,microsoft.deviceregistry/schemaregistries/write
+azure iot operations onboarding,microsoft.edge/sites/read
+azure iot operations onboarding,microsoft.insights/alertrules/*
+azure iot operations onboarding,microsoft.iotoperations/*
+azure iot operations onboarding,microsoft.resources/deployments/*
+azure iot operations onboarding,microsoft.resources/subscriptions/resourcegroups/read
+device provisioning service data contributor,microsoft.devices/provisioningservices/*
+device provisioning service data reader,microsoft.devices/provisioningservices/*/read
+device update administrator,microsoft.authorization/*/read
+device update administrator,microsoft.deviceupdate/accounts/instances/management/delete
+device update administrator,microsoft.deviceupdate/accounts/instances/management/read
+device update administrator,microsoft.deviceupdate/accounts/instances/management/write
+device update administrator,microsoft.deviceupdate/accounts/instances/read
+device update administrator,microsoft.deviceupdate/accounts/instances/updates/delete
+device update administrator,microsoft.deviceupdate/accounts/instances/updates/read
+device update administrator,microsoft.deviceupdate/accounts/instances/updates/write
+device update administrator,microsoft.deviceupdate/accounts/read
+device update administrator,microsoft.insights/alertrules/*
+device update administrator,microsoft.resources/subscriptions/resourcegroups/read
+device update administrator,microsoft.support/*
+device update content administrator,microsoft.authorization/*/read
+device update content administrator,microsoft.deviceupdate/accounts/instances/read
+device update content administrator,microsoft.deviceupdate/accounts/instances/updates/delete
+device update content administrator,microsoft.deviceupdate/accounts/instances/updates/read
+device update content administrator,microsoft.deviceupdate/accounts/instances/updates/write
+device update content administrator,microsoft.deviceupdate/accounts/read
+device update content administrator,microsoft.insights/alertrules/*
+device update content administrator,microsoft.resources/subscriptions/resourcegroups/read
+device update content administrator,microsoft.support/*
+device update content reader,microsoft.authorization/*/read
+device update content reader,microsoft.deviceupdate/accounts/instances/read
+device update content reader,microsoft.deviceupdate/accounts/instances/updates/read
+device update content reader,microsoft.deviceupdate/accounts/read
+device update content reader,microsoft.insights/alertrules/*
+device update content reader,microsoft.resources/subscriptions/resourcegroups/read
+device update content reader,microsoft.support/*
+device update deployments administrator,microsoft.authorization/*/read
+device update deployments administrator,microsoft.deviceupdate/accounts/instances/management/delete
+device update deployments administrator,microsoft.deviceupdate/accounts/instances/management/read
+device update deployments administrator,microsoft.deviceupdate/accounts/instances/management/write
+device update deployments administrator,microsoft.deviceupdate/accounts/instances/read
+device update deployments administrator,microsoft.deviceupdate/accounts/instances/updates/read
+device update deployments administrator,microsoft.deviceupdate/accounts/read
+device update deployments administrator,microsoft.insights/alertrules/*
+device update deployments administrator,microsoft.resources/subscriptions/resourcegroups/read
+device update deployments administrator,microsoft.support/*
+device update deployments reader,microsoft.authorization/*/read
+device update deployments reader,microsoft.deviceupdate/accounts/instances/management/read
+device update deployments reader,microsoft.deviceupdate/accounts/instances/read
+device update deployments reader,microsoft.deviceupdate/accounts/instances/updates/read
+device update deployments reader,microsoft.deviceupdate/accounts/read
+device update deployments reader,microsoft.insights/alertrules/*
+device update deployments reader,microsoft.resources/subscriptions/resourcegroups/read
+device update deployments reader,microsoft.support/*
+device update reader,microsoft.authorization/*/read
+device update reader,microsoft.deviceupdate/accounts/instances/management/read
+device update reader,microsoft.deviceupdate/accounts/instances/read
+device update reader,microsoft.deviceupdate/accounts/instances/updates/read
+device update reader,microsoft.deviceupdate/accounts/read
+device update reader,microsoft.insights/alertrules/*
+device update reader,microsoft.resources/subscriptions/resourcegroups/read
+device update reader,microsoft.support/*
+firmware analysis admin,microsoft.authorization/*/read
+firmware analysis admin,microsoft.iotfirmwaredefense/*
+firmware analysis admin,microsoft.resources/deployments/*
+firmware analysis admin,microsoft.resources/subscriptions/resourcegroups/read
+iot hub data contributor,microsoft.devices/iothubs/*
+iot hub data reader,microsoft.devices/iothubs/*/read
+iot hub data reader,microsoft.devices/iothubs/fileupload/notifications/action
+iot hub registry contributor,microsoft.devices/iothubs/devices/*
+iot hub twin contributor,microsoft.devices/iothubs/twins/*

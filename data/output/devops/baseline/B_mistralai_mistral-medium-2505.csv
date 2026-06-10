@@ -1,0 +1,251 @@
+request;permission;role
+I need to start a chaos experiment to inject faults.;microsoft.chaos/experiments/start/action;chaos studio experiment contributor
+I need to start a chaos experiment to inject faults.;microsoft.chaos/experiments/start/action;chaos studio experiment contributor
+I need to start a chaos experiment to inject faults.;microsoft.chaos/experiments/start/action;chaos studio experiment contributor
+I need to start a chaos experiment to inject faults.;microsoft.chaos/experiments/start/action;chaos studio experiment contributor
+I need to start a chaos experiment to inject faults.;microsoft.chaos/experiments/start/action;chaos studio experiment contributor
+I need to create and manage lab services components.;microsoft.labservices/*;lab services contributor
+I need to create and manage lab services components.;microsoft.labservices/*;lab services contributor
+I need to create and manage lab services components.;microsoft.labservices/*;lab services contributor
+I need to create and manage lab services components.;microsoft.labservices/*;lab services contributor
+I need to create and manage lab services components.;microsoft.labservices/*;lab services contributor
+I need to create a lab in a lab account.;microsoft.labservices/labaccounts/labs/write;devtest labs contributor
+I need to create a lab in a lab account.;microsoft.labservices/labaccounts/labs/write;devtest labs contributor
+I need to create a lab in a lab account.;microsoft.labservices/labaccounts/labs/write;devtest labs contributor
+I need to create a lab in a lab account.;microsoft.labservices/labaccounts/labs/write;devtest labs contributor
+I need to create a lab in a lab account.;microsoft.labservices/labaccounts/labs/write;devtest labs contributor
+I need to stop and deallocate a virtual machine.;microsoft.compute/virtualmachines/deallocate/action;virtual machine contributor
+I need to stop and deallocate a virtual machine.;microsoft.compute/virtualmachines/deallocate/action;virtual machine contributor
+I need to stop and deallocate a virtual machine.;microsoft.compute/virtualmachines/deallocate/action;virtual machine contributor
+I need to stop and deallocate a virtual machine.;microsoft.compute/virtualmachines/deallocate/action;virtual machine contributor
+I need to stop and deallocate a virtual machine.;microsoft.compute/virtualmachines/deallocate/action;virtual machine contributor
+I need to redeploy a virtual machine to a different compute node.;microsoft.compute/virtualmachines/redeploy/action;virtual machine contributor
+I need to redeploy a virtual machine to a different compute node.;microsoft.compute/virtualmachines/redeploy/action;virtual machine contributor
+I need to redeploy a virtual machine to a different compute node.;microsoft.compute/virtualmachines/redeploy/action;virtual machine contributor
+I need to redeploy a virtual machine to a different compute node.;microsoft.compute/virtualmachines/redeploy/action;virtual machine contributor
+I need to redeploy a virtual machine to a different compute node.;microsoft.compute/virtualmachines/redeploy/action;virtual machine contributor
+I need to delete a pool.;microsoft.devtestlab/labs/virtualmachines/delete;devtest labs vm contributor
+I need to delete a pool.;microsoft.devtestlab/labs/virtualmachines/delete;devtest labs vm contributor
+I need to delete a pool.;microsoft.devtestlab/labs/virtualmachines/delete;devtest labs vm contributor
+I need to delete a pool.;microsoft.devtestlab/labs/virtualmachines/delete;devtest labs vm contributor
+I need to delete a pool.;microsoft.devtestlab/labs/virtualmachines/delete;devtest labs vm contributor
+I need to delete the lab and all its users, schedules and virtual machines.;microsoft.labservices/labs/delete;lab services contributor
+I need to delete the lab and all its users, schedules and virtual machines.;microsoft.labservices/labs/delete;lab services contributor
+I need to delete the lab and all its users, schedules and virtual machines.;microsoft.labservices/labs/delete;lab services contributor
+I need to delete the lab and all its users, schedules and virtual machines.;microsoft.labservices/labs/delete;lab services contributor
+I need to delete the lab and all its users, schedules and virtual machines.;microsoft.labservices/labs/delete;lab services contributor
+I need to create new or update an existing lab.;microsoft.labservices/labs/write;devtest labs contributor
+I need to create new or update an existing lab.;microsoft.labservices/labs/write;devtest labs contributor
+I need to create new or update an existing lab.;microsoft.labservices/labs/write;devtest labs contributor
+I need to create new or update an existing lab.;microsoft.labservices/labs/write;devtest labs contributor
+I need to create new or update an existing lab.;microsoft.labservices/labs/write;devtest labs contributor
+I need to unregister the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/register/action;devopsinfrastructure contributor
+I need to unregister the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/register/action;devopsinfrastructure contributor
+I need to unregister the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/register/action;devopsinfrastructure contributor
+I need to unregister the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/register/action;devopsinfrastructure contributor
+I need to unregister the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/register/action;devopsinfrastructure contributor
+I need to get the pricing and availability of combinations of sizes, geographies, and operating systems for the lab account.;microsoft.labservices/labaccounts/pricing/read;lab services contributor
+I need to get the pricing and availability of combinations of sizes, geographies, and operating systems for the lab account.;microsoft.labservices/labaccounts/pricing/read;lab services contributor
+I need to get the pricing and availability of combinations of sizes, geographies, and operating systems for the lab account.;microsoft.labservices/labaccounts/pricing/read;lab services contributor
+I need to get the pricing and availability of combinations of sizes, geographies, and operating systems for the lab account.;microsoft.labservices/labaccounts/pricing/read;lab services contributor
+I need to get the pricing and availability of combinations of sizes, geographies, and operating systems for the lab account.;microsoft.labservices/labaccounts/pricing/read;lab services contributor
+I need to allow a user to read upcoming actions.;microsoft.chaos/locations/operationstatuses/read;chaos studio experiment contributor
+I need to allow a user to read upcoming actions.;microsoft.chaos/locations/operationstatuses/read;chaos studio experiment contributor
+I need to allow a user to read upcoming actions.;microsoft.chaos/locations/operationstatuses/read;chaos studio experiment contributor
+I need to allow a user to read upcoming actions.;microsoft.chaos/locations/operationstatuses/read;chaos studio experiment contributor
+I need to allow a user to read upcoming actions.;microsoft.chaos/locations/operationstatuses/read;chaos studio experiment contributor
+I need to get all targets that extend a tracked resource.;microsoft.chaos/targets/read;chaos studio target contributor
+I need to get all targets that extend a tracked resource.;microsoft.resources/subscriptions/resourcegroups/read;reader
+I need to get all targets that extend a tracked resource.;microsoft.chaos/targets/read;chaos studio target contributor
+I need to get all targets that extend a tracked resource.;microsoft.chaos/targets/read;chaos studio target contributor
+I need to get all targets that extend a tracked resource.;microsoft.chaos/targets/read;chaos studio target contributor
+I need to read roles and role assignments.;microsoft.authorization/roleassignments/read;reader
+I need to read roles and role assignments.;microsoft.authorization/roleassignments/read;reader
+I need to read roles and role assignments.;microsoft.authorization/roleassignments/read;reader
+I need to read roles and role assignments.;microsoft.authorization/roleassignments/read;reader
+I need to read roles and role assignments.;microsoft.authorization/roleassignments/read;reader
+I need to create and manage a classic metric alert.;microsoft.insights/alertrules/read;monitoring reader
+I need to create and manage a classic metric alert.;microsoft.insights/alertrules/read;monitoring reader
+I need to create and manage a classic metric alert.;microsoft.insights/alertrules/read;monitoring reader
+I need to create and manage a classic metric alert.;microsoft.insights/alertrules/read;monitoring reader
+I need to create and manage a classic metric alert.;microsoft.insights/alertrules/read;monitoring reader
+I need to allow a user to skip or delay upcoming actions.;microsoft.chaos/locations/operationstatuses/read;chaos studio experiment contributor
+I need to allow a user to skip or delay upcoming actions.;microsoft.chaos/locations/operationstatuses/read;chaos studio experiment contributor
+I need to allow a user to skip or delay upcoming actions.;microsoft.chaos/locations/operationstatuses/read;chaos studio experiment contributor
+I need to allow a user to skip or delay upcoming actions.;microsoft.chaos/locations/operationstatuses/read;chaos studio experiment contributor
+I need to allow a user to skip or delay upcoming actions.;microsoft.chaos/locations/operationstatuses/read;chaos studio experiment contributor
+I need to allow a user to customize their own dev box resources.;microsoft.devcenter/devboxes/customize/action;devcenter dev box user
+I need to allow a user to customize their own dev box resources.;microsoft.devcenter/devboxes/customize/action;devcenter dev box user
+I need to allow a user to customize their own dev box resources.;microsoft.devcenter/devboxes/customize/action;devcenter dev box user
+I need to allow a user to customize their own dev box resources.;microsoft.devcenter/devboxes/customize/action;devcenter dev box user
+I need to allow a user to customize their own dev box resources.;microsoft.devcenter/devboxes/customize/action;devcenter dev box user
+I need to start a virtual machine.;microsoft.compute/virtualmachines/start/action;virtual machine contributor
+I need to start a virtual machine.;microsoft.compute/virtualmachines/start/action;virtual machine contributor
+I need to start a virtual machine.;microsoft.compute/virtualmachines/start/action;virtual machine contributor
+I need to start a virtual machine.;microsoft.compute/virtualmachines/start/action;virtual machine contributor
+I need to start a virtual machine.;microsoft.compute/virtualmachines/start/action;virtual machine contributor
+I need to allow a user to delete their own dev box resources.;microsoft.devcenter/devboxes/delete;devcenter dev box user
+I need to allow a user to delete their own dev box resources.;microsoft.devcenter/devboxes/delete;devcenter dev box user
+I need to allow a user to delete their own dev box resources.;microsoft.devcenter/devboxes/delete;devcenter dev box user
+I need to allow a user to delete their own dev box resources.;microsoft.devcenter/devboxes/delete;devcenter dev box user
+I need to allow a user to delete their own dev box resources.;microsoft.devcenter/devboxes/delete;devcenter dev box user
+I need to get usage in a location.;microsoft.chaos/locations/usages/read;chaos studio experiment contributor
+I need to get usage in a location.;microsoft.chaos/locations/usages/read;chaos studio experiment contributor
+I need to get usage in a location.;microsoft.chaos/locations/usages/read;chaos studio experiment contributor
+I need to get usage in a location.;microsoft.chaos/locations/usages/read;chaos studio experiment contributor
+I need to get usage in a location.;microsoft.chaos/locations/usages/read;chaos studio experiment contributor
+I need to reimage a virtual machine to the last published image.;microsoft.labservices/labs/virtualmachines/reimage/action;devtest labs contributor
+I need to reimage a virtual machine to the last published image.;microsoft.labservices/labs/virtualmachines/reimage/action;devtest labs contributor
+I need to reimage a virtual machine to the last published image.;microsoft.labservices/labs/virtualmachines/reimage/action;devtest labs contributor
+I need to reimage a virtual machine to the last published image.;microsoft.labservices/labs/virtualmachines/reimage/action;devtest labs contributor
+I need to reimage a virtual machine to the last published image.;microsoft.labservices/labs/virtualmachines/reimage/action;devtest labs contributor
+I need to delete a target resource that extends a tracked resource.;microsoft.resources/deployments/delete;contributor
+I need to delete a target resource that extends a tracked resource.;microsoft.resources/deployments/delete;contributor
+I need to delete a target resource that extends a tracked resource.;microsoft.resources/deployments/delete;contributor
+I need to delete a target resource that extends a tracked resource.;microsoft.resources/deployments/delete;contributor
+I need to delete a target resource that extends a tracked resource.;microsoft.resources/deployments/delete;contributor
+I need to get the properties of a lab plan.;microsoft.labservices/labplans/read;lab services contributor
+I need to get the properties of a lab plan.;microsoft.labservices/labplans/read;lab services contributor
+I need to get the properties of a lab plan.;microsoft.labservices/labplans/read;lab services contributor
+I need to get the properties of a lab plan.;microsoft.labservices/labplans/read;lab services contributor
+I need to get the properties of a lab plan.;microsoft.labservices/labplans/read;lab services contributor
+I need to allow a user to skip or delay dev box actions.;microsoft.devcenter/devboxes/skip/action;devcenter dev box user
+I need to allow a user to skip or delay dev box actions.;microsoft.devcenter/devboxes/skip/action;devcenter dev box user
+I need to allow a user to skip or delay dev box actions.;microsoft.devcenter/devboxes/skip/action;devcenter dev box user
+I need to allow a user to skip or delay dev box actions.;microsoft.devcenter/devboxes/skip/action;devcenter dev box user
+I need to allow a user to skip or delay dev box actions.;microsoft.devcenter/devboxes/skip/action;devcenter dev box user
+I need to create and update a support ticket.;microsoft.support/supporttickets/write;support request contributor
+I need to create and update a support ticket.;microsoft.support/supporttickets/write;support request contributor
+I need to create and update a support ticket.;microsoft.support/supporttickets/write;support request contributor
+I need to create and update a support ticket.;microsoft.support/supporttickets/write;support request contributor
+I need to create and update a support ticket.;microsoft.support/supporttickets/write;support request contributor
+I need to allow a user to read their own dev box resources.;microsoft.devcenter/devboxes/read;devcenter dev box user
+I need to allow a user to read their own dev box resources.;microsoft.devcenter/devboxes/read;devcenter dev box user
+I need to allow a user to read their own dev box resources.;microsoft.devcenter/devboxes/read;devcenter dev box user
+I need to allow a user to read their own dev box resources.;microsoft.devcenter/devboxes/read;devcenter dev box user
+I need to allow a user to read their own dev box resources.;microsoft.devcenter/devboxes/read;devcenter dev box user
+I need to delete a capability resource that extends a target resource.;microsoft.resources/deployments/capabilities/delete;contributor
+I need to delete a capability resource that extends a target resource.;microsoft.resources/deployments/capabilities/delete;contributor
+I need to delete a capability resource that extends a target resource.;microsoft.resources/deployments/capabilities/delete;contributor
+I need to delete a capability resource that extends a target resource.;microsoft.resources/deployments/capabilities/delete;chaos studio target contributor
+I need to delete a capability resource that extends a target resource.;microsoft.resources/deployments/capabilities/delete;contributor
+I need to create a new lab from a lab plan.;microsoft.labservices/labplans/saveimage/action;lab services contributor
+I need to create a new lab from a lab plan.;microsoft.labservices/labplans/saveimage/action;lab services contributor
+I need to create a new lab from a lab plan.;microsoft.labservices/labplans/saveimage/action;lab services contributor
+I need to create a new lab from a lab plan.;microsoft.labservices/labplans/saveimage/action;lab services contributor
+I need to create a new lab from a lab plan.;microsoft.labservices/labplans/saveimage/action;lab services contributor
+I need to get the properties of a schedule.;microsoft.devtestlab/schedules/read;devtest labs user
+I need to get the properties of a schedule.;microsoft.devtestlab/schedules/read;devtest labs user
+I need to get the properties of a schedule.;microsoft.devtestlab/schedules/read;devtest labs user
+I need to get the properties of a schedule.;microsoft.devtestlab/schedules/read;devtest labs user
+I need to get the properties of a schedule.;microsoft.devtestlab/schedules/read;devtest labs user
+I need to get the properties of a user.;microsoft.aad/domains/read;directory readers
+I need to get the properties of a user.;microsoft.aad/domains/read;directory readers
+I need to get the properties of a user.;microsoft.aad/domains/read;directory readers
+I need to get the properties of a user.;microsoft.aad/domains/read;directory readers
+I need to get the properties of a user.;microsoft.aad/domains/read;directory readers
+I need to allow a user to create and update their own dev box resources.;microsoft.devcenter/devboxes/write;devcenter dev box user
+I need to allow a user to create and update their own dev box resources.;microsoft.devcenter/devboxes/write;devcenter dev box user
+I need to allow a user to create and update their own dev box resources.;microsoft.devcenter/devboxes/write;devcenter dev box user
+I need to allow a user to create and update their own dev box resources.;microsoft.devcenter/devboxes/write;devcenter dev box user
+I need to allow a user to create and update their own dev box resources.;microsoft.devcenter/devboxes/write;devcenter dev box user
+I need to get the properties of a virtual machine.;microsoft.compute/virtualmachines/read;virtual machine contributor
+I need to get the properties of a virtual machine.;microsoft.compute/virtualmachines/read;virtual machine contributor
+I need to get the properties of a virtual machine.;microsoft.compute/virtualmachines/read;virtual machine contributor
+I need to get the properties of a virtual machine.;microsoft.compute/virtualmachines/read;virtual machine contributor
+I need to get the properties of a virtual machine.;microsoft.compute/virtualmachines/read;virtual machine contributor
+I need to create a role assignment at the specified scope.;microsoft.authorization/roleassignments/write;user access administrator
+I need to create a role assignment at the specified scope.;microsoft.authorization/roleassignments/write;user access administrator
+I need to create a role assignment at the specified scope.;microsoft.authorization/roleassignments/write;user access administrator
+I need to create a role assignment at the specified scope.;microsoft.authorization/roleassignments/write;user access administrator
+I need to create a role assignment at the specified scope.;microsoft.authorization/roleassignments/write;user access administrator
+I need to get the properties of a lab.;microsoft.labservices/labs/read;devtest labs contributor
+I need to get the properties of a lab.;microsoft.labservices/labs/read;devtest labs contributor
+I need to get the properties of a lab.;microsoft.labservices/labs/read;devtest labs contributor
+I need to get the properties of a lab.;microsoft.labservices/labs/read;devtest labs contributor
+I need to get the properties of a lab.;microsoft.labservices/labs/read;devtest labs contributor
+I need to cancel a running chaos experiment to stop the fault injection.;microsoft.chaos/experiments/cancel/action;chaos studio experiment contributor
+I need to cancel a running chaos experiment to stop the fault injection.;microsoft.chaos/experiments/cancel/action;chaos studio experiment contributor
+I need to cancel a running chaos experiment to stop the fault injection.;microsoft.chaos/experiments/cancel/action;chaos studio experiment contributor
+I need to cancel a running chaos experiment to stop the fault injection.;microsoft.chaos/experiments/cancel/action;chaos studio experiment contributor
+I need to cancel a running chaos experiment to stop the fault injection.;microsoft.chaos/experiments/cancel/action;chaos studio experiment contributor
+I need to create or update a capability resource that extends a target resource.;microsoft.resources/deployments/capabilities/write;contributor
+I need to create or update a capability resource that extends a target resource.;microsoft.resources/deployments/capabilities/write;contributor
+I need to create or update a capability resource that extends a target resource.;microsoft.resources/deployments/capabilities/write;contributor
+I need to create or update a capability resource that extends a target resource.;microsoft.resources/deployments/capabilities/write;contributor
+I need to create or update a capability resource that extends a target resource.;microsoft.resources/deployments/capabilities/write;contributor
+I need to create new or update an existing user.;microsoft.graph/users/write;user administrator
+I need to create new or update an existing user.;microsoft.graph/users/write;user administrator
+I need to create new or update an existing user.;microsoft.graph/users/write;user administrator
+I need to create new or update an existing user.;microsoft.graph/users/write;user administrator
+I need to create new or update an existing user.;microsoft.graph/users/write;user administrator
+I need to allow a user to stop their own dev box resources.;microsoft.devcenter/devboxes/stop/action;devcenter dev box user
+I need to allow a user to stop their own dev box resources.;microsoft.devcenter/devboxes/stop/action;devcenter dev box user
+I need to allow a user to stop their own dev box resources.;microsoft.devcenter/devboxes/stop/action;devcenter dev box user
+I need to allow a user to stop their own dev box resources.;microsoft.devcenter/devboxes/stop/action;devcenter dev box user
+I need to allow a user to stop their own dev box resources.;microsoft.devcenter/devboxes/stop/action;devcenter dev box user
+I need to update the list of users from the active directory group assigned to the lab.;microsoft.labservices/labs/users/write;devtest labs contributor
+I need to update the list of users from the active directory group assigned to the lab.;microsoft.labservices/labs/users/write;devtest labs contributor
+I need to update the list of users from the active directory group assigned to the lab.;microsoft.labservices/labs/users/write;devtest labs contributor
+I need to update the list of users from the active directory group assigned to the lab.;microsoft.labservices/labs/users/write;devtest labs contributor
+I need to update the list of users from the active directory group assigned to the lab.;microsoft.labservices/labs/users/write;devtest labs contributor
+I need to register the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/register/action;contributor
+I need to register the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/register/action;contributor
+I need to register the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/register/action;contributor
+I need to register the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/register/action;contributor
+I need to register the subscription for microsoft.devopsinfrastructure.;microsoft.devopsinfrastructure/register/action;contributor
+I need to read lab services properties.;microsoft.labservices/labs/read;lab services contributor
+I need to read lab services properties.;microsoft.labservices/labs/read;lab services contributor
+I need to read lab services properties.;microsoft.labservices/labs/read;lab services contributor
+I need to read lab services properties.;microsoft.labservices/labs/read;lab services contributor
+I need to read lab services properties.;microsoft.labservices/labs/read;lab services contributor
+I need to allow a user to start their own dev box resources.;microsoft.devcenter/devboxes/start/action;devcenter dev box user
+I need to allow a user to start their own dev box resources.;microsoft.devcenter/devboxes/start/action;devcenter dev box user
+I need to allow a user to start their own dev box resources.;microsoft.devcenter/devboxes/start/action;devcenter dev box user
+I need to allow a user to start their own dev box resources.;microsoft.devcenter/devboxes/start/action;devcenter dev box user
+I need to allow a user to start their own dev box resources.;microsoft.devcenter/devboxes/start/action;devcenter dev box user
+I need to get details of a chaos experiment execution for a given chaos experiment.;microsoft.chaos/experiments/executions/read;chaos studio experiment contributor
+I need to get details of a chaos experiment execution for a given chaos experiment.;microsoft.chaos/experiments/executions/read;chaos studio experiment contributor
+I need to get details of a chaos experiment execution for a given chaos experiment.;microsoft.chaos/experiments/executions/read;chaos studio experiment contributor
+I need to get details of a chaos experiment execution for a given chaos experiment.;microsoft.chaos/experiments/executions/read;chaos studio experiment contributor
+I need to get details of a chaos experiment execution for a given chaos experiment.;microsoft.chaos/experiments/executions/read;chaos studio experiment contributor
+I need to create and manage a deployment.;microsoft.resources/deployments/write;contributor
+I need to create and manage a deployment.;microsoft.resources/deployments/write;contributor
+I need to create and manage a deployment.;microsoft.resources/deployments/write;contributor
+I need to create and manage a deployment.;microsoft.resources/deployments/write;contributor
+I need to create and manage a deployment.;microsoft.resources/deployments/write;contributor
+I need to allow a user to get the rdp connection information for their own dev box resources.;microsoft.devcenter/devboxes/connect/action;devcenter dev box user
+I need to allow a user to get the rdp connection information for their own dev box resources.;microsoft.devcenter/devboxes/connect/action;devcenter dev box user
+I need to allow a user to get the rdp connection information for their own dev box resources.;microsoft.devcenter/devboxes/connect/action;devcenter dev box user
+I need to allow a user to get the rdp connection information for their own dev box resources.;microsoft.devcenter/devboxes/connect/action;devcenter dev box user
+I need to allow a user to get the rdp connection information for their own dev box resources.;microsoft.devcenter/devboxes/connect/action;devcenter dev box user
+I need to update a pool.;microsoft.devtestlab/labs/virtualmachines/update/action;devtest labs contributor
+I need to update a pool.;microsoft.devtestlab/labs/virtualmachines/update/action;devtest labs contributor
+I need to update a pool.;microsoft.devtestlab/labs/virtualmachines/update/action;devtest labs contributor
+I need to update a pool.;microsoft.devtestlab/labs/virtualmachines/update/action;devtest labs contributor
+I need to update a pool.;microsoft.devtestlab/labs/virtualmachines/update/action;devtest labs contributor
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;reader
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;reader
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;reader
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;reader
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;reader
+I need to get all capabilities that extend a target resource.;microsoft.resources/subscriptions/resourcegroups/read;reader
+I need to get all capabilities that extend a target resource.;microsoft.resources/subscriptions/resourcegroups/read;reader
+I need to get all capabilities that extend a target resource.;microsoft.resources/subscriptions/resourcegroups/read;reader
+I need to get all capabilities that extend a target resource.;microsoft.chaos/capabilities/read;chaos studio target contributor
+I need to get all capabilities that extend a target resource.;microsoft.resources/subscriptions/resourcegroups/read;reader
+I need to write operationstatuses.;microsoft.chaos/locations/operationstatuses/write;chaos studio contributor
+I need to write operationstatuses.;microsoft.chaos/locations/operationstatuses/write;chaos studio contributor
+I need to write operationstatuses.;microsoft.chaos/locations/operationstatuses/write;chaos studio contributor
+I need to write operationstatuses.;microsoft.chaos/locations/operationstatuses/write;chaos studio contributor
+I need to write operationstatuses.;microsoft.chaos/locations/operationstatuses/write;chaos studio contributor
+I need to get the properties of an image.;microsoft.devtestlab/labs/artifactsources/read;devtest labs user
+I need to get the properties of an image.;microsoft.devtestlab/labs/artifactsources/read;devtest labs user
+I need to get the properties of an image.;microsoft.devtestlab/labs/artifactsources/read;devtest labs user
+I need to get the properties of an image.;microsoft.devtestlab/labs/artifactsources/read;devtest labs user
+I need to get the properties of an image.;microsoft.devtestlab/labs/artifactsources/read;devtest labs user
+I need to create new or update an existing schedule.;microsoft.devtestlab/schedules/write;devtest labs contributor
+I need to create new or update an existing schedule.;microsoft.devtestlab/schedules/write;devtest labs contributor
+I need to create new or update an existing schedule.;microsoft.devtestlab/schedules/write;devtest labs contributor
+I need to create new or update an existing schedule.;microsoft.devtestlab/schedules/write;devtest labs contributor
+I need to create new or update an existing schedule.;microsoft.devtestlab/schedules/write;devtest labs contributor

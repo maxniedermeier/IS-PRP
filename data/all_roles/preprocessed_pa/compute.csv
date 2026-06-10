@@ -1,0 +1,531 @@
+role_name,permission_name
+azure arc vmware vm contributor,microsoft.authorization/*/read
+azure arc vmware vm contributor,microsoft.connectedvmwarevsphere/virtualmachineinstances/*
+azure arc vmware vm contributor,microsoft.connectedvmwarevsphere/virtualmachines/*
+azure arc vmware vm contributor,microsoft.hybridcompute/licenses/delete
+azure arc vmware vm contributor,microsoft.hybridcompute/licenses/read
+azure arc vmware vm contributor,microsoft.hybridcompute/licenses/write
+azure arc vmware vm contributor,microsoft.hybridcompute/locations/operationresults/read
+azure arc vmware vm contributor,microsoft.hybridcompute/locations/operationstatus/read
+azure arc vmware vm contributor,microsoft.hybridcompute/locations/updatecenteroperationresults/read
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/assesspatches/action
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/delete
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/extensions/delete
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/extensions/read
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/extensions/write
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/hybrididentitymetadata/read
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/installpatches/action
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/licenseprofiles/delete
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/licenseprofiles/read
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/licenseprofiles/write
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/patchassessmentresults/read
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/patchassessmentresults/softwarepatches/read
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/patchinstallationresults/read
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/patchinstallationresults/softwarepatches/read
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/read
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/runcommands/delete
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/runcommands/read
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/runcommands/write
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/upgradeextensions/action
+azure arc vmware vm contributor,microsoft.hybridcompute/machines/write
+azure arc vmware vm contributor,microsoft.hybridcompute/operations/read
+azure arc vmware vm contributor,microsoft.hybridcompute/ostype/agentversions/latest/read
+azure arc vmware vm contributor,microsoft.hybridcompute/ostype/agentversions/read
+azure arc vmware vm contributor,microsoft.insights/alertrules/activated/action
+azure arc vmware vm contributor,microsoft.insights/alertrules/delete
+azure arc vmware vm contributor,microsoft.insights/alertrules/incidents/read
+azure arc vmware vm contributor,microsoft.insights/alertrules/read
+azure arc vmware vm contributor,microsoft.insights/alertrules/resolved/action
+azure arc vmware vm contributor,microsoft.insights/alertrules/throttled/action
+azure arc vmware vm contributor,microsoft.insights/alertrules/write
+azure arc vmware vm contributor,microsoft.resourcehealth/availabilitystatuses/read
+azure arc vmware vm contributor,microsoft.resources/deployments/cancel/action
+azure arc vmware vm contributor,microsoft.resources/deployments/delete
+azure arc vmware vm contributor,microsoft.resources/deployments/exporttemplate/action
+azure arc vmware vm contributor,microsoft.resources/deployments/operations/read
+azure arc vmware vm contributor,microsoft.resources/deployments/operationstatuses/read
+azure arc vmware vm contributor,microsoft.resources/deployments/read
+azure arc vmware vm contributor,microsoft.resources/deployments/validate/action
+azure arc vmware vm contributor,microsoft.resources/deployments/whatif/action
+azure arc vmware vm contributor,microsoft.resources/deployments/write
+azure arc vmware vm contributor,microsoft.resources/subscriptions/operationresults/read
+azure arc vmware vm contributor,microsoft.resources/subscriptions/read
+azure arc vmware vm contributor,microsoft.resources/subscriptions/resourcegroups/deployments/operations/read
+azure arc vmware vm contributor,microsoft.resources/subscriptions/resourcegroups/deployments/operationstatuses/read
+azure arc vmware vm contributor,microsoft.resources/subscriptions/resourcegroups/deployments/read
+azure arc vmware vm contributor,microsoft.resources/subscriptions/resourcegroups/deployments/write
+azure arc vmware vm contributor,microsoft.resources/subscriptions/resourcegroups/read
+azure batch account contributor,microsoft.authorization/*/read
+azure batch account contributor,microsoft.batch/*
+azure batch account contributor,microsoft.insights/alertrules/*
+azure batch account contributor,microsoft.resources/deployments/*
+azure batch account contributor,microsoft.resources/subscriptions/resourcegroups/read
+azure batch account reader,microsoft.batch/*/read
+azure batch account reader,microsoft.resources/subscriptions/resourcegroups/read
+azure batch data contributor,microsoft.authorization/*/read
+azure batch data contributor,microsoft.batch/batchaccounts/applications/*
+azure batch data contributor,microsoft.batch/batchaccounts/certificateoperationresults/*
+azure batch data contributor,microsoft.batch/batchaccounts/certificates/*
+azure batch data contributor,microsoft.batch/batchaccounts/jobs/*
+azure batch data contributor,microsoft.batch/batchaccounts/jobschedules/*
+azure batch data contributor,microsoft.batch/batchaccounts/pooloperationresults/*
+azure batch data contributor,microsoft.batch/batchaccounts/pools/*
+azure batch data contributor,microsoft.batch/batchaccounts/read
+azure batch data contributor,microsoft.batch/locations/*/read
+azure batch data contributor,microsoft.insights/alertrules/*
+azure batch data contributor,microsoft.resources/deployments/*
+azure batch data contributor,microsoft.resources/subscriptions/resourcegroups/read
+azure batch job submitter,microsoft.batch/batchaccounts/applications/read
+azure batch job submitter,microsoft.batch/batchaccounts/applications/versions/read
+azure batch job submitter,microsoft.batch/batchaccounts/jobs/*
+azure batch job submitter,microsoft.batch/batchaccounts/jobschedules/*
+azure batch job submitter,microsoft.batch/batchaccounts/pools/read
+azure batch job submitter,microsoft.insights/alertrules/*
+azure batch job submitter,microsoft.resources/subscriptions/resourcegroups/read
+classic virtual machine contributor,microsoft.authorization/*/read
+classic virtual machine contributor,microsoft.classiccompute/domainnames/*
+classic virtual machine contributor,microsoft.classiccompute/virtualmachines/*
+classic virtual machine contributor,microsoft.classicnetwork/networksecuritygroups/join/action
+classic virtual machine contributor,microsoft.classicnetwork/reservedips/link/action
+classic virtual machine contributor,microsoft.classicnetwork/reservedips/read
+classic virtual machine contributor,microsoft.classicnetwork/virtualnetworks/join/action
+classic virtual machine contributor,microsoft.classicnetwork/virtualnetworks/read
+classic virtual machine contributor,microsoft.classicstorage/storageaccounts/disks/read
+classic virtual machine contributor,microsoft.classicstorage/storageaccounts/images/read
+classic virtual machine contributor,microsoft.classicstorage/storageaccounts/listkeys/action
+classic virtual machine contributor,microsoft.classicstorage/storageaccounts/read
+classic virtual machine contributor,microsoft.insights/alertrules/*
+classic virtual machine contributor,microsoft.resourcehealth/availabilitystatuses/read
+classic virtual machine contributor,microsoft.resources/deployments/*
+classic virtual machine contributor,microsoft.resources/subscriptions/resourcegroups/read
+classic virtual machine contributor,microsoft.support/*
+compute fleet contributor,microsoft.authorization/*/read
+compute fleet contributor,microsoft.azurefleet/fleets/*
+compute fleet contributor,microsoft.insights/alertrules/*
+compute fleet contributor,microsoft.resourcehealth/availabilitystatuses/read
+compute fleet contributor,microsoft.resources/deployments/*
+compute fleet contributor,microsoft.resources/subscriptions/resourcegroups/read
+compute gallery image reader,microsoft.compute/galleries/images/read
+compute gallery image reader,microsoft.compute/galleries/images/versions/read
+compute gallery sharing admin,microsoft.compute/galleries/share/action
+compute limit operator,microsoft.computelimit/locations/guestsubscriptions/delete
+compute limit operator,microsoft.computelimit/locations/guestsubscriptions/read
+compute limit operator,microsoft.computelimit/locations/guestsubscriptions/write
+compute limit operator,microsoft.computelimit/locations/sharedlimits/delete
+compute limit operator,microsoft.computelimit/locations/sharedlimits/read
+compute limit operator,microsoft.computelimit/locations/sharedlimits/write
+compute limit operator,microsoft.computelimit/register/action
+compute limit operator,microsoft.insights/alertrules/*
+compute limit operator,microsoft.resources/deployments/*
+compute limit operator,microsoft.resources/subscriptions/resourcegroups/read
+data operator for managed disks,microsoft.compute/disks/download/action
+data operator for managed disks,microsoft.compute/disks/upload/action
+data operator for managed disks,microsoft.compute/snapshots/download/action
+data operator for managed disks,microsoft.compute/snapshots/upload/action
+desktop virtualization application group contributor,microsoft.authorization/*/read
+desktop virtualization application group contributor,microsoft.desktopvirtualization/applicationgroups/*
+desktop virtualization application group contributor,microsoft.desktopvirtualization/hostpools/read
+desktop virtualization application group contributor,microsoft.desktopvirtualization/hostpools/sessionhosts/read
+desktop virtualization application group contributor,microsoft.insights/alertrules/*
+desktop virtualization application group contributor,microsoft.resources/deployments/*
+desktop virtualization application group contributor,microsoft.resources/subscriptions/resourcegroups/read
+desktop virtualization application group contributor,microsoft.support/*
+desktop virtualization application group reader,microsoft.authorization/*/read
+desktop virtualization application group reader,microsoft.desktopvirtualization/applicationgroups/*/read
+desktop virtualization application group reader,microsoft.desktopvirtualization/applicationgroups/read
+desktop virtualization application group reader,microsoft.desktopvirtualization/hostpools/read
+desktop virtualization application group reader,microsoft.desktopvirtualization/hostpools/sessionhosts/read
+desktop virtualization application group reader,microsoft.insights/alertrules/read
+desktop virtualization application group reader,microsoft.resources/deployments/read
+desktop virtualization application group reader,microsoft.resources/subscriptions/resourcegroups/read
+desktop virtualization application group reader,microsoft.support/*
+desktop virtualization contributor,microsoft.authorization/*/read
+desktop virtualization contributor,microsoft.desktopvirtualization/*
+desktop virtualization contributor,microsoft.insights/alertrules/*
+desktop virtualization contributor,microsoft.resources/deployments/*
+desktop virtualization contributor,microsoft.resources/subscriptions/resourcegroups/read
+desktop virtualization contributor,microsoft.support/*
+desktop virtualization host pool contributor,microsoft.authorization/*/read
+desktop virtualization host pool contributor,microsoft.desktopvirtualization/hostpools/*
+desktop virtualization host pool contributor,microsoft.insights/alertrules/*
+desktop virtualization host pool contributor,microsoft.resources/deployments/*
+desktop virtualization host pool contributor,microsoft.resources/subscriptions/resourcegroups/read
+desktop virtualization host pool contributor,microsoft.support/*
+desktop virtualization host pool reader,microsoft.authorization/*/read
+desktop virtualization host pool reader,microsoft.desktopvirtualization/hostpools/*/read
+desktop virtualization host pool reader,microsoft.desktopvirtualization/hostpools/read
+desktop virtualization host pool reader,microsoft.insights/alertrules/read
+desktop virtualization host pool reader,microsoft.resources/deployments/read
+desktop virtualization host pool reader,microsoft.resources/subscriptions/resourcegroups/read
+desktop virtualization host pool reader,microsoft.support/*
+desktop virtualization power on contributor,microsoft.authorization/*/read
+desktop virtualization power on contributor,microsoft.azurestackhci/operations/read
+desktop virtualization power on contributor,microsoft.azurestackhci/virtualmachineinstances/read
+desktop virtualization power on contributor,microsoft.azurestackhci/virtualmachineinstances/start/action
+desktop virtualization power on contributor,microsoft.compute/virtualmachines/instanceview/read
+desktop virtualization power on contributor,microsoft.compute/virtualmachines/read
+desktop virtualization power on contributor,microsoft.compute/virtualmachines/start/action
+desktop virtualization power on contributor,microsoft.hybridcompute/locations/operationresults/read
+desktop virtualization power on contributor,microsoft.hybridcompute/locations/operationstatus/read
+desktop virtualization power on contributor,microsoft.hybridcompute/machines/read
+desktop virtualization power on contributor,microsoft.hybridcompute/operations/read
+desktop virtualization power on contributor,microsoft.insights/alertrules/*
+desktop virtualization power on contributor,microsoft.resources/deployments/*
+desktop virtualization power on contributor,microsoft.resources/subscriptions/resourcegroups/read
+desktop virtualization power on off contributor,microsoft.authorization/*/read
+desktop virtualization power on off contributor,microsoft.azurestackhci/operations/read
+desktop virtualization power on off contributor,microsoft.azurestackhci/virtualmachineinstances/read
+desktop virtualization power on off contributor,microsoft.azurestackhci/virtualmachineinstances/restart/action
+desktop virtualization power on off contributor,microsoft.azurestackhci/virtualmachineinstances/start/action
+desktop virtualization power on off contributor,microsoft.azurestackhci/virtualmachineinstances/stop/action
+desktop virtualization power on off contributor,microsoft.compute/virtualmachines/deallocate/action
+desktop virtualization power on off contributor,microsoft.compute/virtualmachines/instanceview/read
+desktop virtualization power on off contributor,microsoft.compute/virtualmachines/poweroff/action
+desktop virtualization power on off contributor,microsoft.compute/virtualmachines/read
+desktop virtualization power on off contributor,microsoft.compute/virtualmachines/restart/action
+desktop virtualization power on off contributor,microsoft.compute/virtualmachines/start/action
+desktop virtualization power on off contributor,microsoft.computeschedule/locations/virtualmachinescanceloperations/action
+desktop virtualization power on off contributor,microsoft.computeschedule/locations/virtualmachinesexecutedeallocate/action
+desktop virtualization power on off contributor,microsoft.computeschedule/locations/virtualmachinesexecutehibernate/action
+desktop virtualization power on off contributor,microsoft.computeschedule/locations/virtualmachinesexecutestart/action
+desktop virtualization power on off contributor,microsoft.computeschedule/locations/virtualmachinesgetoperationerrors/action
+desktop virtualization power on off contributor,microsoft.computeschedule/locations/virtualmachinesgetoperationstatus/action
+desktop virtualization power on off contributor,microsoft.computeschedule/locations/virtualmachinessubmitdeallocate/action
+desktop virtualization power on off contributor,microsoft.computeschedule/locations/virtualmachinessubmithibernate/action
+desktop virtualization power on off contributor,microsoft.computeschedule/locations/virtualmachinessubmitstart/action
+desktop virtualization power on off contributor,microsoft.computeschedule/register/action
+desktop virtualization power on off contributor,microsoft.desktopvirtualization/hostpools/read
+desktop virtualization power on off contributor,microsoft.desktopvirtualization/hostpools/sessionhosts/read
+desktop virtualization power on off contributor,microsoft.desktopvirtualization/hostpools/sessionhosts/usersessions/delete
+desktop virtualization power on off contributor,microsoft.desktopvirtualization/hostpools/sessionhosts/usersessions/read
+desktop virtualization power on off contributor,microsoft.desktopvirtualization/hostpools/sessionhosts/usersessions/sendmessage/action
+desktop virtualization power on off contributor,microsoft.desktopvirtualization/hostpools/sessionhosts/write
+desktop virtualization power on off contributor,microsoft.desktopvirtualization/hostpools/write
+desktop virtualization power on off contributor,microsoft.hybridcompute/locations/operationresults/read
+desktop virtualization power on off contributor,microsoft.hybridcompute/locations/operationstatus/read
+desktop virtualization power on off contributor,microsoft.hybridcompute/machines/read
+desktop virtualization power on off contributor,microsoft.hybridcompute/operations/read
+desktop virtualization power on off contributor,microsoft.insights/alertrules/*
+desktop virtualization power on off contributor,microsoft.insights/eventtypes/values/read
+desktop virtualization power on off contributor,microsoft.resources/deployments/*
+desktop virtualization power on off contributor,microsoft.resources/subscriptions/resourcegroups/read
+desktop virtualization reader,microsoft.authorization/*/read
+desktop virtualization reader,microsoft.desktopvirtualization/*/read
+desktop virtualization reader,microsoft.insights/alertrules/read
+desktop virtualization reader,microsoft.resources/deployments/read
+desktop virtualization reader,microsoft.resources/subscriptions/resourcegroups/read
+desktop virtualization reader,microsoft.support/*
+desktop virtualization session host operator,microsoft.authorization/*/read
+desktop virtualization session host operator,microsoft.desktopvirtualization/hostpools/read
+desktop virtualization session host operator,microsoft.desktopvirtualization/hostpools/sessionhosts/*
+desktop virtualization session host operator,microsoft.insights/alertrules/*
+desktop virtualization session host operator,microsoft.resources/deployments/*
+desktop virtualization session host operator,microsoft.resources/subscriptions/resourcegroups/read
+desktop virtualization session host operator,microsoft.support/*
+desktop virtualization user,microsoft.desktopvirtualization/appattachpackages/useapplications/action
+desktop virtualization user,microsoft.desktopvirtualization/applicationgroups/useapplications/action
+desktop virtualization user session operator,microsoft.authorization/*/read
+desktop virtualization user session operator,microsoft.desktopvirtualization/hostpools/read
+desktop virtualization user session operator,microsoft.desktopvirtualization/hostpools/sessionhosts/read
+desktop virtualization user session operator,microsoft.desktopvirtualization/hostpools/sessionhosts/usersessions/*
+desktop virtualization user session operator,microsoft.insights/alertrules/*
+desktop virtualization user session operator,microsoft.resources/deployments/*
+desktop virtualization user session operator,microsoft.resources/subscriptions/resourcegroups/read
+desktop virtualization user session operator,microsoft.support/*
+desktop virtualization virtual machine contributor,microsoft.authorization/*/read
+desktop virtualization virtual machine contributor,microsoft.compute/availabilitysets/read
+desktop virtualization virtual machine contributor,microsoft.compute/availabilitysets/vmsizes/read
+desktop virtualization virtual machine contributor,microsoft.compute/availabilitysets/write
+desktop virtualization virtual machine contributor,microsoft.compute/disks/delete
+desktop virtualization virtual machine contributor,microsoft.compute/disks/read
+desktop virtualization virtual machine contributor,microsoft.compute/disks/write
+desktop virtualization virtual machine contributor,microsoft.compute/galleries/images/read
+desktop virtualization virtual machine contributor,microsoft.compute/galleries/images/versions/read
+desktop virtualization virtual machine contributor,microsoft.compute/galleries/read
+desktop virtualization virtual machine contributor,microsoft.compute/images/read
+desktop virtualization virtual machine contributor,microsoft.compute/locations/usages/read
+desktop virtualization virtual machine contributor,microsoft.compute/locations/vmsizes/read
+desktop virtualization virtual machine contributor,microsoft.compute/operations/read
+desktop virtualization virtual machine contributor,microsoft.compute/skus/read
+desktop virtualization virtual machine contributor,microsoft.compute/virtualmachines/deallocate/action
+desktop virtualization virtual machine contributor,microsoft.compute/virtualmachines/delete
+desktop virtualization virtual machine contributor,microsoft.compute/virtualmachines/extensions/delete
+desktop virtualization virtual machine contributor,microsoft.compute/virtualmachines/extensions/read
+desktop virtualization virtual machine contributor,microsoft.compute/virtualmachines/extensions/write
+desktop virtualization virtual machine contributor,microsoft.compute/virtualmachines/poweroff/action
+desktop virtualization virtual machine contributor,microsoft.compute/virtualmachines/read
+desktop virtualization virtual machine contributor,microsoft.compute/virtualmachines/restart/action
+desktop virtualization virtual machine contributor,microsoft.compute/virtualmachines/runcommand/action
+desktop virtualization virtual machine contributor,microsoft.compute/virtualmachines/runcommands/read
+desktop virtualization virtual machine contributor,microsoft.compute/virtualmachines/runcommands/write
+desktop virtualization virtual machine contributor,microsoft.compute/virtualmachines/start/action
+desktop virtualization virtual machine contributor,microsoft.compute/virtualmachines/vmsizes/read
+desktop virtualization virtual machine contributor,microsoft.compute/virtualmachines/write
+desktop virtualization virtual machine contributor,microsoft.desktopvirtualization/hostpools/donotuseinternalapi/action
+desktop virtualization virtual machine contributor,microsoft.desktopvirtualization/hostpools/read
+desktop virtualization virtual machine contributor,microsoft.desktopvirtualization/hostpools/retrieveregistrationtoken/action
+desktop virtualization virtual machine contributor,microsoft.desktopvirtualization/hostpools/sessionhostconfigurations/read
+desktop virtualization virtual machine contributor,microsoft.desktopvirtualization/hostpools/sessionhosts/delete
+desktop virtualization virtual machine contributor,microsoft.desktopvirtualization/hostpools/sessionhosts/read
+desktop virtualization virtual machine contributor,microsoft.desktopvirtualization/hostpools/sessionhosts/retryprovisioning/action
+desktop virtualization virtual machine contributor,microsoft.desktopvirtualization/hostpools/sessionhosts/usersessions/disconnect/action
+desktop virtualization virtual machine contributor,microsoft.desktopvirtualization/hostpools/sessionhosts/usersessions/read
+desktop virtualization virtual machine contributor,microsoft.desktopvirtualization/hostpools/sessionhosts/usersessions/sendmessage/action
+desktop virtualization virtual machine contributor,microsoft.desktopvirtualization/hostpools/sessionhosts/write
+desktop virtualization virtual machine contributor,microsoft.desktopvirtualization/hostpools/write
+desktop virtualization virtual machine contributor,microsoft.desktopvirtualization/scalingplans/read
+desktop virtualization virtual machine contributor,microsoft.desktopvirtualization/scalingplans/write
+desktop virtualization virtual machine contributor,microsoft.insights/alertrules/*
+desktop virtualization virtual machine contributor,microsoft.keyvault/vaults/deploy/action
+desktop virtualization virtual machine contributor,microsoft.marketplace/offertypes/publishers/offers/plans/agreements/read
+desktop virtualization virtual machine contributor,microsoft.network/networkinterfaces/delete
+desktop virtualization virtual machine contributor,microsoft.network/networkinterfaces/join/action
+desktop virtualization virtual machine contributor,microsoft.network/networkinterfaces/read
+desktop virtualization virtual machine contributor,microsoft.network/networkinterfaces/write
+desktop virtualization virtual machine contributor,microsoft.network/networksecuritygroups/read
+desktop virtualization virtual machine contributor,microsoft.network/virtualnetworks/read
+desktop virtualization virtual machine contributor,microsoft.network/virtualnetworks/subnets/join/action
+desktop virtualization virtual machine contributor,microsoft.network/virtualnetworks/subnets/read
+desktop virtualization virtual machine contributor,microsoft.network/virtualnetworks/usages/read
+desktop virtualization virtual machine contributor,microsoft.resources/deployments/*
+desktop virtualization virtual machine contributor,microsoft.resources/subscriptions/resourcegroups/read
+desktop virtualization virtual machine contributor,microsoft.storage/storageaccounts/read
+desktop virtualization workspace contributor,microsoft.authorization/*/read
+desktop virtualization workspace contributor,microsoft.desktopvirtualization/applicationgroups/read
+desktop virtualization workspace contributor,microsoft.desktopvirtualization/workspaces/*
+desktop virtualization workspace contributor,microsoft.insights/alertrules/*
+desktop virtualization workspace contributor,microsoft.resources/deployments/*
+desktop virtualization workspace contributor,microsoft.resources/subscriptions/resourcegroups/read
+desktop virtualization workspace contributor,microsoft.support/*
+desktop virtualization workspace reader,microsoft.authorization/*/read
+desktop virtualization workspace reader,microsoft.desktopvirtualization/applicationgroups/read
+desktop virtualization workspace reader,microsoft.desktopvirtualization/workspaces/read
+desktop virtualization workspace reader,microsoft.insights/alertrules/read
+desktop virtualization workspace reader,microsoft.resources/deployments/read
+desktop virtualization workspace reader,microsoft.resources/subscriptions/resourcegroups/read
+desktop virtualization workspace reader,microsoft.support/*
+disk backup reader,microsoft.authorization/*/read
+disk backup reader,microsoft.compute/disks/begingetaccess/action
+disk backup reader,microsoft.compute/disks/read
+disk pool operator,microsoft.authorization/*/read
+disk pool operator,microsoft.compute/disks/read
+disk pool operator,microsoft.compute/disks/write
+disk pool operator,microsoft.insights/alertrules/*
+disk pool operator,microsoft.resources/deployments/*
+disk pool operator,microsoft.resources/subscriptions/resourcegroups/read
+disk restore operator,microsoft.authorization/*/read
+disk restore operator,microsoft.compute/disks/begingetaccess/action
+disk restore operator,microsoft.compute/disks/endgetaccess/action
+disk restore operator,microsoft.compute/disks/read
+disk restore operator,microsoft.compute/disks/write
+disk restore operator,microsoft.resources/subscriptions/resourcegroups/read
+disk snapshot contributor,microsoft.authorization/*/read
+disk snapshot contributor,microsoft.compute/disks/begingetaccess/action
+disk snapshot contributor,microsoft.compute/snapshots/begingetaccess/action
+disk snapshot contributor,microsoft.compute/snapshots/delete
+disk snapshot contributor,microsoft.compute/snapshots/endgetaccess/action
+disk snapshot contributor,microsoft.compute/snapshots/read
+disk snapshot contributor,microsoft.compute/snapshots/write
+disk snapshot contributor,microsoft.resources/subscriptions/resourcegroups/read
+disk snapshot contributor,microsoft.storage/storageaccounts/delete
+disk snapshot contributor,microsoft.storage/storageaccounts/listkeys/action
+disk snapshot contributor,microsoft.storage/storageaccounts/read
+disk snapshot contributor,microsoft.storage/storageaccounts/write
+quantum workspace data contributor,microsoft.authorization/*/read
+quantum workspace data contributor,microsoft.insights/alertrules/*
+quantum workspace data contributor,microsoft.quantum/locations/offerings/read
+quantum workspace data contributor,microsoft.quantum/workspaces/jobs/read
+quantum workspace data contributor,microsoft.quantum/workspaces/jobs/write
+quantum workspace data contributor,microsoft.quantum/workspaces/read
+quantum workspace data contributor,microsoft.resources/deployments/*
+quantum workspace data contributor,microsoft.resources/subscriptions/resourcegroups/read
+virtual machine administrator login,microsoft.compute/virtualmachines/*/read
+virtual machine administrator login,microsoft.compute/virtualmachines/login/action
+virtual machine administrator login,microsoft.compute/virtualmachines/loginasadmin/action
+virtual machine administrator login,microsoft.hybridcompute/machines/*/read
+virtual machine administrator login,microsoft.hybridcompute/machines/login/action
+virtual machine administrator login,microsoft.hybridcompute/machines/loginasadmin/action
+virtual machine administrator login,microsoft.hybridconnectivity/endpoints/listcredentials/action
+virtual machine administrator login,microsoft.network/loadbalancers/read
+virtual machine administrator login,microsoft.network/networkinterfaces/read
+virtual machine administrator login,microsoft.network/publicipaddresses/read
+virtual machine administrator login,microsoft.network/virtualnetworks/read
+virtual machine contributor,microsoft.authorization/*/read
+virtual machine contributor,microsoft.compute/availabilitysets/*
+virtual machine contributor,microsoft.compute/cloudservices/*
+virtual machine contributor,microsoft.compute/disks/delete
+virtual machine contributor,microsoft.compute/disks/read
+virtual machine contributor,microsoft.compute/disks/write
+virtual machine contributor,microsoft.compute/hostgroups/hosts/write
+virtual machine contributor,microsoft.compute/hostgroups/write
+virtual machine contributor,microsoft.compute/locations/*
+virtual machine contributor,microsoft.compute/virtualmachines/*
+virtual machine contributor,microsoft.compute/virtualmachinescalesets/*
+virtual machine contributor,microsoft.devtestlab/schedules/*
+virtual machine contributor,microsoft.insights/alertrules/*
+virtual machine contributor,microsoft.network/applicationgateways/backendaddresspools/join/action
+virtual machine contributor,microsoft.network/loadbalancers/backendaddresspools/join/action
+virtual machine contributor,microsoft.network/loadbalancers/inboundnatpools/join/action
+virtual machine contributor,microsoft.network/loadbalancers/inboundnatrules/join/action
+virtual machine contributor,microsoft.network/loadbalancers/probes/join/action
+virtual machine contributor,microsoft.network/loadbalancers/read
+virtual machine contributor,microsoft.network/locations/*
+virtual machine contributor,microsoft.network/networkinterfaces/*
+virtual machine contributor,microsoft.network/networksecuritygroups/join/action
+virtual machine contributor,microsoft.network/networksecuritygroups/read
+virtual machine contributor,microsoft.network/publicipaddresses/join/action
+virtual machine contributor,microsoft.network/publicipaddresses/read
+virtual machine contributor,microsoft.network/virtualnetworks/read
+virtual machine contributor,microsoft.network/virtualnetworks/subnets/join/action
+virtual machine contributor,microsoft.recoveryservices/locations/*
+virtual machine contributor,microsoft.recoveryservices/vaults/backupfabrics/backupprotectionintent/write
+virtual machine contributor,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/*/read
+virtual machine contributor,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/read
+virtual machine contributor,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/write
+virtual machine contributor,microsoft.recoveryservices/vaults/backuppolicies/read
+virtual machine contributor,microsoft.recoveryservices/vaults/backuppolicies/write
+virtual machine contributor,microsoft.recoveryservices/vaults/read
+virtual machine contributor,microsoft.recoveryservices/vaults/usages/read
+virtual machine contributor,microsoft.recoveryservices/vaults/write
+virtual machine contributor,microsoft.resourcehealth/availabilitystatuses/read
+virtual machine contributor,microsoft.resources/deployments/*
+virtual machine contributor,microsoft.resources/subscriptions/resourcegroups/read
+virtual machine contributor,microsoft.serialconsole/serialports/connect/action
+virtual machine contributor,microsoft.sqlvirtualmachine/*
+virtual machine contributor,microsoft.storage/storageaccounts/listkeys/action
+virtual machine contributor,microsoft.storage/storageaccounts/read
+virtual machine contributor,microsoft.support/*
+virtual machine data access administrator (preview),microsoft.authorization/*/read
+virtual machine data access administrator (preview),microsoft.authorization/roleassignments/delete
+virtual machine data access administrator (preview),microsoft.authorization/roleassignments/write
+virtual machine data access administrator (preview),microsoft.compute/virtualmachines/*/read
+virtual machine data access administrator (preview),microsoft.hybridcompute/machines/*/read
+virtual machine data access administrator (preview),microsoft.management/managementgroups/read
+virtual machine data access administrator (preview),microsoft.network/loadbalancers/read
+virtual machine data access administrator (preview),microsoft.network/networkinterfaces/read
+virtual machine data access administrator (preview),microsoft.network/publicipaddresses/read
+virtual machine data access administrator (preview),microsoft.network/virtualnetworks/read
+virtual machine data access administrator (preview),microsoft.resources/deployments/*
+virtual machine data access administrator (preview),microsoft.resources/subscriptions/read
+virtual machine data access administrator (preview),microsoft.resources/subscriptions/resourcegroups/read
+virtual machine data access administrator (preview),microsoft.support/*
+virtual machine local user login,microsoft.hybridcompute/machines/*/read
+virtual machine local user login,microsoft.hybridconnectivity/endpoints/listcredentials/action
+virtual machine user login,microsoft.compute/virtualmachines/*/read
+virtual machine user login,microsoft.compute/virtualmachines/login/action
+virtual machine user login,microsoft.hybridcompute/machines/*/read
+virtual machine user login,microsoft.hybridcompute/machines/login/action
+virtual machine user login,microsoft.hybridconnectivity/endpoints/listcredentials/action
+virtual machine user login,microsoft.network/loadbalancers/read
+virtual machine user login,microsoft.network/networkinterfaces/read
+virtual machine user login,microsoft.network/publicipaddresses/read
+virtual machine user login,microsoft.network/virtualnetworks/read
+vm restore operator,microsoft.authorization/*/read
+vm restore operator,microsoft.compute/disks/begingetaccess/action
+vm restore operator,microsoft.compute/disks/delete
+vm restore operator,microsoft.compute/disks/endgetaccess/action
+vm restore operator,microsoft.compute/disks/read
+vm restore operator,microsoft.compute/disks/write
+vm restore operator,microsoft.compute/locations/diskoperations/read
+vm restore operator,microsoft.compute/virtualmachines/delete
+vm restore operator,microsoft.compute/virtualmachines/extensions/delete
+vm restore operator,microsoft.compute/virtualmachines/extensions/read
+vm restore operator,microsoft.compute/virtualmachines/extensions/write
+vm restore operator,microsoft.compute/virtualmachines/instanceview/read
+vm restore operator,microsoft.compute/virtualmachines/read
+vm restore operator,microsoft.compute/virtualmachines/write
+vm restore operator,microsoft.insights/alertrules/*
+vm restore operator,microsoft.network/locations/operationresults/read
+vm restore operator,microsoft.network/locations/operations/read
+vm restore operator,microsoft.network/locations/usages/read
+vm restore operator,microsoft.network/networkinterfaces/delete
+vm restore operator,microsoft.network/networkinterfaces/ipconfigurations/read
+vm restore operator,microsoft.network/networkinterfaces/join/action
+vm restore operator,microsoft.network/networkinterfaces/read
+vm restore operator,microsoft.network/networkinterfaces/write
+vm restore operator,microsoft.network/networksecuritygroups/read
+vm restore operator,microsoft.network/networksecuritygroups/securityrules/read
+vm restore operator,microsoft.network/publicipaddresses/delete
+vm restore operator,microsoft.network/publicipaddresses/join/action
+vm restore operator,microsoft.network/publicipaddresses/read
+vm restore operator,microsoft.network/publicipaddresses/write
+vm restore operator,microsoft.network/virtualnetworks/read
+vm restore operator,microsoft.network/virtualnetworks/subnets/join/action
+vm restore operator,microsoft.network/virtualnetworks/subnets/read
+vm restore operator,microsoft.resources/deployments/*
+vm restore operator,microsoft.resources/subscriptions/resourcegroups/read
+vm restore operator,microsoft.storage/checknameavailability/read
+vm restore operator,microsoft.storage/storageaccounts/blobservices/containers/blobs/add/action
+vm restore operator,microsoft.storage/storageaccounts/blobservices/containers/blobs/delete
+vm restore operator,microsoft.storage/storageaccounts/blobservices/containers/blobs/read
+vm restore operator,microsoft.storage/storageaccounts/blobservices/containers/blobs/write
+vm restore operator,microsoft.storage/storageaccounts/blobservices/containers/delete
+vm restore operator,microsoft.storage/storageaccounts/blobservices/containers/read
+vm restore operator,microsoft.storage/storageaccounts/blobservices/containers/write
+vm restore operator,microsoft.storage/storageaccounts/listkeys/action
+vm restore operator,microsoft.storage/storageaccounts/read
+vm restore operator,microsoft.storage/storageaccounts/write
+windows 365 network interface contributor,microsoft.network/locations/operationresults/read
+windows 365 network interface contributor,microsoft.network/locations/operations/read
+windows 365 network interface contributor,microsoft.network/locations/usages/read
+windows 365 network interface contributor,microsoft.network/networkinterfaces/delete
+windows 365 network interface contributor,microsoft.network/networkinterfaces/effectivenetworksecuritygroups/action
+windows 365 network interface contributor,microsoft.network/networkinterfaces/effectiveroutetable/action
+windows 365 network interface contributor,microsoft.network/networkinterfaces/join/action
+windows 365 network interface contributor,microsoft.network/networkinterfaces/read
+windows 365 network interface contributor,microsoft.network/networkinterfaces/write
+windows 365 network interface contributor,microsoft.resources/deployments/delete
+windows 365 network interface contributor,microsoft.resources/deployments/operations/read
+windows 365 network interface contributor,microsoft.resources/deployments/operationstatuses/read
+windows 365 network interface contributor,microsoft.resources/deployments/read
+windows 365 network interface contributor,microsoft.resources/deployments/write
+windows 365 network interface contributor,microsoft.resources/subscriptions/resourcegroups/read
+windows 365 network user,microsoft.network/virtualnetworks/read
+windows 365 network user,microsoft.network/virtualnetworks/subnets/join/action
+windows 365 network user,microsoft.network/virtualnetworks/subnets/read
+windows 365 network user,microsoft.network/virtualnetworks/usages/read
+windows admin center administrator login,microsoft.azurestackhci/clusters/arcsettings/extensions/delete
+windows admin center administrator login,microsoft.azurestackhci/clusters/arcsettings/extensions/read
+windows admin center administrator login,microsoft.azurestackhci/clusters/arcsettings/extensions/write
+windows admin center administrator login,microsoft.azurestackhci/clusters/arcsettings/read
+windows admin center administrator login,microsoft.azurestackhci/clusters/read
+windows admin center administrator login,microsoft.azurestackhci/clusters/wacloginasadmin/action
+windows admin center administrator login,microsoft.azurestackhci/operations/read
+windows admin center administrator login,microsoft.compute/diskaccesses/read
+windows admin center administrator login,microsoft.compute/galleries/images/read
+windows admin center administrator login,microsoft.compute/images/read
+windows admin center administrator login,microsoft.compute/locations/publishers/artifacttypes/types/read
+windows admin center administrator login,microsoft.compute/locations/publishers/artifacttypes/types/versions/read
+windows admin center administrator login,microsoft.compute/virtualmachines/extensions/read
+windows admin center administrator login,microsoft.compute/virtualmachines/instanceview/read
+windows admin center administrator login,microsoft.compute/virtualmachines/patchassessmentresults/latest/read
+windows admin center administrator login,microsoft.compute/virtualmachines/patchassessmentresults/latest/softwarepatches/read
+windows admin center administrator login,microsoft.compute/virtualmachines/patchinstallationresults/read
+windows admin center administrator login,microsoft.compute/virtualmachines/patchinstallationresults/softwarepatches/read
+windows admin center administrator login,microsoft.compute/virtualmachines/read
+windows admin center administrator login,microsoft.compute/virtualmachines/runcommands/read
+windows admin center administrator login,microsoft.compute/virtualmachines/vmsizes/read
+windows admin center administrator login,microsoft.compute/virtualmachines/wacloginasadmin/action
+windows admin center administrator login,microsoft.connectedvmwarevsphere/virtualmachines/extensions/read
+windows admin center administrator login,microsoft.connectedvmwarevsphere/virtualmachines/extensions/write
+windows admin center administrator login,microsoft.connectedvmwarevsphere/virtualmachines/read
+windows admin center administrator login,microsoft.connectedvmwarevsphere/virtualmachines/wacloginasadmin/action
+windows admin center administrator login,microsoft.hybridcompute/machines/*/read
+windows admin center administrator login,microsoft.hybridcompute/machines/extensions/*
+windows admin center administrator login,microsoft.hybridcompute/machines/upgradeextensions/action
+windows admin center administrator login,microsoft.hybridcompute/machines/wacloginasadmin/action
+windows admin center administrator login,microsoft.hybridcompute/operations/read
+windows admin center administrator login,microsoft.hybridconnectivity/endpoints/listmanagedproxydetails/action
+windows admin center administrator login,microsoft.hybridconnectivity/endpoints/read
+windows admin center administrator login,microsoft.hybridconnectivity/endpoints/serviceconfigurations/read
+windows admin center administrator login,microsoft.hybridconnectivity/endpoints/serviceconfigurations/write
+windows admin center administrator login,microsoft.hybridconnectivity/endpoints/write
+windows admin center administrator login,microsoft.network/loadbalancers/read
+windows admin center administrator login,microsoft.network/networkinterfaces/read
+windows admin center administrator login,microsoft.network/networksecuritygroups/defaultsecurityrules/read
+windows admin center administrator login,microsoft.network/networksecuritygroups/read
+windows admin center administrator login,microsoft.network/networksecuritygroups/securityrules/read
+windows admin center administrator login,microsoft.network/networksecuritygroups/securityrules/write
+windows admin center administrator login,microsoft.network/networkwatchers/securitygroupview/action
+windows admin center administrator login,microsoft.network/publicipaddresses/read
+windows admin center administrator login,microsoft.network/virtualnetworks/read

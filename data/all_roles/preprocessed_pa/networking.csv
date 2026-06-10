@@ -1,0 +1,108 @@
+role_name,permission_name
+azure front door domain contributor,microsoft.cdn/operationresults/profileresults/customdomainresults/read
+azure front door domain contributor,microsoft.cdn/profiles/customdomains/delete
+azure front door domain contributor,microsoft.cdn/profiles/customdomains/read
+azure front door domain contributor,microsoft.cdn/profiles/customdomains/write
+azure front door domain contributor,microsoft.resources/subscriptions/resourcegroups/read
+azure front door domain reader,microsoft.cdn/operationresults/profileresults/customdomainresults/read
+azure front door domain reader,microsoft.cdn/profiles/customdomains/read
+azure front door domain reader,microsoft.resources/subscriptions/resourcegroups/read
+azure front door profile reader,microsoft.authorization/*/read
+azure front door profile reader,microsoft.cdn/edgenodes/read
+azure front door profile reader,microsoft.cdn/operationresults/*
+azure front door profile reader,microsoft.cdn/operationresults/profileresults/afdendpointresults/checkcustomdomaindnsmappingstatus/action
+azure front door profile reader,microsoft.cdn/profiles/*/read
+azure front door profile reader,microsoft.cdn/profiles/afdendpoints/checkcustomdomaindnsmappingstatus/action
+azure front door profile reader,microsoft.cdn/profiles/afdendpoints/usages/action
+azure front door profile reader,microsoft.cdn/profiles/origingroups/usages/action
+azure front door profile reader,microsoft.cdn/profiles/queryloganalyticsmetrics/action
+azure front door profile reader,microsoft.cdn/profiles/queryloganalyticsrankings/action
+azure front door profile reader,microsoft.cdn/profiles/querywafloganalyticsmetrics/action
+azure front door profile reader,microsoft.cdn/profiles/querywafloganalyticsrankings/action
+azure front door profile reader,microsoft.cdn/profiles/rulesets/usages/action
+azure front door profile reader,microsoft.cdn/profiles/usages/action
+azure front door profile reader,microsoft.insights/alertrules/*
+azure front door profile reader,microsoft.resources/deployments/*
+azure front door profile reader,microsoft.resources/subscriptions/resourcegroups/read
+azure front door secret contributor,microsoft.cdn/operationresults/profileresults/secretresults/read
+azure front door secret contributor,microsoft.cdn/profiles/secrets/delete
+azure front door secret contributor,microsoft.cdn/profiles/secrets/read
+azure front door secret contributor,microsoft.cdn/profiles/secrets/write
+azure front door secret contributor,microsoft.resources/subscriptions/resourcegroups/read
+azure front door secret reader,microsoft.cdn/operationresults/profileresults/secretresults/read
+azure front door secret reader,microsoft.cdn/profiles/secrets/read
+azure front door secret reader,microsoft.resources/subscriptions/resourcegroups/read
+cdn endpoint contributor,microsoft.authorization/*/read
+cdn endpoint contributor,microsoft.cdn/edgenodes/read
+cdn endpoint contributor,microsoft.cdn/operationresults/*
+cdn endpoint contributor,microsoft.cdn/profiles/endpoints/*
+cdn endpoint contributor,microsoft.insights/alertrules/*
+cdn endpoint contributor,microsoft.resources/deployments/*
+cdn endpoint contributor,microsoft.resources/subscriptions/resourcegroups/read
+cdn endpoint contributor,microsoft.support/*
+cdn endpoint reader,microsoft.authorization/*/read
+cdn endpoint reader,microsoft.cdn/edgenodes/read
+cdn endpoint reader,microsoft.cdn/operationresults/*
+cdn endpoint reader,microsoft.cdn/profiles/afdendpoints/validatecustomdomain/action
+cdn endpoint reader,microsoft.cdn/profiles/endpoints/*/read
+cdn endpoint reader,microsoft.insights/alertrules/*
+cdn endpoint reader,microsoft.resources/deployments/read
+cdn endpoint reader,microsoft.resources/subscriptions/resourcegroups/read
+cdn endpoint reader,microsoft.support/*
+cdn profile contributor,microsoft.authorization/*/read
+cdn profile contributor,microsoft.cdn/edgenodes/read
+cdn profile contributor,microsoft.cdn/operationresults/*
+cdn profile contributor,microsoft.cdn/profiles/*
+cdn profile contributor,microsoft.insights/alertrules/*
+cdn profile contributor,microsoft.resources/deployments/*
+cdn profile contributor,microsoft.resources/subscriptions/resourcegroups/read
+cdn profile contributor,microsoft.support/*
+cdn profile reader,microsoft.authorization/*/read
+cdn profile reader,microsoft.cdn/edgenodes/read
+cdn profile reader,microsoft.cdn/operationresults/*
+cdn profile reader,microsoft.cdn/profiles/*/read
+cdn profile reader,microsoft.cdn/profiles/afdendpoints/validatecustomdomain/action
+cdn profile reader,microsoft.cdn/profiles/checkresourceusage/action
+cdn profile reader,microsoft.cdn/profiles/endpoints/checkresourceusage/action
+cdn profile reader,microsoft.insights/alertrules/*
+cdn profile reader,microsoft.resources/deployments/read
+cdn profile reader,microsoft.resources/subscriptions/resourcegroups/read
+cdn profile reader,microsoft.support/*
+classic network contributor,microsoft.authorization/*/read
+classic network contributor,microsoft.classicnetwork/*
+classic network contributor,microsoft.insights/alertrules/*
+classic network contributor,microsoft.resourcehealth/availabilitystatuses/read
+classic network contributor,microsoft.resources/deployments/*
+classic network contributor,microsoft.resources/subscriptions/resourcegroups/read
+classic network contributor,microsoft.support/*
+dns zone contributor,microsoft.authorization/*/read
+dns zone contributor,microsoft.insights/alertrules/*
+dns zone contributor,microsoft.network/dnszones/*
+dns zone contributor,microsoft.resourcehealth/availabilitystatuses/read
+dns zone contributor,microsoft.resources/deployments/*
+dns zone contributor,microsoft.resources/subscriptions/resourcegroups/read
+dns zone contributor,microsoft.support/*
+network contributor,microsoft.authorization/*/read
+network contributor,microsoft.insights/alertrules/*
+network contributor,microsoft.network/*
+network contributor,microsoft.resourcehealth/availabilitystatuses/read
+network contributor,microsoft.resources/deployments/*
+network contributor,microsoft.resources/subscriptions/resourcegroups/read
+network contributor,microsoft.support/*
+private dns zone contributor,microsoft.authorization/*/read
+private dns zone contributor,microsoft.insights/alertrules/*
+private dns zone contributor,microsoft.network/privatednsoperationresults/*
+private dns zone contributor,microsoft.network/privatednsoperationstatuses/*
+private dns zone contributor,microsoft.network/privatednszones/*
+private dns zone contributor,microsoft.network/virtualnetworks/join/action
+private dns zone contributor,microsoft.network/virtualnetworks/read
+private dns zone contributor,microsoft.resources/deployments/*
+private dns zone contributor,microsoft.resources/subscriptions/resourcegroups/read
+private dns zone contributor,microsoft.support/*
+traffic manager contributor,microsoft.authorization/*/read
+traffic manager contributor,microsoft.insights/alertrules/*
+traffic manager contributor,microsoft.network/trafficmanagerprofiles/*
+traffic manager contributor,microsoft.resourcehealth/availabilitystatuses/read
+traffic manager contributor,microsoft.resources/deployments/*
+traffic manager contributor,microsoft.resources/subscriptions/resourcegroups/read
+traffic manager contributor,microsoft.support/*

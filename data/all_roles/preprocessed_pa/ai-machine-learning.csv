@@ -1,0 +1,393 @@
+role_name,permission_name
+azure ai account owner,microsoft.authorization/*/read
+azure ai account owner,microsoft.authorization/roleassignments/delete
+azure ai account owner,microsoft.authorization/roleassignments/write
+azure ai account owner,microsoft.cognitiveservices/*
+azure ai account owner,microsoft.features/features/read
+azure ai account owner,microsoft.features/providers/features/read
+azure ai account owner,microsoft.features/providers/features/register/action
+azure ai account owner,microsoft.insights/alertrules/*
+azure ai account owner,microsoft.insights/diagnosticsettings/*
+azure ai account owner,microsoft.insights/logdefinitions/read
+azure ai account owner,microsoft.insights/metricdefinitions/read
+azure ai account owner,microsoft.insights/metrics/read
+azure ai account owner,microsoft.resourcehealth/availabilitystatuses/read
+azure ai account owner,microsoft.resources/deployments/*
+azure ai account owner,microsoft.resources/deployments/operations/read
+azure ai account owner,microsoft.resources/subscriptions/operationresults/read
+azure ai account owner,microsoft.resources/subscriptions/read
+azure ai account owner,microsoft.resources/subscriptions/resourcegroups/deployments/*
+azure ai account owner,microsoft.resources/subscriptions/resourcegroups/read
+azure ai account owner,microsoft.support/*
+azure ai administrator,microsoft.authorization/*/read
+azure ai administrator,microsoft.cognitiveservices/*
+azure ai administrator,microsoft.containerregistry/registries/*
+azure ai administrator,microsoft.datafactory/factories/*
+azure ai administrator,microsoft.documentdb/databaseaccounts/*
+azure ai administrator,microsoft.features/features/read
+azure ai administrator,microsoft.features/providers/features/read
+azure ai administrator,microsoft.features/providers/features/register/action
+azure ai administrator,microsoft.insights/alertrules/*
+azure ai administrator,microsoft.insights/components/*
+azure ai administrator,microsoft.insights/diagnosticsettings/*
+azure ai administrator,microsoft.insights/generatelivetoken/read
+azure ai administrator,microsoft.insights/logdefinitions/read
+azure ai administrator,microsoft.insights/metricalerts/*
+azure ai administrator,microsoft.insights/metricdefinitions/read
+azure ai administrator,microsoft.insights/metrics/read
+azure ai administrator,microsoft.insights/scheduledqueryrules/*
+azure ai administrator,microsoft.insights/topology/read
+azure ai administrator,microsoft.insights/transactions/read
+azure ai administrator,microsoft.insights/webtests/*
+azure ai administrator,microsoft.keyvault/*
+azure ai administrator,microsoft.machinelearningservices/workspaces/*
+azure ai administrator,microsoft.network/virtualnetworks/subnets/joinviaserviceendpoint/action
+azure ai administrator,microsoft.resourcehealth/availabilitystatuses/read
+azure ai administrator,microsoft.resources/deployments/*
+azure ai administrator,microsoft.resources/deployments/operations/read
+azure ai administrator,microsoft.resources/subscriptions/operationresults/read
+azure ai administrator,microsoft.resources/subscriptions/read
+azure ai administrator,microsoft.resources/subscriptions/resourcegroups/deployments/*
+azure ai administrator,microsoft.resources/subscriptions/resourcegroups/read
+azure ai administrator,microsoft.resources/subscriptions/resourcegroups/write
+azure ai administrator,microsoft.search/searchservices/delete
+azure ai administrator,microsoft.search/searchservices/indexes/*
+azure ai administrator,microsoft.search/searchservices/listadminkeys/action
+azure ai administrator,microsoft.search/searchservices/privateendpointconnections/*
+azure ai administrator,microsoft.search/searchservices/read
+azure ai administrator,microsoft.search/searchservices/write
+azure ai administrator,microsoft.storage/storageaccounts/*
+azure ai administrator,microsoft.support/*
+azure ai enterprise network connection approver,microsoft.apimanagement/service/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.apimanagement/service/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.apimanagement/service/privatelinkresources/read
+azure ai enterprise network connection approver,microsoft.apimanagement/service/read
+azure ai enterprise network connection approver,microsoft.cache/redis/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.cache/redis/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.cache/redis/privateendpointconnectionsapproval/action
+azure ai enterprise network connection approver,microsoft.cache/redis/privatelinkresources/read
+azure ai enterprise network connection approver,microsoft.cache/redis/read
+azure ai enterprise network connection approver,microsoft.cache/redisenterprise/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.cache/redisenterprise/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.cache/redisenterprise/privateendpointconnectionsapproval/action
+azure ai enterprise network connection approver,microsoft.cache/redisenterprise/privatelinkresources/read
+azure ai enterprise network connection approver,microsoft.cache/redisenterprise/read
+azure ai enterprise network connection approver,microsoft.cognitiveservices/accounts/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.cognitiveservices/accounts/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.cognitiveservices/accounts/privatelinkresources/read
+azure ai enterprise network connection approver,microsoft.cognitiveservices/accounts/read
+azure ai enterprise network connection approver,microsoft.containerregistry/registries/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.containerregistry/registries/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.containerregistry/registries/privateendpointconnectionsapproval/action
+azure ai enterprise network connection approver,microsoft.dbformysql/flexibleservers/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.dbformysql/flexibleservers/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.dbformysql/flexibleservers/privateendpointconnectionsapproval/action
+azure ai enterprise network connection approver,microsoft.dbformysql/flexibleservers/privatelinkresources/read
+azure ai enterprise network connection approver,microsoft.dbformysql/flexibleservers/read
+azure ai enterprise network connection approver,microsoft.dbforpostgresql/flexibleservers/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.dbforpostgresql/flexibleservers/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.dbforpostgresql/flexibleservers/privateendpointconnectionsapproval/action
+azure ai enterprise network connection approver,microsoft.dbforpostgresql/flexibleservers/privatelinkresources/read
+azure ai enterprise network connection approver,microsoft.dbforpostgresql/flexibleservers/read
+azure ai enterprise network connection approver,microsoft.dbforpostgresql/servergroupsv2/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.dbforpostgresql/servergroupsv2/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.dbforpostgresql/servergroupsv2/privateendpointconnectionsapproval/action
+azure ai enterprise network connection approver,microsoft.dbforpostgresql/servergroupsv2/privatelinkresources/read
+azure ai enterprise network connection approver,microsoft.documentdb/databaseaccounts/privateendpointconnections/operationresults/read
+azure ai enterprise network connection approver,microsoft.documentdb/databaseaccounts/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.documentdb/databaseaccounts/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.documentdb/databaseaccounts/privateendpointconnectionsapproval/action
+azure ai enterprise network connection approver,microsoft.documentdb/databaseaccounts/privatelinkresources/read
+azure ai enterprise network connection approver,microsoft.documentdb/databaseaccounts/read
+azure ai enterprise network connection approver,microsoft.eventhub/namespaces/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.eventhub/namespaces/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.eventhub/namespaces/privateendpointconnectionsapproval/action
+azure ai enterprise network connection approver,microsoft.eventhub/namespaces/privatelinkresources/read
+azure ai enterprise network connection approver,microsoft.eventhub/namespaces/read
+azure ai enterprise network connection approver,microsoft.insights/privatelinkscopes/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.insights/privatelinkscopes/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.insights/privatelinkscopes/privateendpointconnectionsapproval/action
+azure ai enterprise network connection approver,microsoft.insights/privatelinkscopes/privatelinkresources/read
+azure ai enterprise network connection approver,microsoft.insights/privatelinkscopes/read
+azure ai enterprise network connection approver,microsoft.keyvault/vaults/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.keyvault/vaults/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.keyvault/vaults/privateendpointconnectionsapproval/action
+azure ai enterprise network connection approver,microsoft.keyvault/vaults/privatelinkresources/read
+azure ai enterprise network connection approver,microsoft.keyvault/vaults/read
+azure ai enterprise network connection approver,microsoft.machinelearningservices/registries/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.machinelearningservices/registries/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.machinelearningservices/registries/privateendpointconnectionsapproval/action
+azure ai enterprise network connection approver,microsoft.machinelearningservices/registries/privatelinkresources/read
+azure ai enterprise network connection approver,microsoft.machinelearningservices/registries/read
+azure ai enterprise network connection approver,microsoft.machinelearningservices/workspaces/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.machinelearningservices/workspaces/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.machinelearningservices/workspaces/privateendpointconnectionsapproval/action
+azure ai enterprise network connection approver,microsoft.machinelearningservices/workspaces/privatelinkresources/read
+azure ai enterprise network connection approver,microsoft.machinelearningservices/workspaces/read
+azure ai enterprise network connection approver,microsoft.network/applicationgateways/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.network/applicationgateways/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.network/applicationgateways/privatelinkresources/read
+azure ai enterprise network connection approver,microsoft.network/applicationgateways/read
+azure ai enterprise network connection approver,microsoft.network/privatelinkservices/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.network/privatelinkservices/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.network/privatelinkservices/privateendpointconnectionsapproval/action
+azure ai enterprise network connection approver,microsoft.network/privatelinkservices/read
+azure ai enterprise network connection approver,microsoft.search/searchservices/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.search/searchservices/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.search/searchservices/privateendpointconnectionsapproval/action
+azure ai enterprise network connection approver,microsoft.search/searchservices/read
+azure ai enterprise network connection approver,microsoft.search/searchservices/sharedprivatelinkresources/read
+azure ai enterprise network connection approver,microsoft.sql/servers/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.sql/servers/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.sql/servers/privateendpointconnectionsapproval/action
+azure ai enterprise network connection approver,microsoft.sql/servers/privatelinkresources/read
+azure ai enterprise network connection approver,microsoft.sql/servers/read
+azure ai enterprise network connection approver,microsoft.storage/storageaccounts/privateendpointconnections/read
+azure ai enterprise network connection approver,microsoft.storage/storageaccounts/privateendpointconnections/write
+azure ai enterprise network connection approver,microsoft.storage/storageaccounts/privateendpointconnectionsapproval/action
+azure ai enterprise network connection approver,microsoft.storage/storageaccounts/privatelinkresources/read
+azure ai enterprise network connection approver,microsoft.storage/storageaccounts/read
+azure ai inference deployment operator,microsoft.authorization/*/read
+azure ai inference deployment operator,microsoft.insights/autoscalesettings/write
+azure ai inference deployment operator,microsoft.resources/deployments/*
+azure ai owner,microsoft.alertsmanagement/actionrules/*
+azure ai owner,microsoft.alertsmanagement/alerts/*
+azure ai owner,microsoft.alertsmanagement/issues/*
+azure ai owner,microsoft.alertsmanagement/prometheusrulegroups/*
+azure ai owner,microsoft.alertsmanagement/smartdetectoralertrules/*
+azure ai owner,microsoft.authorization/*/read
+azure ai owner,microsoft.cognitiveservices/*
+azure ai owner,microsoft.insights/activitylogalerts/*
+azure ai owner,microsoft.insights/metricalerts/*
+azure ai owner,microsoft.insights/scheduledqueryrules/*
+azure ai owner,microsoft.resourcehealth/availabilitystatuses/read
+azure ai owner,microsoft.resources/deployments/*
+azure ai owner,microsoft.resources/deployments/operations/read
+azure ai owner,microsoft.resources/subscriptions/operationresults/read
+azure ai owner,microsoft.resources/subscriptions/read
+azure ai owner,microsoft.resources/subscriptions/resourcegroups/deployments/*
+azure ai owner,microsoft.resources/subscriptions/resourcegroups/read
+azure ai owner,microsoft.support/*
+azure ai project manager,microsoft.authorization/*/read
+azure ai project manager,microsoft.authorization/roleassignments/delete
+azure ai project manager,microsoft.authorization/roleassignments/write
+azure ai project manager,microsoft.cognitiveservices/*
+azure ai project manager,microsoft.cognitiveservices/accounts/*/read
+azure ai project manager,microsoft.cognitiveservices/accounts/projects/*
+azure ai project manager,microsoft.cognitiveservices/locations/*/read
+azure ai project manager,microsoft.insights/alertrules/*
+azure ai project manager,microsoft.resources/deployments/*
+azure ai project manager,microsoft.resources/subscriptions/resourcegroups/read
+azure ai user,microsoft.authorization/*/read
+azure ai user,microsoft.cognitiveservices/*
+azure ai user,microsoft.cognitiveservices/*/read
+azure ai user,microsoft.cognitiveservices/accounts/listkeys/action
+azure ai user,microsoft.insights/alertrules/read
+azure ai user,microsoft.insights/diagnosticsettings/read
+azure ai user,microsoft.insights/logdefinitions/read
+azure ai user,microsoft.insights/metricdefinitions/read
+azure ai user,microsoft.insights/metrics/read
+azure ai user,microsoft.resourcehealth/availabilitystatuses/read
+azure ai user,microsoft.resources/deployments/*
+azure ai user,microsoft.resources/subscriptions/operationresults/read
+azure ai user,microsoft.resources/subscriptions/read
+azure ai user,microsoft.resources/subscriptions/resourcegroups/read
+azure ai user,microsoft.support/*
+azureml compute operator,microsoft.machinelearningservices/workspaces/computes/*
+azureml compute operator,microsoft.machinelearningservices/workspaces/notebooks/vm/*
+azureml metrics writer (preview),microsoft.machinelearningservices/workspaces/metrics/*/write
+azureml registry user,microsoft.machinelearningservices/registries/assets/*
+azureml registry user,microsoft.machinelearningservices/registries/read
+cognitive services custom vision contributor,microsoft.cognitiveservices/*/read
+cognitive services custom vision contributor,microsoft.cognitiveservices/accounts/customvision/*
+cognitive services data reader,microsoft.cognitiveservices/*/read
+cognitive services face recognizer,microsoft.cognitiveservices/accounts/face/*/sessions/action
+cognitive services face recognizer,microsoft.cognitiveservices/accounts/face/*/sessions/audit/read
+cognitive services face recognizer,microsoft.cognitiveservices/accounts/face/*/sessions/delete
+cognitive services face recognizer,microsoft.cognitiveservices/accounts/face/*/sessions/read
+cognitive services face recognizer,microsoft.cognitiveservices/accounts/face/detect/action
+cognitive services face recognizer,microsoft.cognitiveservices/accounts/face/detectliveness/multimodal/action
+cognitive services face recognizer,microsoft.cognitiveservices/accounts/face/detectliveness/singlemodal/action
+cognitive services face recognizer,microsoft.cognitiveservices/accounts/face/detectlivenesswithverify/singlemodal/action
+cognitive services face recognizer,microsoft.cognitiveservices/accounts/face/findsimilars/action
+cognitive services face recognizer,microsoft.cognitiveservices/accounts/face/group/action
+cognitive services face recognizer,microsoft.cognitiveservices/accounts/face/identify/action
+cognitive services face recognizer,microsoft.cognitiveservices/accounts/face/verify/action
+cognitive services immersive reader user,microsoft.cognitiveservices/accounts/immersivereader/getcontentmodelforreader/action
+cognitive services luis owner,microsoft.authorization/roleassignments/read
+cognitive services luis owner,microsoft.authorization/roledefinitions/read
+cognitive services luis owner,microsoft.cognitiveservices/*/read
+cognitive services luis owner,microsoft.cognitiveservices/accounts/listkeys/action
+cognitive services luis owner,microsoft.cognitiveservices/accounts/luis/*
+cognitive services luis reader,microsoft.authorization/roleassignments/read
+cognitive services luis reader,microsoft.authorization/roledefinitions/read
+cognitive services luis reader,microsoft.cognitiveservices/*/read
+cognitive services luis reader,microsoft.cognitiveservices/accounts/luis/*/read
+cognitive services luis reader,microsoft.cognitiveservices/accounts/luis/apps/testdatasets/write
+cognitive services metrics advisor administrator,microsoft.cognitiveservices/*/read
+cognitive services metrics advisor administrator,microsoft.cognitiveservices/accounts/metricsadvisor/*
+cognitive services openai contributor,microsoft.authorization/roleassignments/read
+cognitive services openai contributor,microsoft.authorization/roledefinitions/read
+cognitive services openai contributor,microsoft.cognitiveservices/*/read
+cognitive services openai contributor,microsoft.cognitiveservices/accounts/commitmentplans/delete
+cognitive services openai contributor,microsoft.cognitiveservices/accounts/commitmentplans/read
+cognitive services openai contributor,microsoft.cognitiveservices/accounts/commitmentplans/write
+cognitive services openai contributor,microsoft.cognitiveservices/accounts/deployments/delete
+cognitive services openai contributor,microsoft.cognitiveservices/accounts/deployments/write
+cognitive services openai contributor,microsoft.cognitiveservices/accounts/openai/*
+cognitive services openai contributor,microsoft.cognitiveservices/accounts/raipolicies/delete
+cognitive services openai contributor,microsoft.cognitiveservices/accounts/raipolicies/read
+cognitive services openai contributor,microsoft.cognitiveservices/accounts/raipolicies/write
+cognitive services qna maker editor,microsoft.authorization/roleassignments/read
+cognitive services qna maker editor,microsoft.authorization/roledefinitions/read
+cognitive services qna maker editor,microsoft.cognitiveservices/*/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker.v2/alterations/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker.v2/alterations/write
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker.v2/endpointkeys/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker.v2/endpointkeys/refreshkeys/action
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker.v2/endpointsettings/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker.v2/endpointsettings/write
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker.v2/knowledgebases/create/write
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker.v2/knowledgebases/download/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker.v2/knowledgebases/generateanswer/action
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker.v2/knowledgebases/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker.v2/knowledgebases/train/action
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker.v2/knowledgebases/write
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker.v2/operations/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker/alterations/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker/alterations/write
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker/endpointkeys/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker/endpointkeys/refreshkeys/action
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker/endpointsettings/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker/endpointsettings/write
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker/knowledgebases/create/write
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker/knowledgebases/download/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker/knowledgebases/generateanswer/action
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker/knowledgebases/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker/knowledgebases/train/action
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker/knowledgebases/write
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/qnamaker/operations/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/alterations/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/alterations/write
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/endpointkeys/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/endpointkeys/refreshkeys/action
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/endpointsettings/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/endpointsettings/write
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/knowledgebases/create/write
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/knowledgebases/download/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/knowledgebases/generateanswer/action
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/knowledgebases/read
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/knowledgebases/train/action
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/knowledgebases/write
+cognitive services qna maker editor,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/operations/read
+cognitive services qna maker reader,microsoft.authorization/roleassignments/read
+cognitive services qna maker reader,microsoft.authorization/roledefinitions/read
+cognitive services qna maker reader,microsoft.cognitiveservices/*/read
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/qnamaker.v2/alterations/read
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/qnamaker.v2/endpointkeys/read
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/qnamaker.v2/endpointsettings/read
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/qnamaker.v2/knowledgebases/download/read
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/qnamaker.v2/knowledgebases/generateanswer/action
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/qnamaker.v2/knowledgebases/read
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/qnamaker/alterations/read
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/qnamaker/endpointkeys/read
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/qnamaker/endpointsettings/read
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/qnamaker/knowledgebases/download/read
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/qnamaker/knowledgebases/generateanswer/action
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/qnamaker/knowledgebases/read
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/alterations/read
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/endpointkeys/read
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/endpointsettings/read
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/knowledgebases/download/read
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/knowledgebases/generateanswer/action
+cognitive services qna maker reader,microsoft.cognitiveservices/accounts/textanalytics/qnamaker/knowledgebases/read
+cognitive services speech contributor,microsoft.authorization/roleassignments/read
+cognitive services speech contributor,microsoft.authorization/roledefinitions/read
+cognitive services speech contributor,microsoft.cognitiveservices/*/read
+cognitive services speech contributor,microsoft.cognitiveservices/accounts/audiocontentcreation/*
+cognitive services speech contributor,microsoft.cognitiveservices/accounts/batchavatar/*
+cognitive services speech contributor,microsoft.cognitiveservices/accounts/batchtexttospeech/*
+cognitive services speech contributor,microsoft.cognitiveservices/accounts/customavatar/*
+cognitive services speech contributor,microsoft.cognitiveservices/accounts/customvoice/*
+cognitive services speech contributor,microsoft.cognitiveservices/accounts/speechservices/*
+cognitive services speech contributor,microsoft.cognitiveservices/accounts/ttsplayer/*
+cognitive services speech contributor,microsoft.cognitiveservices/accounts/videotranslation/*
+cognitive services usages reader,microsoft.cognitiveservices/locations/usages/read
+cognitive services user,microsoft.cognitiveservices/*
+cognitive services user,microsoft.cognitiveservices/*/read
+cognitive services user,microsoft.cognitiveservices/accounts/listkeys/action
+cognitive services user,microsoft.insights/alertrules/read
+cognitive services user,microsoft.insights/diagnosticsettings/read
+cognitive services user,microsoft.insights/logdefinitions/read
+cognitive services user,microsoft.insights/metricdefinitions/read
+cognitive services user,microsoft.insights/metrics/read
+cognitive services user,microsoft.resourcehealth/availabilitystatuses/read
+cognitive services user,microsoft.resources/deployments/operations/read
+cognitive services user,microsoft.resources/subscriptions/operationresults/read
+cognitive services user,microsoft.resources/subscriptions/read
+cognitive services user,microsoft.resources/subscriptions/resourcegroups/read
+cognitive services user,microsoft.support/*
+healthcare agent admin,microsoft.healthbot/healthbots/admin/*
+healthcare agent admin,microsoft.healthbot/healthbots/analyticreport/read
+healthcare agent admin,microsoft.healthbot/healthbots/audittrails/read
+healthcare agent admin,microsoft.healthbot/healthbots/authenticationproviders/*
+healthcare agent admin,microsoft.healthbot/healthbots/channels/*
+healthcare agent admin,microsoft.healthbot/healthbots/configuration/*
+healthcare agent admin,microsoft.healthbot/healthbots/copilotstudiosolution/*
+healthcare agent admin,microsoft.healthbot/healthbots/dataconnections/*
+healthcare agent admin,microsoft.healthbot/healthbots/exposedskill/read
+healthcare agent admin,microsoft.healthbot/healthbots/feedback/read
+healthcare agent admin,microsoft.healthbot/healthbots/languagemodels/*
+healthcare agent admin,microsoft.healthbot/healthbots/localization/*
+healthcare agent admin,microsoft.healthbot/healthbots/metadata/read
+healthcare agent admin,microsoft.healthbot/healthbots/openapiplugins/*
+healthcare agent admin,microsoft.healthbot/healthbots/registeredskills/read
+healthcare agent admin,microsoft.healthbot/healthbots/resourcedata/read
+healthcare agent admin,microsoft.healthbot/healthbots/resources/*
+healthcare agent admin,microsoft.healthbot/healthbots/scenarios/*
+healthcare agent admin,microsoft.healthbot/healthbots/users/read
+healthcare agent editor,microsoft.healthbot/healthbots/analyticreport/read
+healthcare agent editor,microsoft.healthbot/healthbots/audittrails/read
+healthcare agent editor,microsoft.healthbot/healthbots/authenticationproviders/*
+healthcare agent editor,microsoft.healthbot/healthbots/channels/*
+healthcare agent editor,microsoft.healthbot/healthbots/configuration/*
+healthcare agent editor,microsoft.healthbot/healthbots/copilotstudiosolution/*
+healthcare agent editor,microsoft.healthbot/healthbots/dataconnections/*
+healthcare agent editor,microsoft.healthbot/healthbots/exposedskill/read
+healthcare agent editor,microsoft.healthbot/healthbots/feedback/read
+healthcare agent editor,microsoft.healthbot/healthbots/languagemodels/*
+healthcare agent editor,microsoft.healthbot/healthbots/localization/*
+healthcare agent editor,microsoft.healthbot/healthbots/metadata/read
+healthcare agent editor,microsoft.healthbot/healthbots/openapiplugins/*
+healthcare agent editor,microsoft.healthbot/healthbots/registeredskills/read
+healthcare agent editor,microsoft.healthbot/healthbots/resourcedata/read
+healthcare agent editor,microsoft.healthbot/healthbots/resources/*
+healthcare agent editor,microsoft.healthbot/healthbots/scenarios/*
+healthcare agent editor,microsoft.healthbot/healthbots/users/read
+healthcare agent reader,microsoft.healthbot/healthbots/analyticreport/read
+healthcare agent reader,microsoft.healthbot/healthbots/audittrails/read
+healthcare agent reader,microsoft.healthbot/healthbots/authenticationproviders/read
+healthcare agent reader,microsoft.healthbot/healthbots/configuration/read
+healthcare agent reader,microsoft.healthbot/healthbots/copilotstudiosolution/restorebuiltintemplate/read
+healthcare agent reader,microsoft.healthbot/healthbots/dataconnections/read
+healthcare agent reader,microsoft.healthbot/healthbots/exposedskill/read
+healthcare agent reader,microsoft.healthbot/healthbots/feedback/read
+healthcare agent reader,microsoft.healthbot/healthbots/languagemodels/read
+healthcare agent reader,microsoft.healthbot/healthbots/localization/read
+healthcare agent reader,microsoft.healthbot/healthbots/metadata/read
+healthcare agent reader,microsoft.healthbot/healthbots/openapiplugins/read
+healthcare agent reader,microsoft.healthbot/healthbots/registeredskills/read
+healthcare agent reader,microsoft.healthbot/healthbots/resourcedata/read
+healthcare agent reader,microsoft.healthbot/healthbots/resources/files/read
+healthcare agent reader,microsoft.healthbot/healthbots/scenarios/*/read
+healthcare agent reader,microsoft.healthbot/healthbots/users/read
+search index data contributor,microsoft.search/searchservices/indexes/contentsecurity/elevatedoperations/read
+search index data contributor,microsoft.search/searchservices/indexes/documents/*
+search index data reader,microsoft.search/searchservices/indexes/documents/read
+search service contributor,microsoft.authorization/*/read
+search service contributor,microsoft.insights/alertrules/*
+search service contributor,microsoft.resourcehealth/availabilitystatuses/read
+search service contributor,microsoft.resources/deployments/*
+search service contributor,microsoft.resources/subscriptions/resourcegroups/read
+search service contributor,microsoft.search/searchservices/*
+search service contributor,microsoft.support/*

@@ -1,0 +1,493 @@
+role_name,permission_name
+arc gateway manager,microsoft.authorization/*/read
+arc gateway manager,microsoft.hybridcompute/gateways/delete
+arc gateway manager,microsoft.hybridcompute/gateways/read
+arc gateway manager,microsoft.hybridcompute/gateways/write
+arc gateway manager,microsoft.hybridcompute/settings/read
+arc gateway manager,microsoft.hybridcompute/settings/write
+arc gateway manager,microsoft.insights/alertrules/*
+arc gateway manager,microsoft.resources/deployments/*
+arc gateway manager,microsoft.resources/subscriptions/resourcegroups/read
+azure arc scvmm administrator role,microsoft.authorization/*/read
+azure arc scvmm administrator role,microsoft.extendedlocation/customlocations/deploy/action
+azure arc scvmm administrator role,microsoft.extendedlocation/customlocations/read
+azure arc scvmm administrator role,microsoft.hybridcompute/licenses/delete
+azure arc scvmm administrator role,microsoft.hybridcompute/licenses/read
+azure arc scvmm administrator role,microsoft.hybridcompute/licenses/write
+azure arc scvmm administrator role,microsoft.hybridcompute/locations/operationresults/read
+azure arc scvmm administrator role,microsoft.hybridcompute/locations/operationstatus/read
+azure arc scvmm administrator role,microsoft.hybridcompute/locations/updatecenteroperationresults/read
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/assesspatches/action
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/delete
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/extensions/delete
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/extensions/read
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/extensions/write
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/hybrididentitymetadata/read
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/installpatches/action
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/licenseprofiles/delete
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/licenseprofiles/read
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/licenseprofiles/write
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/patchassessmentresults/read
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/patchassessmentresults/softwarepatches/read
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/patchinstallationresults/read
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/patchinstallationresults/softwarepatches/read
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/read
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/runcommands/delete
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/runcommands/read
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/runcommands/write
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/upgradeextensions/action
+azure arc scvmm administrator role,microsoft.hybridcompute/machines/write
+azure arc scvmm administrator role,microsoft.hybridcompute/operations/read
+azure arc scvmm administrator role,microsoft.hybridcompute/ostype/agentversions/latest/read
+azure arc scvmm administrator role,microsoft.hybridcompute/ostype/agentversions/read
+azure arc scvmm administrator role,microsoft.insights/alertrules/activated/action
+azure arc scvmm administrator role,microsoft.insights/alertrules/delete
+azure arc scvmm administrator role,microsoft.insights/alertrules/incidents/read
+azure arc scvmm administrator role,microsoft.insights/alertrules/read
+azure arc scvmm administrator role,microsoft.insights/alertrules/resolved/action
+azure arc scvmm administrator role,microsoft.insights/alertrules/throttled/action
+azure arc scvmm administrator role,microsoft.insights/alertrules/write
+azure arc scvmm administrator role,microsoft.resourcehealth/availabilitystatuses/read
+azure arc scvmm administrator role,microsoft.resources/deployments/cancel/action
+azure arc scvmm administrator role,microsoft.resources/deployments/delete
+azure arc scvmm administrator role,microsoft.resources/deployments/exporttemplate/action
+azure arc scvmm administrator role,microsoft.resources/deployments/operations/read
+azure arc scvmm administrator role,microsoft.resources/deployments/operationstatuses/read
+azure arc scvmm administrator role,microsoft.resources/deployments/read
+azure arc scvmm administrator role,microsoft.resources/deployments/validate/action
+azure arc scvmm administrator role,microsoft.resources/deployments/whatif/action
+azure arc scvmm administrator role,microsoft.resources/deployments/write
+azure arc scvmm administrator role,microsoft.resources/subscriptions/operationresults/read
+azure arc scvmm administrator role,microsoft.resources/subscriptions/read
+azure arc scvmm administrator role,microsoft.resources/subscriptions/resourcegroups/deployments/operations/read
+azure arc scvmm administrator role,microsoft.resources/subscriptions/resourcegroups/deployments/operationstatuses/read
+azure arc scvmm administrator role,microsoft.resources/subscriptions/resourcegroups/deployments/read
+azure arc scvmm administrator role,microsoft.resources/subscriptions/resourcegroups/deployments/write
+azure arc scvmm administrator role,microsoft.resources/subscriptions/resourcegroups/read
+azure arc scvmm administrator role,microsoft.scvmm/*
+azure arc scvmm private cloud user,microsoft.authorization/*/read
+azure arc scvmm private cloud user,microsoft.extendedlocation/customlocations/deploy/action
+azure arc scvmm private cloud user,microsoft.extendedlocation/customlocations/enabledresourcetypes/read
+azure arc scvmm private cloud user,microsoft.extendedlocation/customlocations/read
+azure arc scvmm private cloud user,microsoft.insights/alertrules/activated/action
+azure arc scvmm private cloud user,microsoft.insights/alertrules/delete
+azure arc scvmm private cloud user,microsoft.insights/alertrules/incidents/read
+azure arc scvmm private cloud user,microsoft.insights/alertrules/read
+azure arc scvmm private cloud user,microsoft.insights/alertrules/resolved/action
+azure arc scvmm private cloud user,microsoft.insights/alertrules/throttled/action
+azure arc scvmm private cloud user,microsoft.insights/alertrules/write
+azure arc scvmm private cloud user,microsoft.resourcehealth/availabilitystatuses/read
+azure arc scvmm private cloud user,microsoft.resources/deployments/cancel/action
+azure arc scvmm private cloud user,microsoft.resources/deployments/delete
+azure arc scvmm private cloud user,microsoft.resources/deployments/exporttemplate/action
+azure arc scvmm private cloud user,microsoft.resources/deployments/operations/read
+azure arc scvmm private cloud user,microsoft.resources/deployments/operationstatuses/read
+azure arc scvmm private cloud user,microsoft.resources/deployments/read
+azure arc scvmm private cloud user,microsoft.resources/deployments/validate/action
+azure arc scvmm private cloud user,microsoft.resources/deployments/whatif/action
+azure arc scvmm private cloud user,microsoft.resources/deployments/write
+azure arc scvmm private cloud user,microsoft.resources/subscriptions/operationresults/read
+azure arc scvmm private cloud user,microsoft.resources/subscriptions/read
+azure arc scvmm private cloud user,microsoft.resources/subscriptions/resourcegroups/deployments/operations/read
+azure arc scvmm private cloud user,microsoft.resources/subscriptions/resourcegroups/deployments/operationstatuses/read
+azure arc scvmm private cloud user,microsoft.resources/subscriptions/resourcegroups/deployments/read
+azure arc scvmm private cloud user,microsoft.resources/subscriptions/resourcegroups/deployments/write
+azure arc scvmm private cloud user,microsoft.resources/subscriptions/resourcegroups/read
+azure arc scvmm private cloud user,microsoft.scvmm/clouds/deploy/action
+azure arc scvmm private cloud user,microsoft.scvmm/clouds/read
+azure arc scvmm private cloud user,microsoft.scvmm/virtualmachinetemplates/clone/action
+azure arc scvmm private cloud user,microsoft.scvmm/virtualmachinetemplates/read
+azure arc scvmm private cloud user,microsoft.scvmm/virtualnetworks/join/action
+azure arc scvmm private cloud user,microsoft.scvmm/virtualnetworks/read
+azure arc scvmm private clouds onboarding,microsoft.authorization/*/read
+azure arc scvmm private clouds onboarding,microsoft.extendedlocation/customlocations/deploy/action
+azure arc scvmm private clouds onboarding,microsoft.extendedlocation/customlocations/read
+azure arc scvmm private clouds onboarding,microsoft.insights/alertrules/activated/action
+azure arc scvmm private clouds onboarding,microsoft.insights/alertrules/delete
+azure arc scvmm private clouds onboarding,microsoft.insights/alertrules/incidents/read
+azure arc scvmm private clouds onboarding,microsoft.insights/alertrules/read
+azure arc scvmm private clouds onboarding,microsoft.insights/alertrules/resolved/action
+azure arc scvmm private clouds onboarding,microsoft.insights/alertrules/throttled/action
+azure arc scvmm private clouds onboarding,microsoft.insights/alertrules/write
+azure arc scvmm private clouds onboarding,microsoft.resourcehealth/availabilitystatuses/read
+azure arc scvmm private clouds onboarding,microsoft.resources/deployments/cancel/action
+azure arc scvmm private clouds onboarding,microsoft.resources/deployments/delete
+azure arc scvmm private clouds onboarding,microsoft.resources/deployments/exporttemplate/action
+azure arc scvmm private clouds onboarding,microsoft.resources/deployments/operations/read
+azure arc scvmm private clouds onboarding,microsoft.resources/deployments/operationstatuses/read
+azure arc scvmm private clouds onboarding,microsoft.resources/deployments/read
+azure arc scvmm private clouds onboarding,microsoft.resources/deployments/validate/action
+azure arc scvmm private clouds onboarding,microsoft.resources/deployments/whatif/action
+azure arc scvmm private clouds onboarding,microsoft.resources/deployments/write
+azure arc scvmm private clouds onboarding,microsoft.resources/subscriptions/operationresults/read
+azure arc scvmm private clouds onboarding,microsoft.resources/subscriptions/read
+azure arc scvmm private clouds onboarding,microsoft.resources/subscriptions/resourcegroups/deployments/operations/read
+azure arc scvmm private clouds onboarding,microsoft.resources/subscriptions/resourcegroups/deployments/operationstatuses/read
+azure arc scvmm private clouds onboarding,microsoft.resources/subscriptions/resourcegroups/deployments/read
+azure arc scvmm private clouds onboarding,microsoft.resources/subscriptions/resourcegroups/deployments/write
+azure arc scvmm private clouds onboarding,microsoft.resources/subscriptions/resourcegroups/read
+azure arc scvmm private clouds onboarding,microsoft.scvmm/vmmservers/delete
+azure arc scvmm private clouds onboarding,microsoft.scvmm/vmmservers/read
+azure arc scvmm private clouds onboarding,microsoft.scvmm/vmmservers/write
+azure arc scvmm vm contributor,microsoft.authorization/*/read
+azure arc scvmm vm contributor,microsoft.extendedlocation/customlocations/deploy/action
+azure arc scvmm vm contributor,microsoft.extendedlocation/customlocations/read
+azure arc scvmm vm contributor,microsoft.hybridcompute/licenses/delete
+azure arc scvmm vm contributor,microsoft.hybridcompute/licenses/read
+azure arc scvmm vm contributor,microsoft.hybridcompute/licenses/write
+azure arc scvmm vm contributor,microsoft.hybridcompute/locations/operationresults/read
+azure arc scvmm vm contributor,microsoft.hybridcompute/locations/operationstatus/read
+azure arc scvmm vm contributor,microsoft.hybridcompute/locations/updatecenteroperationresults/read
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/assesspatches/action
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/delete
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/extensions/delete
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/extensions/read
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/extensions/write
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/hybrididentitymetadata/read
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/installpatches/action
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/licenseprofiles/delete
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/licenseprofiles/read
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/licenseprofiles/write
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/patchassessmentresults/read
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/patchassessmentresults/softwarepatches/read
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/patchinstallationresults/read
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/patchinstallationresults/softwarepatches/read
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/read
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/runcommands/delete
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/runcommands/read
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/runcommands/write
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/upgradeextensions/action
+azure arc scvmm vm contributor,microsoft.hybridcompute/machines/write
+azure arc scvmm vm contributor,microsoft.hybridcompute/operations/read
+azure arc scvmm vm contributor,microsoft.hybridcompute/ostype/agentversions/latest/read
+azure arc scvmm vm contributor,microsoft.hybridcompute/ostype/agentversions/read
+azure arc scvmm vm contributor,microsoft.insights/alertrules/activated/action
+azure arc scvmm vm contributor,microsoft.insights/alertrules/delete
+azure arc scvmm vm contributor,microsoft.insights/alertrules/incidents/read
+azure arc scvmm vm contributor,microsoft.insights/alertrules/read
+azure arc scvmm vm contributor,microsoft.insights/alertrules/resolved/action
+azure arc scvmm vm contributor,microsoft.insights/alertrules/throttled/action
+azure arc scvmm vm contributor,microsoft.insights/alertrules/write
+azure arc scvmm vm contributor,microsoft.resourcehealth/availabilitystatuses/read
+azure arc scvmm vm contributor,microsoft.resources/deployments/cancel/action
+azure arc scvmm vm contributor,microsoft.resources/deployments/delete
+azure arc scvmm vm contributor,microsoft.resources/deployments/exporttemplate/action
+azure arc scvmm vm contributor,microsoft.resources/deployments/operations/read
+azure arc scvmm vm contributor,microsoft.resources/deployments/operationstatuses/read
+azure arc scvmm vm contributor,microsoft.resources/deployments/read
+azure arc scvmm vm contributor,microsoft.resources/deployments/validate/action
+azure arc scvmm vm contributor,microsoft.resources/deployments/whatif/action
+azure arc scvmm vm contributor,microsoft.resources/deployments/write
+azure arc scvmm vm contributor,microsoft.resources/subscriptions/operationresults/read
+azure arc scvmm vm contributor,microsoft.resources/subscriptions/read
+azure arc scvmm vm contributor,microsoft.resources/subscriptions/resourcegroups/deployments/operations/read
+azure arc scvmm vm contributor,microsoft.resources/subscriptions/resourcegroups/deployments/operationstatuses/read
+azure arc scvmm vm contributor,microsoft.resources/subscriptions/resourcegroups/deployments/read
+azure arc scvmm vm contributor,microsoft.resources/subscriptions/resourcegroups/deployments/write
+azure arc scvmm vm contributor,microsoft.resources/subscriptions/resourcegroups/read
+azure arc scvmm vm contributor,microsoft.scvmm/virtualmachineinstances/*
+azure arc scvmm vm contributor,microsoft.scvmm/virtualmachines/*
+azure resource bridge deployment role,microsoft.authorization/roleassignments/read
+azure resource bridge deployment role,microsoft.azurestackhci/register/action
+azure resource bridge deployment role,microsoft.azurestackhci/storagecontainers/read
+azure resource bridge deployment role,microsoft.azurestackhci/storagecontainers/write
+azure resource bridge deployment role,microsoft.extendedlocation/customlocations/delete
+azure resource bridge deployment role,microsoft.extendedlocation/customlocations/deploy/action
+azure resource bridge deployment role,microsoft.extendedlocation/customlocations/read
+azure resource bridge deployment role,microsoft.extendedlocation/customlocations/write
+azure resource bridge deployment role,microsoft.extendedlocation/register/action
+azure resource bridge deployment role,microsoft.guestconfiguration/guestconfigurationassignments/read
+azure resource bridge deployment role,microsoft.hybridconnectivity/register/action
+azure resource bridge deployment role,microsoft.hybridcontainerservice/kubernetesversions/read
+azure resource bridge deployment role,microsoft.hybridcontainerservice/kubernetesversions/write
+azure resource bridge deployment role,microsoft.hybridcontainerservice/register/action
+azure resource bridge deployment role,microsoft.hybridcontainerservice/skus/read
+azure resource bridge deployment role,microsoft.hybridcontainerservice/skus/write
+azure resource bridge deployment role,microsoft.kubernetes/register/action
+azure resource bridge deployment role,microsoft.kubernetesconfiguration/extensions/delete
+azure resource bridge deployment role,microsoft.kubernetesconfiguration/extensions/operations/read
+azure resource bridge deployment role,microsoft.kubernetesconfiguration/extensions/read
+azure resource bridge deployment role,microsoft.kubernetesconfiguration/extensions/write
+azure resource bridge deployment role,microsoft.kubernetesconfiguration/namespaces/read
+azure resource bridge deployment role,microsoft.kubernetesconfiguration/operations/read
+azure resource bridge deployment role,microsoft.kubernetesconfiguration/register/action
+azure resource bridge deployment role,microsoft.resourceconnector/appliances/delete
+azure resource bridge deployment role,microsoft.resourceconnector/appliances/listclusterusercredential/action
+azure resource bridge deployment role,microsoft.resourceconnector/appliances/listkeys/action
+azure resource bridge deployment role,microsoft.resourceconnector/appliances/read
+azure resource bridge deployment role,microsoft.resourceconnector/appliances/upgradegraphs/read
+azure resource bridge deployment role,microsoft.resourceconnector/appliances/write
+azure resource bridge deployment role,microsoft.resourceconnector/locations/operationresults/read
+azure resource bridge deployment role,microsoft.resourceconnector/locations/operationsstatus/read
+azure resource bridge deployment role,microsoft.resourceconnector/operations/read
+azure resource bridge deployment role,microsoft.resourceconnector/register/action
+azure resource bridge deployment role,microsoft.resourceconnector/telemetryconfig/read
+azure resource bridge deployment role,microsoft.resources/subscriptions/resourcegroups/read
+azure stack hci administrator,microsoft.authorization/*/read
+azure stack hci administrator,microsoft.authorization/roleassignments/delete
+azure stack hci administrator,microsoft.authorization/roleassignments/write
+azure stack hci administrator,microsoft.azurestackhci/*
+azure stack hci administrator,microsoft.azurestackhci/clusters/*
+azure stack hci administrator,microsoft.azurestackhci/devicepools/*
+azure stack hci administrator,microsoft.azurestackhci/edgemachines/*
+azure stack hci administrator,microsoft.azurestackhci/networksecuritygroups/delete
+azure stack hci administrator,microsoft.azurestackhci/networksecuritygroups/join/action
+azure stack hci administrator,microsoft.azurestackhci/networksecuritygroups/read
+azure stack hci administrator,microsoft.azurestackhci/networksecuritygroups/securityrules/delete
+azure stack hci administrator,microsoft.azurestackhci/networksecuritygroups/securityrules/read
+azure stack hci administrator,microsoft.azurestackhci/networksecuritygroups/securityrules/write
+azure stack hci administrator,microsoft.azurestackhci/networksecuritygroups/write
+azure stack hci administrator,microsoft.azurestackhci/register/action
+azure stack hci administrator,microsoft.azurestackhci/storagecontainers/read
+azure stack hci administrator,microsoft.azurestackhci/storagecontainers/write
+azure stack hci administrator,microsoft.azurestackhci/unregister/action
+azure stack hci administrator,microsoft.edgemarketplace/offers/read
+azure stack hci administrator,microsoft.edgemarketplace/publishers/read
+azure stack hci administrator,microsoft.extendedlocation/customlocations/delete
+azure stack hci administrator,microsoft.extendedlocation/customlocations/deploy/action
+azure stack hci administrator,microsoft.extendedlocation/customlocations/read
+azure stack hci administrator,microsoft.extendedlocation/customlocations/write
+azure stack hci administrator,microsoft.extendedlocation/register/action
+azure stack hci administrator,microsoft.guestconfiguration/guestconfigurationassignments/read
+azure stack hci administrator,microsoft.guestconfiguration/register/action
+azure stack hci administrator,microsoft.hybridcompute/gateways/delete
+azure stack hci administrator,microsoft.hybridcompute/gateways/read
+azure stack hci administrator,microsoft.hybridcompute/gateways/write
+azure stack hci administrator,microsoft.hybridcompute/licenses/delete
+azure stack hci administrator,microsoft.hybridcompute/licenses/read
+azure stack hci administrator,microsoft.hybridcompute/licenses/write
+azure stack hci administrator,microsoft.hybridcompute/locations/operationresults/read
+azure stack hci administrator,microsoft.hybridcompute/locations/operationstatus/read
+azure stack hci administrator,microsoft.hybridcompute/locations/updatecenteroperationresults/read
+azure stack hci administrator,microsoft.hybridcompute/machines/assesspatches/action
+azure stack hci administrator,microsoft.hybridcompute/machines/delete
+azure stack hci administrator,microsoft.hybridcompute/machines/extensions/delete
+azure stack hci administrator,microsoft.hybridcompute/machines/extensions/read
+azure stack hci administrator,microsoft.hybridcompute/machines/extensions/write
+azure stack hci administrator,microsoft.hybridcompute/machines/hybrididentitymetadata/read
+azure stack hci administrator,microsoft.hybridcompute/machines/installpatches/action
+azure stack hci administrator,microsoft.hybridcompute/machines/licenseprofiles/delete
+azure stack hci administrator,microsoft.hybridcompute/machines/licenseprofiles/read
+azure stack hci administrator,microsoft.hybridcompute/machines/licenseprofiles/write
+azure stack hci administrator,microsoft.hybridcompute/machines/patchassessmentresults/read
+azure stack hci administrator,microsoft.hybridcompute/machines/patchassessmentresults/softwarepatches/read
+azure stack hci administrator,microsoft.hybridcompute/machines/patchinstallationresults/read
+azure stack hci administrator,microsoft.hybridcompute/machines/patchinstallationresults/softwarepatches/read
+azure stack hci administrator,microsoft.hybridcompute/machines/read
+azure stack hci administrator,microsoft.hybridcompute/machines/runcommands/delete
+azure stack hci administrator,microsoft.hybridcompute/machines/runcommands/read
+azure stack hci administrator,microsoft.hybridcompute/machines/runcommands/write
+azure stack hci administrator,microsoft.hybridcompute/machines/upgradeextensions/action
+azure stack hci administrator,microsoft.hybridcompute/machines/write
+azure stack hci administrator,microsoft.hybridcompute/operations/read
+azure stack hci administrator,microsoft.hybridcompute/ostype/agentversions/latest/read
+azure stack hci administrator,microsoft.hybridcompute/ostype/agentversions/read
+azure stack hci administrator,microsoft.hybridcompute/register/action
+azure stack hci administrator,microsoft.hybridcompute/settings/read
+azure stack hci administrator,microsoft.hybridcompute/settings/write
+azure stack hci administrator,microsoft.hybridconnectivity/register/action
+azure stack hci administrator,microsoft.hybridcontainerservice/register/action
+azure stack hci administrator,microsoft.insights/alertrules/activated/action
+azure stack hci administrator,microsoft.insights/alertrules/delete
+azure stack hci administrator,microsoft.insights/alertrules/incidents/read
+azure stack hci administrator,microsoft.insights/alertrules/read
+azure stack hci administrator,microsoft.insights/alertrules/resolved/action
+azure stack hci administrator,microsoft.insights/alertrules/throttled/action
+azure stack hci administrator,microsoft.insights/alertrules/write
+azure stack hci administrator,microsoft.kubernetes/register/action
+azure stack hci administrator,microsoft.kubernetesconfiguration/extensions/delete
+azure stack hci administrator,microsoft.kubernetesconfiguration/extensions/operations/read
+azure stack hci administrator,microsoft.kubernetesconfiguration/extensions/read
+azure stack hci administrator,microsoft.kubernetesconfiguration/extensions/write
+azure stack hci administrator,microsoft.kubernetesconfiguration/namespaces/read
+azure stack hci administrator,microsoft.kubernetesconfiguration/operations/read
+azure stack hci administrator,microsoft.kubernetesconfiguration/register/action
+azure stack hci administrator,microsoft.management/managementgroups/read
+azure stack hci administrator,microsoft.resourceconnector/appliances/delete
+azure stack hci administrator,microsoft.resourceconnector/appliances/listclusterusercredential/action
+azure stack hci administrator,microsoft.resourceconnector/appliances/listkeys/action
+azure stack hci administrator,microsoft.resourceconnector/appliances/read
+azure stack hci administrator,microsoft.resourceconnector/appliances/write
+azure stack hci administrator,microsoft.resourceconnector/locations/operationresults/read
+azure stack hci administrator,microsoft.resourceconnector/locations/operationsstatus/read
+azure stack hci administrator,microsoft.resourceconnector/operations/read
+azure stack hci administrator,microsoft.resourceconnector/register/action
+azure stack hci administrator,microsoft.resourcehealth/availabilitystatuses/read
+azure stack hci administrator,microsoft.resources/deployments/*
+azure stack hci administrator,microsoft.resources/subscriptions/operationresults/read
+azure stack hci administrator,microsoft.resources/subscriptions/read
+azure stack hci administrator,microsoft.resources/subscriptions/resourcegroups/delete
+azure stack hci administrator,microsoft.resources/subscriptions/resourcegroups/deployments/operations/read
+azure stack hci administrator,microsoft.resources/subscriptions/resourcegroups/deployments/operationstatuses/read
+azure stack hci administrator,microsoft.resources/subscriptions/resourcegroups/deployments/read
+azure stack hci administrator,microsoft.resources/subscriptions/resourcegroups/deployments/write
+azure stack hci administrator,microsoft.resources/subscriptions/resourcegroups/read
+azure stack hci administrator,microsoft.resources/subscriptions/resourcegroups/write
+azure stack hci administrator,microsoft.support/*
+azure stack hci connected infravms,microsoft.hybridcompute/*/read
+azure stack hci connected infravms,microsoft.hybridcompute/machines/delete
+azure stack hci connected infravms,microsoft.hybridcompute/machines/extensions/delete
+azure stack hci connected infravms,microsoft.hybridcompute/machines/extensions/read
+azure stack hci connected infravms,microsoft.hybridcompute/machines/extensions/write
+azure stack hci connected infravms,microsoft.hybridcompute/machines/upgradeextensions/action
+azure stack hci connected infravms,microsoft.hybridcompute/machines/write
+azure stack hci device management role,microsoft.authorization/roleassignments/read
+azure stack hci device management role,microsoft.azurestackhci/clusters/*
+azure stack hci device management role,microsoft.azurestackhci/devicepools/*/read
+azure stack hci device management role,microsoft.azurestackhci/edgedevices/*
+azure stack hci device management role,microsoft.azurestackhci/edgemachines/*/read
+azure stack hci device management role,microsoft.azurestackhci/logicalnetworks/read
+azure stack hci device management role,microsoft.azurestackhci/logicalnetworks/write
+azure stack hci device management role,microsoft.azurestackhci/register/action
+azure stack hci device management role,microsoft.azurestackhci/storagecontainers/read
+azure stack hci device management role,microsoft.azurestackhci/storagecontainers/write
+azure stack hci device management role,microsoft.extendedlocation/customlocations/delete
+azure stack hci device management role,microsoft.extendedlocation/customlocations/deploy/action
+azure stack hci device management role,microsoft.extendedlocation/customlocations/read
+azure stack hci device management role,microsoft.extendedlocation/customlocations/write
+azure stack hci device management role,microsoft.guestconfiguration/guestconfigurationassignments/read
+azure stack hci device management role,microsoft.hybridcontainerservice/kubernetesversions/read
+azure stack hci device management role,microsoft.hybridcontainerservice/kubernetesversions/write
+azure stack hci device management role,microsoft.hybridcontainerservice/register/action
+azure stack hci device management role,microsoft.hybridcontainerservice/skus/read
+azure stack hci device management role,microsoft.hybridcontainerservice/skus/write
+azure stack hci device management role,microsoft.kubernetesconfiguration/extensions/delete
+azure stack hci device management role,microsoft.kubernetesconfiguration/extensions/operations/read
+azure stack hci device management role,microsoft.kubernetesconfiguration/extensions/read
+azure stack hci device management role,microsoft.kubernetesconfiguration/extensions/write
+azure stack hci device management role,microsoft.kubernetesconfiguration/namespaces/read
+azure stack hci device management role,microsoft.kubernetesconfiguration/operations/read
+azure stack hci device management role,microsoft.resourceconnector/appliances/delete
+azure stack hci device management role,microsoft.resourceconnector/appliances/listclusterusercredential/action
+azure stack hci device management role,microsoft.resourceconnector/appliances/listkeys/action
+azure stack hci device management role,microsoft.resourceconnector/appliances/read
+azure stack hci device management role,microsoft.resourceconnector/appliances/upgradegraphs/read
+azure stack hci device management role,microsoft.resourceconnector/appliances/write
+azure stack hci device management role,microsoft.resourceconnector/locations/operationresults/read
+azure stack hci device management role,microsoft.resourceconnector/locations/operationsstatus/read
+azure stack hci device management role,microsoft.resourceconnector/operations/read
+azure stack hci device management role,microsoft.resourceconnector/telemetryconfig/read
+azure stack hci device management role,microsoft.resources/subscriptions/resourcegroups/read
+azure stack hci vm contributor,microsoft.authorization/*/read
+azure stack hci vm contributor,microsoft.azurestackhci/clusters/arcsettings/read
+azure stack hci vm contributor,microsoft.azurestackhci/clusters/read
+azure stack hci vm contributor,microsoft.azurestackhci/galleryimages/deploy/action
+azure stack hci vm contributor,microsoft.azurestackhci/galleryimages/read
+azure stack hci vm contributor,microsoft.azurestackhci/logicalnetworks/join/action
+azure stack hci vm contributor,microsoft.azurestackhci/logicalnetworks/read
+azure stack hci vm contributor,microsoft.azurestackhci/marketplacegalleryimages/deploy/action
+azure stack hci vm contributor,microsoft.azurestackhci/marketplacegalleryimages/read
+azure stack hci vm contributor,microsoft.azurestackhci/networkinterfaces/*
+azure stack hci vm contributor,microsoft.azurestackhci/networksecuritygroups/read
+azure stack hci vm contributor,microsoft.azurestackhci/networksecuritygroups/securityrules/read
+azure stack hci vm contributor,microsoft.azurestackhci/storagecontainers/deploy/action
+azure stack hci vm contributor,microsoft.azurestackhci/storagecontainers/read
+azure stack hci vm contributor,microsoft.azurestackhci/virtualharddisks/*
+azure stack hci vm contributor,microsoft.azurestackhci/virtualmachineinstances/*
+azure stack hci vm contributor,microsoft.azurestackhci/virtualmachines/*
+azure stack hci vm contributor,microsoft.azurestackhci/virtualnetworks/join/action
+azure stack hci vm contributor,microsoft.azurestackhci/virtualnetworks/read
+azure stack hci vm contributor,microsoft.extendedlocation/customlocations/deploy/action
+azure stack hci vm contributor,microsoft.extendedlocation/customlocations/read
+azure stack hci vm contributor,microsoft.hybridcompute/licenses/delete
+azure stack hci vm contributor,microsoft.hybridcompute/licenses/read
+azure stack hci vm contributor,microsoft.hybridcompute/licenses/write
+azure stack hci vm contributor,microsoft.hybridcompute/locations/operationresults/read
+azure stack hci vm contributor,microsoft.hybridcompute/locations/operationstatus/read
+azure stack hci vm contributor,microsoft.hybridcompute/locations/updatecenteroperationresults/read
+azure stack hci vm contributor,microsoft.hybridcompute/machines/assesspatches/action
+azure stack hci vm contributor,microsoft.hybridcompute/machines/delete
+azure stack hci vm contributor,microsoft.hybridcompute/machines/extensions/delete
+azure stack hci vm contributor,microsoft.hybridcompute/machines/extensions/read
+azure stack hci vm contributor,microsoft.hybridcompute/machines/extensions/write
+azure stack hci vm contributor,microsoft.hybridcompute/machines/hybrididentitymetadata/read
+azure stack hci vm contributor,microsoft.hybridcompute/machines/installpatches/action
+azure stack hci vm contributor,microsoft.hybridcompute/machines/licenseprofiles/delete
+azure stack hci vm contributor,microsoft.hybridcompute/machines/licenseprofiles/read
+azure stack hci vm contributor,microsoft.hybridcompute/machines/licenseprofiles/write
+azure stack hci vm contributor,microsoft.hybridcompute/machines/patchassessmentresults/read
+azure stack hci vm contributor,microsoft.hybridcompute/machines/patchassessmentresults/softwarepatches/read
+azure stack hci vm contributor,microsoft.hybridcompute/machines/patchinstallationresults/read
+azure stack hci vm contributor,microsoft.hybridcompute/machines/patchinstallationresults/softwarepatches/read
+azure stack hci vm contributor,microsoft.hybridcompute/machines/read
+azure stack hci vm contributor,microsoft.hybridcompute/machines/runcommands/delete
+azure stack hci vm contributor,microsoft.hybridcompute/machines/runcommands/read
+azure stack hci vm contributor,microsoft.hybridcompute/machines/runcommands/write
+azure stack hci vm contributor,microsoft.hybridcompute/machines/upgradeextensions/action
+azure stack hci vm contributor,microsoft.hybridcompute/machines/write
+azure stack hci vm contributor,microsoft.hybridcompute/operations/read
+azure stack hci vm contributor,microsoft.hybridcompute/ostype/agentversions/latest/read
+azure stack hci vm contributor,microsoft.hybridcompute/ostype/agentversions/read
+azure stack hci vm contributor,microsoft.insights/alertrules/activated/action
+azure stack hci vm contributor,microsoft.insights/alertrules/delete
+azure stack hci vm contributor,microsoft.insights/alertrules/incidents/read
+azure stack hci vm contributor,microsoft.insights/alertrules/read
+azure stack hci vm contributor,microsoft.insights/alertrules/resolved/action
+azure stack hci vm contributor,microsoft.insights/alertrules/throttled/action
+azure stack hci vm contributor,microsoft.insights/alertrules/write
+azure stack hci vm contributor,microsoft.kubernetesconfiguration/extensions/read
+azure stack hci vm contributor,microsoft.resourcehealth/availabilitystatuses/read
+azure stack hci vm contributor,microsoft.resources/deployments/cancel/action
+azure stack hci vm contributor,microsoft.resources/deployments/delete
+azure stack hci vm contributor,microsoft.resources/deployments/exporttemplate/action
+azure stack hci vm contributor,microsoft.resources/deployments/operations/read
+azure stack hci vm contributor,microsoft.resources/deployments/operationstatuses/read
+azure stack hci vm contributor,microsoft.resources/deployments/read
+azure stack hci vm contributor,microsoft.resources/deployments/validate/action
+azure stack hci vm contributor,microsoft.resources/deployments/whatif/action
+azure stack hci vm contributor,microsoft.resources/deployments/write
+azure stack hci vm contributor,microsoft.resources/subscriptions/operationresults/read
+azure stack hci vm contributor,microsoft.resources/subscriptions/read
+azure stack hci vm contributor,microsoft.resources/subscriptions/resourcegroups/deployments/operations/read
+azure stack hci vm contributor,microsoft.resources/subscriptions/resourcegroups/deployments/operationstatuses/read
+azure stack hci vm contributor,microsoft.resources/subscriptions/resourcegroups/deployments/read
+azure stack hci vm contributor,microsoft.resources/subscriptions/resourcegroups/deployments/write
+azure stack hci vm contributor,microsoft.resources/subscriptions/resourcegroups/read
+azure stack hci vm reader,microsoft.authorization/*/read
+azure stack hci vm reader,microsoft.azurestackhci/galleryimages/read
+azure stack hci vm reader,microsoft.azurestackhci/logicalnetworks/read
+azure stack hci vm reader,microsoft.azurestackhci/marketplacegalleryimages/read
+azure stack hci vm reader,microsoft.azurestackhci/networkinterfaces/read
+azure stack hci vm reader,microsoft.azurestackhci/networksecuritygroups/read
+azure stack hci vm reader,microsoft.azurestackhci/networksecuritygroups/securityrules/read
+azure stack hci vm reader,microsoft.azurestackhci/storagecontainers/read
+azure stack hci vm reader,microsoft.azurestackhci/virtualharddisks/read
+azure stack hci vm reader,microsoft.azurestackhci/virtualmachineinstances/read
+azure stack hci vm reader,microsoft.azurestackhci/virtualmachines/extensions/read
+azure stack hci vm reader,microsoft.azurestackhci/virtualmachines/read
+azure stack hci vm reader,microsoft.azurestackhci/virtualnetworks/read
+azure stack hci vm reader,microsoft.hybridcompute/licenses/read
+azure stack hci vm reader,microsoft.hybridcompute/machines/extensions/read
+azure stack hci vm reader,microsoft.hybridcompute/machines/licenseprofiles/read
+azure stack hci vm reader,microsoft.hybridcompute/machines/patchassessmentresults/read
+azure stack hci vm reader,microsoft.hybridcompute/machines/patchassessmentresults/softwarepatches/read
+azure stack hci vm reader,microsoft.hybridcompute/machines/patchinstallationresults/read
+azure stack hci vm reader,microsoft.hybridcompute/machines/patchinstallationresults/softwarepatches/read
+azure stack hci vm reader,microsoft.hybridcompute/machines/read
+azure stack hci vm reader,microsoft.hybridcompute/privatelinkscopes/networksecurityperimeterconfigurations/read
+azure stack hci vm reader,microsoft.hybridcompute/privatelinkscopes/privateendpointconnections/read
+azure stack hci vm reader,microsoft.hybridcompute/privatelinkscopes/read
+azure stack hci vm reader,microsoft.insights/alertrules/activated/action
+azure stack hci vm reader,microsoft.insights/alertrules/delete
+azure stack hci vm reader,microsoft.insights/alertrules/incidents/read
+azure stack hci vm reader,microsoft.insights/alertrules/read
+azure stack hci vm reader,microsoft.insights/alertrules/resolved/action
+azure stack hci vm reader,microsoft.insights/alertrules/throttled/action
+azure stack hci vm reader,microsoft.insights/alertrules/write
+azure stack hci vm reader,microsoft.resourcehealth/availabilitystatuses/read
+azure stack hci vm reader,microsoft.resources/deployments/exporttemplate/action
+azure stack hci vm reader,microsoft.resources/deployments/operations/read
+azure stack hci vm reader,microsoft.resources/deployments/operationstatuses/read
+azure stack hci vm reader,microsoft.resources/deployments/read
+azure stack hci vm reader,microsoft.resources/subscriptions/operationresults/read
+azure stack hci vm reader,microsoft.resources/subscriptions/read
+azure stack hci vm reader,microsoft.resources/subscriptions/resourcegroups/deployments/operations/read
+azure stack hci vm reader,microsoft.resources/subscriptions/resourcegroups/deployments/operationstatuses/read
+azure stack hci vm reader,microsoft.resources/subscriptions/resourcegroups/deployments/read
+azure stack hci vm reader,microsoft.resources/subscriptions/resourcegroups/read
+azure stack registration owner,microsoft.azurestack/edgesubscriptions/read
+azure stack registration owner,microsoft.azurestack/registrations/products/*/action
+azure stack registration owner,microsoft.azurestack/registrations/products/read
+azure stack registration owner,microsoft.azurestack/registrations/read
+hybrid server resource administrator,microsoft.hybridcompute/*/read
+hybrid server resource administrator,microsoft.hybridcompute/machines/*

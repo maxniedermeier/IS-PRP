@@ -1,0 +1,179 @@
+role_name,permission_name
+chaos studio experiment contributor,microsoft.authorization/*/read
+chaos studio experiment contributor,microsoft.chaos/*
+chaos studio experiment contributor,microsoft.insights/alertrules/*
+chaos studio experiment contributor,microsoft.resources/deployments/*
+chaos studio experiment contributor,microsoft.resources/subscriptions/resourcegroups/read
+chaos studio operator,microsoft.authorization/*/read
+chaos studio operator,microsoft.chaos/*/read
+chaos studio operator,microsoft.chaos/experiments/cancel/action
+chaos studio operator,microsoft.chaos/experiments/executions/getexecutiondetails/action
+chaos studio operator,microsoft.chaos/experiments/start/action
+chaos studio operator,microsoft.chaos/locations/operationresults/read
+chaos studio operator,microsoft.chaos/locations/operationstatuses/read
+chaos studio operator,microsoft.insights/alertrules/*
+chaos studio operator,microsoft.resources/deployments/*
+chaos studio operator,microsoft.resources/subscriptions/resourcegroups/read
+chaos studio reader,microsoft.authorization/*/read
+chaos studio reader,microsoft.chaos/*/read
+chaos studio reader,microsoft.chaos/experiments/executions/getexecutiondetails/action
+chaos studio reader,microsoft.insights/alertrules/*
+chaos studio reader,microsoft.resources/deployments/*
+chaos studio reader,microsoft.resources/subscriptions/resourcegroups/read
+chaos studio target contributor,microsoft.authorization/*/read
+chaos studio target contributor,microsoft.chaos/locations/targettypes/capabilitytypes/read
+chaos studio target contributor,microsoft.chaos/locations/targettypes/read
+chaos studio target contributor,microsoft.chaos/targets/capabilities/delete
+chaos studio target contributor,microsoft.chaos/targets/capabilities/read
+chaos studio target contributor,microsoft.chaos/targets/capabilities/write
+chaos studio target contributor,microsoft.chaos/targets/delete
+chaos studio target contributor,microsoft.chaos/targets/read
+chaos studio target contributor,microsoft.chaos/targets/write
+chaos studio target contributor,microsoft.insights/alertrules/*
+chaos studio target contributor,microsoft.resources/deployments/*
+chaos studio target contributor,microsoft.resources/subscriptions/resourcegroups/read
+devcenter dev box user,microsoft.authorization/*/read
+devcenter dev box user,microsoft.devcenter/projects/*/read
+devcenter dev box user,microsoft.devcenter/projects/read
+devcenter dev box user,microsoft.devcenter/projects/users/devboxes/useractionmanage/action
+devcenter dev box user,microsoft.devcenter/projects/users/devboxes/useractionread/action
+devcenter dev box user,microsoft.devcenter/projects/users/devboxes/usercustomize/action
+devcenter dev box user,microsoft.devcenter/projects/users/devboxes/userdelete/action
+devcenter dev box user,microsoft.devcenter/projects/users/devboxes/usergetremoteconnection/action
+devcenter dev box user,microsoft.devcenter/projects/users/devboxes/userread/action
+devcenter dev box user,microsoft.devcenter/projects/users/devboxes/userstart/action
+devcenter dev box user,microsoft.devcenter/projects/users/devboxes/userstop/action
+devcenter dev box user,microsoft.devcenter/projects/users/devboxes/userupcomingactionmanage/action
+devcenter dev box user,microsoft.devcenter/projects/users/devboxes/userupcomingactionread/action
+devcenter dev box user,microsoft.devcenter/projects/users/devboxes/userwrite/action
+devcenter dev box user,microsoft.resources/subscriptions/resourcegroups/read
+devcenter owner,microsoft.authorization/*/read
+devcenter owner,microsoft.authorization/roleassignments/delete
+devcenter owner,microsoft.authorization/roleassignments/write
+devcenter owner,microsoft.devcenter/*
+devcenter owner,microsoft.resources/deployments/*
+devcenter owner,microsoft.resources/subscriptions/resourcegroups/read
+devops infrastructure contributor,microsoft.authorization/*/read
+devops infrastructure contributor,microsoft.devopsinfrastructure/*/read
+devops infrastructure contributor,microsoft.devopsinfrastructure/locations/operationstatuses/write
+devops infrastructure contributor,microsoft.devopsinfrastructure/pools/delete
+devops infrastructure contributor,microsoft.devopsinfrastructure/pools/write
+devops infrastructure contributor,microsoft.devopsinfrastructure/register/action
+devops infrastructure contributor,microsoft.devopsinfrastructure/unregister/action
+devops infrastructure contributor,microsoft.insights/alertrules/*
+devops infrastructure contributor,microsoft.resources/deployments/*
+devops infrastructure contributor,microsoft.resources/subscriptions/resourcegroups/read
+lab assistant,microsoft.authorization/*/read
+lab assistant,microsoft.insights/alertrules/*
+lab assistant,microsoft.labservices/labplans/images/read
+lab assistant,microsoft.labservices/labplans/read
+lab assistant,microsoft.labservices/labs/read
+lab assistant,microsoft.labservices/labs/schedules/read
+lab assistant,microsoft.labservices/labs/users/invite/action
+lab assistant,microsoft.labservices/labs/users/read
+lab assistant,microsoft.labservices/labs/virtualmachines/read
+lab assistant,microsoft.labservices/labs/virtualmachines/redeploy/action
+lab assistant,microsoft.labservices/labs/virtualmachines/reimage/action
+lab assistant,microsoft.labservices/labs/virtualmachines/start/action
+lab assistant,microsoft.labservices/labs/virtualmachines/stop/action
+lab assistant,microsoft.labservices/locations/usages/read
+lab assistant,microsoft.labservices/skus/read
+lab assistant,microsoft.resources/deployments/*
+lab assistant,microsoft.resources/subscriptions/resourcegroups/read
+lab contributor,microsoft.authorization/*/read
+lab contributor,microsoft.insights/alertrules/*
+lab contributor,microsoft.labservices/labplans/createlab/action
+lab contributor,microsoft.labservices/labplans/images/read
+lab contributor,microsoft.labservices/labplans/read
+lab contributor,microsoft.labservices/labplans/saveimage/action
+lab contributor,microsoft.labservices/labs/delete
+lab contributor,microsoft.labservices/labs/publish/action
+lab contributor,microsoft.labservices/labs/read
+lab contributor,microsoft.labservices/labs/schedules/delete
+lab contributor,microsoft.labservices/labs/schedules/read
+lab contributor,microsoft.labservices/labs/schedules/write
+lab contributor,microsoft.labservices/labs/syncgroup/action
+lab contributor,microsoft.labservices/labs/users/delete
+lab contributor,microsoft.labservices/labs/users/invite/action
+lab contributor,microsoft.labservices/labs/users/read
+lab contributor,microsoft.labservices/labs/users/write
+lab contributor,microsoft.labservices/labs/virtualmachines/read
+lab contributor,microsoft.labservices/labs/virtualmachines/redeploy/action
+lab contributor,microsoft.labservices/labs/virtualmachines/reimage/action
+lab contributor,microsoft.labservices/labs/virtualmachines/resetpassword/action
+lab contributor,microsoft.labservices/labs/virtualmachines/start/action
+lab contributor,microsoft.labservices/labs/virtualmachines/stop/action
+lab contributor,microsoft.labservices/labs/write
+lab contributor,microsoft.labservices/locations/usages/read
+lab contributor,microsoft.labservices/skus/read
+lab contributor,microsoft.resources/deployments/*
+lab contributor,microsoft.resources/subscriptions/resourcegroups/read
+lab creator,microsoft.authorization/*/read
+lab creator,microsoft.insights/alertrules/*
+lab creator,microsoft.labservices/labaccounts/*/read
+lab creator,microsoft.labservices/labaccounts/createlab/action
+lab creator,microsoft.labservices/labaccounts/getpricingandavailability/action
+lab creator,microsoft.labservices/labaccounts/getrestrictionsandusage/action
+lab creator,microsoft.labservices/labplans/createlab/action
+lab creator,microsoft.labservices/labplans/images/read
+lab creator,microsoft.labservices/labplans/read
+lab creator,microsoft.labservices/labplans/saveimage/action
+lab creator,microsoft.labservices/labs/read
+lab creator,microsoft.labservices/labs/schedules/read
+lab creator,microsoft.labservices/labs/users/read
+lab creator,microsoft.labservices/labs/virtualmachines/read
+lab creator,microsoft.labservices/locations/usages/read
+lab creator,microsoft.labservices/skus/read
+lab creator,microsoft.resources/deployments/*
+lab creator,microsoft.resources/subscriptions/resourcegroups/read
+lab creator,microsoft.support/*
+lab operator,microsoft.authorization/*/read
+lab operator,microsoft.insights/alertrules/*
+lab operator,microsoft.labservices/labplans/images/read
+lab operator,microsoft.labservices/labplans/read
+lab operator,microsoft.labservices/labplans/saveimage/action
+lab operator,microsoft.labservices/labs/publish/action
+lab operator,microsoft.labservices/labs/read
+lab operator,microsoft.labservices/labs/schedules/delete
+lab operator,microsoft.labservices/labs/schedules/read
+lab operator,microsoft.labservices/labs/schedules/write
+lab operator,microsoft.labservices/labs/users/delete
+lab operator,microsoft.labservices/labs/users/invite/action
+lab operator,microsoft.labservices/labs/users/read
+lab operator,microsoft.labservices/labs/users/write
+lab operator,microsoft.labservices/labs/virtualmachines/read
+lab operator,microsoft.labservices/labs/virtualmachines/redeploy/action
+lab operator,microsoft.labservices/labs/virtualmachines/reimage/action
+lab operator,microsoft.labservices/labs/virtualmachines/resetpassword/action
+lab operator,microsoft.labservices/labs/virtualmachines/start/action
+lab operator,microsoft.labservices/labs/virtualmachines/stop/action
+lab operator,microsoft.labservices/locations/usages/read
+lab operator,microsoft.labservices/skus/read
+lab operator,microsoft.resources/deployments/*
+lab operator,microsoft.resources/subscriptions/resourcegroups/read
+lab services contributor,microsoft.authorization/*/read
+lab services contributor,microsoft.insights/alertrules/*
+lab services contributor,microsoft.labservices/*
+lab services contributor,microsoft.labservices/labplans/createlab/action
+lab services contributor,microsoft.resources/deployments/*
+lab services contributor,microsoft.resources/subscriptions/resourcegroups/read
+lab services reader,microsoft.authorization/*/read
+lab services reader,microsoft.labservices/*/read
+lab services reader,microsoft.resources/deployments/*
+lab services reader,microsoft.resources/subscriptions/resourcegroups/read
+playwright workspace contributor,microsoft.authorization/*/read
+playwright workspace contributor,microsoft.loadtestservice/locations/playwrightquotas/*
+playwright workspace contributor,microsoft.loadtestservice/playwrightworkspaces/*/read
+playwright workspace contributor,microsoft.loadtestservice/playwrightworkspaces/accesstokens/*
+playwright workspace contributor,microsoft.loadtestservice/playwrightworkspaces/testruns/*
+playwright workspace contributor,microsoft.resources/deployments/*
+playwright workspace contributor,microsoft.resources/subscriptions/resourcegroups/read
+playwright workspace owner,microsoft.authorization/*/read
+playwright workspace owner,microsoft.loadtestservice/locations/playwrightquotas/*
+playwright workspace owner,microsoft.loadtestservice/playwrightworkspaces/*
+playwright workspace owner,microsoft.resources/deployments/*
+playwright workspace owner,microsoft.resources/subscriptions/resourcegroups/read
+playwright workspace reader,microsoft.authorization/*/read
+playwright workspace reader,microsoft.loadtestservice/locations/playwrightquotas/*/read
+playwright workspace reader,microsoft.loadtestservice/playwrightworkspaces/*/read
+playwright workspace reader,microsoft.resources/subscriptions/resourcegroups/read

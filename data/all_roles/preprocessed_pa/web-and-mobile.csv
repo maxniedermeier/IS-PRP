@@ -1,0 +1,80 @@
+role_name,permission_name
+azure maps data contributor,microsoft.maps/accounts/*/action
+azure maps data contributor,microsoft.maps/accounts/*/delete
+azure maps data contributor,microsoft.maps/accounts/*/read
+azure maps data contributor,microsoft.maps/accounts/*/write
+azure maps data reader,microsoft.maps/accounts/*/read
+azure maps search and render data reader,microsoft.maps/accounts/services/render/read
+azure maps search and render data reader,microsoft.maps/accounts/services/search/read
+azure spring apps application configuration service config file pattern reader role,microsoft.appplatform/spring/applicationconfigurationservice/read
+azure spring apps application configuration service config file pattern reader role,microsoft.appplatform/spring/configurationservices/read
+azure spring apps application configuration service config file pattern reader role,microsoft.appplatform/spring/read
+azure spring apps application configuration service log reader role,microsoft.appplatform/spring/applicationconfigurationservice/logstream/action
+azure spring apps application configuration service log reader role,microsoft.appplatform/spring/configurationservices/read
+azure spring apps application configuration service log reader role,microsoft.appplatform/spring/read
+azure spring apps connect role,microsoft.appplatform/spring/apps/deployments/connect/action
+azure spring apps job log reader role,microsoft.appplatform/spring/jobs/executions/listinstances/action
+azure spring apps job log reader role,microsoft.appplatform/spring/jobs/executions/logstream/action
+azure spring apps job log reader role,microsoft.appplatform/spring/jobs/executions/read
+azure spring apps job log reader role,microsoft.appplatform/spring/jobs/read
+azure spring apps job log reader role,microsoft.appplatform/spring/read
+azure spring apps remote debugging role,microsoft.appplatform/spring/apps/deployments/remotedebugging/action
+azure spring apps spring cloud gateway log reader role,microsoft.appplatform/spring/gateways/read
+azure spring apps spring cloud gateway log reader role,microsoft.appplatform/spring/read
+azure spring apps spring cloud gateway log reader role,microsoft.appplatform/spring/springcloudgateway/logstream/action
+azure spring cloud config server contributor,microsoft.appplatform/spring/configservice/delete
+azure spring cloud config server contributor,microsoft.appplatform/spring/configservice/read
+azure spring cloud config server contributor,microsoft.appplatform/spring/configservice/write
+azure spring cloud config server reader,microsoft.appplatform/spring/configservice/read
+azure spring cloud data reader,microsoft.appplatform/spring/*/read
+azure spring cloud service registry contributor,microsoft.appplatform/spring/eurekaservice/delete
+azure spring cloud service registry contributor,microsoft.appplatform/spring/eurekaservice/read
+azure spring cloud service registry contributor,microsoft.appplatform/spring/eurekaservice/write
+azure spring cloud service registry reader,microsoft.appplatform/spring/eurekaservice/read
+signalr accesskey reader,microsoft.authorization/*/read
+signalr accesskey reader,microsoft.resources/subscriptions/resourcegroups/read
+signalr accesskey reader,microsoft.signalrservice/*/read
+signalr accesskey reader,microsoft.signalrservice/signalr/listkeys/action
+signalr accesskey reader,microsoft.support/*
+signalr app server,microsoft.signalrservice/signalr/auth/accesskey/action
+signalr app server,microsoft.signalrservice/signalr/clientconnection/write
+signalr app server,microsoft.signalrservice/signalr/serverconnection/write
+signalr rest api owner,microsoft.signalrservice/signalr/auth/clienttoken/action
+signalr rest api owner,microsoft.signalrservice/signalr/clientconnection/*
+signalr rest api owner,microsoft.signalrservice/signalr/group/*
+signalr rest api owner,microsoft.signalrservice/signalr/hub/*
+signalr rest api owner,microsoft.signalrservice/signalr/user/*
+signalr rest api reader,microsoft.signalrservice/signalr/clientconnection/read
+signalr rest api reader,microsoft.signalrservice/signalr/group/read
+signalr rest api reader,microsoft.signalrservice/signalr/user/read
+signalr service owner,microsoft.signalrservice/signalr/*
+signalr/web pubsub contributor,microsoft.authorization/*/read
+signalr/web pubsub contributor,microsoft.insights/alertrules/*
+signalr/web pubsub contributor,microsoft.resources/deployments/*
+signalr/web pubsub contributor,microsoft.resources/subscriptions/resourcegroups/read
+signalr/web pubsub contributor,microsoft.signalrservice/*
+signalr/web pubsub contributor,microsoft.support/*
+web plan contributor,microsoft.authorization/*/read
+web plan contributor,microsoft.insights/alertrules/*
+web plan contributor,microsoft.insights/autoscalesettings/*
+web plan contributor,microsoft.resourcehealth/availabilitystatuses/read
+web plan contributor,microsoft.resources/deployments/*
+web plan contributor,microsoft.resources/subscriptions/resourcegroups/read
+web plan contributor,microsoft.support/*
+web plan contributor,microsoft.web/hostingenvironments/join/action
+web plan contributor,microsoft.web/serverfarms/*
+web pubsub service owner,microsoft.signalrservice/webpubsub/*
+web pubsub service reader,microsoft.signalrservice/webpubsub/*/read
+website contributor,microsoft.authorization/*/read
+website contributor,microsoft.insights/alertrules/*
+website contributor,microsoft.insights/components/*
+website contributor,microsoft.resourcehealth/availabilitystatuses/read
+website contributor,microsoft.resources/deployments/*
+website contributor,microsoft.resources/subscriptions/resourcegroups/read
+website contributor,microsoft.support/*
+website contributor,microsoft.web/certificates/*
+website contributor,microsoft.web/listsitesassignedtohostname/read
+website contributor,microsoft.web/register/action
+website contributor,microsoft.web/serverfarms/join/action
+website contributor,microsoft.web/serverfarms/read
+website contributor,microsoft.web/sites/*

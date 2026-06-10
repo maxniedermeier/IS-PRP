@@ -1,0 +1,551 @@
+role_name,permission_name
+avere contributor,microsoft.authorization/*/read
+avere contributor,microsoft.compute/*/read
+avere contributor,microsoft.compute/availabilitysets/*
+avere contributor,microsoft.compute/disks/*
+avere contributor,microsoft.compute/proximityplacementgroups/*
+avere contributor,microsoft.compute/virtualmachines/*
+avere contributor,microsoft.insights/alertrules/*
+avere contributor,microsoft.network/*/read
+avere contributor,microsoft.network/networkinterfaces/*
+avere contributor,microsoft.network/networksecuritygroups/join/action
+avere contributor,microsoft.network/virtualnetworks/read
+avere contributor,microsoft.network/virtualnetworks/subnets/join/action
+avere contributor,microsoft.network/virtualnetworks/subnets/joinviaserviceendpoint/action
+avere contributor,microsoft.network/virtualnetworks/subnets/read
+avere contributor,microsoft.resources/deployments/*
+avere contributor,microsoft.resources/subscriptions/resourcegroups/read
+avere contributor,microsoft.resources/subscriptions/resourcegroups/resources/read
+avere contributor,microsoft.storage/*/read
+avere contributor,microsoft.storage/storageaccounts/*
+avere contributor,microsoft.storage/storageaccounts/blobservices/containers/blobs/delete
+avere contributor,microsoft.storage/storageaccounts/blobservices/containers/blobs/read
+avere contributor,microsoft.storage/storageaccounts/blobservices/containers/blobs/write
+avere contributor,microsoft.support/*
+avere operator,microsoft.compute/virtualmachines/read
+avere operator,microsoft.network/networkinterfaces/read
+avere operator,microsoft.network/networkinterfaces/write
+avere operator,microsoft.network/networksecuritygroups/join/action
+avere operator,microsoft.network/virtualnetworks/read
+avere operator,microsoft.network/virtualnetworks/subnets/join/action
+avere operator,microsoft.network/virtualnetworks/subnets/read
+avere operator,microsoft.resources/subscriptions/resourcegroups/read
+avere operator,microsoft.storage/storageaccounts/blobservices/containers/blobs/delete
+avere operator,microsoft.storage/storageaccounts/blobservices/containers/blobs/read
+avere operator,microsoft.storage/storageaccounts/blobservices/containers/blobs/write
+avere operator,microsoft.storage/storageaccounts/blobservices/containers/delete
+avere operator,microsoft.storage/storageaccounts/blobservices/containers/read
+avere operator,microsoft.storage/storageaccounts/blobservices/containers/write
+azure file sync administrator,microsoft.authorization/*/read
+azure file sync administrator,microsoft.authorization/roleassignments/write
+azure file sync administrator,microsoft.insights/alertrules/*
+azure file sync administrator,microsoft.resources/deployments/*
+azure file sync administrator,microsoft.resources/subscriptions/resourcegroups/read
+azure file sync administrator,microsoft.storage/storageaccounts/fileservices/read
+azure file sync administrator,microsoft.storage/storageaccounts/fileservices/shares/read
+azure file sync administrator,microsoft.storage/storageaccounts/read
+azure file sync administrator,microsoft.storagesync/deployments/preflight/action
+azure file sync administrator,microsoft.storagesync/locations/*
+azure file sync administrator,microsoft.storagesync/operations/read
+azure file sync administrator,microsoft.storagesync/register/action
+azure file sync administrator,microsoft.storagesync/storagesyncservices/*
+azure file sync administrator,microsoft.storagesync/unregister/action
+azure file sync administrator,microsoft.support/*
+azure file sync reader,microsoft.storagesync/*/read
+backup contributor,microsoft.authorization/*/read
+backup contributor,microsoft.dataprotection/backupvaults/backupinstances/backup/action
+backup contributor,microsoft.dataprotection/backupvaults/backupinstances/delete
+backup contributor,microsoft.dataprotection/backupvaults/backupinstances/findrestorabletimeranges/action
+backup contributor,microsoft.dataprotection/backupvaults/backupinstances/operationresults/read
+backup contributor,microsoft.dataprotection/backupvaults/backupinstances/read
+backup contributor,microsoft.dataprotection/backupvaults/backupinstances/recoverypoints/read
+backup contributor,microsoft.dataprotection/backupvaults/backupinstances/restore/action
+backup contributor,microsoft.dataprotection/backupvaults/backupinstances/resumeprotection/action
+backup contributor,microsoft.dataprotection/backupvaults/backupinstances/suspendbackups/action
+backup contributor,microsoft.dataprotection/backupvaults/backupinstances/validateformodifybackup/action
+backup contributor,microsoft.dataprotection/backupvaults/backupinstances/validaterestore/action
+backup contributor,microsoft.dataprotection/backupvaults/backupinstances/write
+backup contributor,microsoft.dataprotection/backupvaults/backuppolicies/delete
+backup contributor,microsoft.dataprotection/backupvaults/backuppolicies/read
+backup contributor,microsoft.dataprotection/backupvaults/backuppolicies/write
+backup contributor,microsoft.dataprotection/backupvaults/backupresourceguardproxies/delete
+backup contributor,microsoft.dataprotection/backupvaults/backupresourceguardproxies/read
+backup contributor,microsoft.dataprotection/backupvaults/backupresourceguardproxies/unlockdelete/action
+backup contributor,microsoft.dataprotection/backupvaults/backupresourceguardproxies/write
+backup contributor,microsoft.dataprotection/backupvaults/deletedbackupinstances/read
+backup contributor,microsoft.dataprotection/backupvaults/deletedbackupinstances/undelete/action
+backup contributor,microsoft.dataprotection/backupvaults/operationresults/read
+backup contributor,microsoft.dataprotection/backupvaults/operationstatus/read
+backup contributor,microsoft.dataprotection/backupvaults/read
+backup contributor,microsoft.dataprotection/backupvaults/validateforbackup/action
+backup contributor,microsoft.dataprotection/backupvaults/write
+backup contributor,microsoft.dataprotection/locations/checkfeaturesupport/action
+backup contributor,microsoft.dataprotection/locations/checknameavailability/action
+backup contributor,microsoft.dataprotection/locations/getbackupstatus/action
+backup contributor,microsoft.dataprotection/locations/operationresults/read
+backup contributor,microsoft.dataprotection/locations/operationstatus/read
+backup contributor,microsoft.dataprotection/operations/read
+backup contributor,microsoft.dataprotection/subscriptions/resourcegroups/providers/locations/crossregionrestore/action
+backup contributor,microsoft.dataprotection/subscriptions/resourcegroups/providers/locations/fetchcrossregionrestorejob/action
+backup contributor,microsoft.dataprotection/subscriptions/resourcegroups/providers/locations/fetchcrossregionrestorejobs/action
+backup contributor,microsoft.dataprotection/subscriptions/resourcegroups/providers/locations/fetchsecondaryrecoverypoints/action
+backup contributor,microsoft.dataprotection/subscriptions/resourcegroups/providers/locations/validatecrossregionrestore/action
+backup contributor,microsoft.network/virtualnetworks/read
+backup contributor,microsoft.recoveryservices/locations/*
+backup contributor,microsoft.recoveryservices/locations/backupprevalidateprotection/action
+backup contributor,microsoft.recoveryservices/locations/backupstatus/action
+backup contributor,microsoft.recoveryservices/locations/backupvalidatefeatures/action
+backup contributor,microsoft.recoveryservices/locations/operationstatus/read
+backup contributor,microsoft.recoveryservices/operations/read
+backup contributor,microsoft.recoveryservices/vaults/backupconfig/*
+backup contributor,microsoft.recoveryservices/vaults/backupengines/read
+backup contributor,microsoft.recoveryservices/vaults/backupfabrics/backupprotectionintent/*
+backup contributor,microsoft.recoveryservices/vaults/backupfabrics/operationresults/*
+backup contributor,microsoft.recoveryservices/vaults/backupfabrics/protectablecontainers/read
+backup contributor,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/*
+backup contributor,microsoft.recoveryservices/vaults/backupfabrics/refreshcontainers/action
+backup contributor,microsoft.recoveryservices/vaults/backupjobs/*
+backup contributor,microsoft.recoveryservices/vaults/backupjobsexport/action
+backup contributor,microsoft.recoveryservices/vaults/backupoperationresults/*
+backup contributor,microsoft.recoveryservices/vaults/backupoperations/read
+backup contributor,microsoft.recoveryservices/vaults/backuppolicies/*
+backup contributor,microsoft.recoveryservices/vaults/backupprotectableitems/*
+backup contributor,microsoft.recoveryservices/vaults/backupprotecteditems/*
+backup contributor,microsoft.recoveryservices/vaults/backupprotectioncontainers/*
+backup contributor,microsoft.recoveryservices/vaults/backupprotectionintents/read
+backup contributor,microsoft.recoveryservices/vaults/backupresourceguardproxies/delete
+backup contributor,microsoft.recoveryservices/vaults/backupresourceguardproxies/read
+backup contributor,microsoft.recoveryservices/vaults/backupresourceguardproxies/unlockdelete/action
+backup contributor,microsoft.recoveryservices/vaults/backupresourceguardproxies/write
+backup contributor,microsoft.recoveryservices/vaults/backupsecuritypin/*
+backup contributor,microsoft.recoveryservices/vaults/backupstorageconfig/*
+backup contributor,microsoft.recoveryservices/vaults/backupusagesummaries/read
+backup contributor,microsoft.recoveryservices/vaults/backupvalidateoperation/action
+backup contributor,microsoft.recoveryservices/vaults/certificates/*
+backup contributor,microsoft.recoveryservices/vaults/extendedinformation/*
+backup contributor,microsoft.recoveryservices/vaults/monitoringalerts/read
+backup contributor,microsoft.recoveryservices/vaults/monitoringalerts/write
+backup contributor,microsoft.recoveryservices/vaults/monitoringconfigurations/*
+backup contributor,microsoft.recoveryservices/vaults/operationresults/read
+backup contributor,microsoft.recoveryservices/vaults/operationstatus/read
+backup contributor,microsoft.recoveryservices/vaults/read
+backup contributor,microsoft.recoveryservices/vaults/registeredidentities/*
+backup contributor,microsoft.recoveryservices/vaults/usages/*
+backup contributor,microsoft.recoveryservices/vaults/write
+backup contributor,microsoft.resources/deployments/*
+backup contributor,microsoft.resources/subscriptions/resourcegroups/read
+backup contributor,microsoft.storage/storageaccounts/read
+backup contributor,microsoft.support/*
+backup mua admin,microsoft.authorization/*/read
+backup mua admin,microsoft.dataprotection/*/read
+backup mua admin,microsoft.dataprotection/*/resourceguards/write
+backup mua admin,microsoft.dataprotection/backupvaults/backupresourceguardproxies/delete
+backup mua admin,microsoft.dataprotection/backupvaults/backupresourceguardproxies/read
+backup mua admin,microsoft.dataprotection/backupvaults/backupresourceguardproxies/unlockdelete/action
+backup mua admin,microsoft.dataprotection/backupvaults/backupresourceguardproxies/write
+backup mua admin,microsoft.dataprotection/locations/checkfeaturesupport/action
+backup mua admin,microsoft.dataprotection/locations/getbackupstatus/action
+backup mua admin,microsoft.dataprotection/locations/operationresults/read
+backup mua admin,microsoft.dataprotection/locations/operationstatus/read
+backup mua admin,microsoft.dataprotection/subscriptions/providers/resourceguards/read
+backup mua admin,microsoft.dataprotection/subscriptions/resourcegroups/providers/locations/operationstatus/read
+backup mua admin,microsoft.dataprotection/subscriptions/resourcegroups/providers/resourceguards/delete
+backup mua admin,microsoft.dataprotection/subscriptions/resourcegroups/providers/resourceguards/read
+backup mua admin,microsoft.dataprotection/subscriptions/resourcegroups/providers/resourceguards/write
+backup mua admin,microsoft.dataprotection/subscriptions/resourcegroups/providers/resourceguards/{operationname}/read
+backup mua admin,microsoft.features/features/read
+backup mua admin,microsoft.features/providers/features/read
+backup mua admin,microsoft.resourcehealth/availabilitystatuses/read
+backup mua admin,microsoft.resources/deployments/*
+backup mua admin,microsoft.resources/deployments/operations/read
+backup mua admin,microsoft.resources/subscriptions/operationresults/read
+backup mua admin,microsoft.resources/subscriptions/read
+backup mua admin,microsoft.resources/subscriptions/resourcegroups/deployments/*
+backup mua admin,microsoft.resources/subscriptions/resourcegroups/read
+backup mua operator,microsoft.authorization/*/read
+backup mua operator,microsoft.dataprotection/*/action
+backup mua operator,microsoft.dataprotection/*/read
+backup operator,microsoft.authorization/*/read
+backup operator,microsoft.dataprotection/backupvaults/backupinstances/backup/action
+backup operator,microsoft.dataprotection/backupvaults/backupinstances/findrestorabletimeranges/action
+backup operator,microsoft.dataprotection/backupvaults/backupinstances/operationresults/read
+backup operator,microsoft.dataprotection/backupvaults/backupinstances/read
+backup operator,microsoft.dataprotection/backupvaults/backupinstances/recoverypoints/read
+backup operator,microsoft.dataprotection/backupvaults/backupinstances/restore/action
+backup operator,microsoft.dataprotection/backupvaults/backupinstances/validateformodifybackup/action
+backup operator,microsoft.dataprotection/backupvaults/backupinstances/validaterestore/action
+backup operator,microsoft.dataprotection/backupvaults/backupinstances/write
+backup operator,microsoft.dataprotection/backupvaults/backuppolicies/read
+backup operator,microsoft.dataprotection/backupvaults/backupresourceguardproxies/delete
+backup operator,microsoft.dataprotection/backupvaults/backupresourceguardproxies/read
+backup operator,microsoft.dataprotection/backupvaults/backupresourceguardproxies/unlockdelete/action
+backup operator,microsoft.dataprotection/backupvaults/backupresourceguardproxies/write
+backup operator,microsoft.dataprotection/backupvaults/deletedbackupinstances/read
+backup operator,microsoft.dataprotection/backupvaults/operationresults/read
+backup operator,microsoft.dataprotection/backupvaults/operationstatus/read
+backup operator,microsoft.dataprotection/backupvaults/read
+backup operator,microsoft.dataprotection/backupvaults/validateforbackup/action
+backup operator,microsoft.dataprotection/locations/checkfeaturesupport/action
+backup operator,microsoft.dataprotection/locations/operationresults/read
+backup operator,microsoft.dataprotection/locations/operationstatus/read
+backup operator,microsoft.dataprotection/operations/read
+backup operator,microsoft.dataprotection/subscriptions/resourcegroups/providers/locations/crossregionrestore/action
+backup operator,microsoft.dataprotection/subscriptions/resourcegroups/providers/locations/fetchcrossregionrestorejob/action
+backup operator,microsoft.dataprotection/subscriptions/resourcegroups/providers/locations/fetchcrossregionrestorejobs/action
+backup operator,microsoft.dataprotection/subscriptions/resourcegroups/providers/locations/fetchsecondaryrecoverypoints/action
+backup operator,microsoft.dataprotection/subscriptions/resourcegroups/providers/locations/validatecrossregionrestore/action
+backup operator,microsoft.network/virtualnetworks/read
+backup operator,microsoft.recoveryservices/locations/backupaadproperties/read
+backup operator,microsoft.recoveryservices/locations/backupcrossregionrestore/action
+backup operator,microsoft.recoveryservices/locations/backupcrrjob/action
+backup operator,microsoft.recoveryservices/locations/backupcrrjobs/action
+backup operator,microsoft.recoveryservices/locations/backupcrroperationresults/read
+backup operator,microsoft.recoveryservices/locations/backupcrroperationsstatus/read
+backup operator,microsoft.recoveryservices/locations/backupprevalidateprotection/action
+backup operator,microsoft.recoveryservices/locations/backupstatus/action
+backup operator,microsoft.recoveryservices/locations/backupvalidatefeatures/action
+backup operator,microsoft.recoveryservices/locations/operationstatus/read
+backup operator,microsoft.recoveryservices/operations/read
+backup operator,microsoft.recoveryservices/vaults/backupengines/read
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/backupprotectionintent/read
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/backupprotectionintent/write
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/operationresults/read
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/protectablecontainers/read
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/inquire/action
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/items/read
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/operationresults/read
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/backup/action
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/operationresults/read
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/operationsstatus/read
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/read
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/recoverypoints/accesstoken/action
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/recoverypoints/provisioninstantitemrecovery/action
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/recoverypoints/read
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/recoverypoints/restore/action
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/recoverypoints/revokeinstantitemrecovery/action
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/write
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/read
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/write
+backup operator,microsoft.recoveryservices/vaults/backupfabrics/refreshcontainers/action
+backup operator,microsoft.recoveryservices/vaults/backupjobs/*
+backup operator,microsoft.recoveryservices/vaults/backupjobsexport/action
+backup operator,microsoft.recoveryservices/vaults/backupoperationresults/*
+backup operator,microsoft.recoveryservices/vaults/backupoperations/read
+backup operator,microsoft.recoveryservices/vaults/backuppolicies/operationresults/read
+backup operator,microsoft.recoveryservices/vaults/backuppolicies/operations/read
+backup operator,microsoft.recoveryservices/vaults/backuppolicies/read
+backup operator,microsoft.recoveryservices/vaults/backupprotectableitems/*
+backup operator,microsoft.recoveryservices/vaults/backupprotecteditems/read
+backup operator,microsoft.recoveryservices/vaults/backupprotectioncontainers/read
+backup operator,microsoft.recoveryservices/vaults/backupprotectionintents/read
+backup operator,microsoft.recoveryservices/vaults/backupresourceguardproxies/delete
+backup operator,microsoft.recoveryservices/vaults/backupresourceguardproxies/read
+backup operator,microsoft.recoveryservices/vaults/backupresourceguardproxies/unlockdelete/action
+backup operator,microsoft.recoveryservices/vaults/backupresourceguardproxies/write
+backup operator,microsoft.recoveryservices/vaults/backupstorageconfig/*
+backup operator,microsoft.recoveryservices/vaults/backuptriggervalidateoperation/action
+backup operator,microsoft.recoveryservices/vaults/backupusagesummaries/read
+backup operator,microsoft.recoveryservices/vaults/backupvalidateoperation/action
+backup operator,microsoft.recoveryservices/vaults/backupvalidateoperationresults/read
+backup operator,microsoft.recoveryservices/vaults/backupvalidateoperationsstatuses/read
+backup operator,microsoft.recoveryservices/vaults/certificates/write
+backup operator,microsoft.recoveryservices/vaults/extendedinformation/read
+backup operator,microsoft.recoveryservices/vaults/extendedinformation/write
+backup operator,microsoft.recoveryservices/vaults/monitoringalerts/read
+backup operator,microsoft.recoveryservices/vaults/monitoringalerts/write
+backup operator,microsoft.recoveryservices/vaults/monitoringconfigurations/*
+backup operator,microsoft.recoveryservices/vaults/read
+backup operator,microsoft.recoveryservices/vaults/registeredidentities/operationresults/read
+backup operator,microsoft.recoveryservices/vaults/registeredidentities/read
+backup operator,microsoft.recoveryservices/vaults/registeredidentities/write
+backup operator,microsoft.recoveryservices/vaults/usages/read
+backup operator,microsoft.resources/deployments/*
+backup operator,microsoft.resources/subscriptions/resourcegroups/read
+backup operator,microsoft.storage/storageaccounts/read
+backup operator,microsoft.support/*
+backup reader,microsoft.authorization/*/read
+backup reader,microsoft.dataprotection/backupvaults/backupinstances/findrestorabletimeranges/action
+backup reader,microsoft.dataprotection/backupvaults/backupinstances/operationresults/read
+backup reader,microsoft.dataprotection/backupvaults/backupinstances/read
+backup reader,microsoft.dataprotection/backupvaults/backupinstances/recoverypoints/read
+backup reader,microsoft.dataprotection/backupvaults/backuppolicies/read
+backup reader,microsoft.dataprotection/backupvaults/deletedbackupinstances/read
+backup reader,microsoft.dataprotection/backupvaults/operationresults/read
+backup reader,microsoft.dataprotection/backupvaults/operationstatus/read
+backup reader,microsoft.dataprotection/backupvaults/read
+backup reader,microsoft.dataprotection/locations/checkfeaturesupport/action
+backup reader,microsoft.dataprotection/locations/getbackupstatus/action
+backup reader,microsoft.dataprotection/locations/operationresults/read
+backup reader,microsoft.dataprotection/locations/operationstatus/read
+backup reader,microsoft.dataprotection/operations/read
+backup reader,microsoft.dataprotection/subscriptions/resourcegroups/providers/locations/fetchcrossregionrestorejob/action
+backup reader,microsoft.dataprotection/subscriptions/resourcegroups/providers/locations/fetchcrossregionrestorejobs/action
+backup reader,microsoft.dataprotection/subscriptions/resourcegroups/providers/locations/fetchsecondaryrecoverypoints/action
+backup reader,microsoft.recoveryservices/locations/allocatedstamp/read
+backup reader,microsoft.recoveryservices/locations/backupcrrjob/action
+backup reader,microsoft.recoveryservices/locations/backupcrrjobs/action
+backup reader,microsoft.recoveryservices/locations/backupcrroperationresults/read
+backup reader,microsoft.recoveryservices/locations/backupcrroperationsstatus/read
+backup reader,microsoft.recoveryservices/locations/backupstatus/action
+backup reader,microsoft.recoveryservices/locations/backupvalidatefeatures/action
+backup reader,microsoft.recoveryservices/locations/operationstatus/read
+backup reader,microsoft.recoveryservices/operations/read
+backup reader,microsoft.recoveryservices/vaults/backupconfig/read
+backup reader,microsoft.recoveryservices/vaults/backupengines/read
+backup reader,microsoft.recoveryservices/vaults/backupfabrics/backupprotectionintent/read
+backup reader,microsoft.recoveryservices/vaults/backupfabrics/operationresults/read
+backup reader,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/items/read
+backup reader,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/operationresults/read
+backup reader,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/operationresults/read
+backup reader,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/operationsstatus/read
+backup reader,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/read
+backup reader,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/protecteditems/recoverypoints/read
+backup reader,microsoft.recoveryservices/vaults/backupfabrics/protectioncontainers/read
+backup reader,microsoft.recoveryservices/vaults/backupjobs/operationresults/read
+backup reader,microsoft.recoveryservices/vaults/backupjobs/read
+backup reader,microsoft.recoveryservices/vaults/backupjobsexport/action
+backup reader,microsoft.recoveryservices/vaults/backupoperationresults/read
+backup reader,microsoft.recoveryservices/vaults/backupoperations/read
+backup reader,microsoft.recoveryservices/vaults/backuppolicies/operationresults/read
+backup reader,microsoft.recoveryservices/vaults/backuppolicies/operations/read
+backup reader,microsoft.recoveryservices/vaults/backuppolicies/read
+backup reader,microsoft.recoveryservices/vaults/backupprotecteditems/read
+backup reader,microsoft.recoveryservices/vaults/backupprotectioncontainers/read
+backup reader,microsoft.recoveryservices/vaults/backupprotectionintents/read
+backup reader,microsoft.recoveryservices/vaults/backupstorageconfig/read
+backup reader,microsoft.recoveryservices/vaults/backupusagesummaries/read
+backup reader,microsoft.recoveryservices/vaults/extendedinformation/read
+backup reader,microsoft.recoveryservices/vaults/monitoringalerts/read
+backup reader,microsoft.recoveryservices/vaults/monitoringalerts/write
+backup reader,microsoft.recoveryservices/vaults/monitoringconfigurations/*
+backup reader,microsoft.recoveryservices/vaults/read
+backup reader,microsoft.recoveryservices/vaults/registeredidentities/operationresults/read
+backup reader,microsoft.recoveryservices/vaults/registeredidentities/read
+backup reader,microsoft.recoveryservices/vaults/usages/read
+classic storage account contributor,microsoft.authorization/*/read
+classic storage account contributor,microsoft.classicstorage/storageaccounts/*
+classic storage account contributor,microsoft.insights/alertrules/*
+classic storage account contributor,microsoft.resourcehealth/availabilitystatuses/read
+classic storage account contributor,microsoft.resources/deployments/*
+classic storage account contributor,microsoft.resources/subscriptions/resourcegroups/read
+classic storage account contributor,microsoft.support/*
+classic storage account key operator service role,microsoft.classicstorage/storageaccounts/listkeys/action
+classic storage account key operator service role,microsoft.classicstorage/storageaccounts/regeneratekey/action
+data box contributor,microsoft.authorization/*/read
+data box contributor,microsoft.databox/*
+data box contributor,microsoft.resourcehealth/availabilitystatuses/read
+data box contributor,microsoft.resources/deployments/*
+data box contributor,microsoft.resources/subscriptions/resourcegroups/read
+data box contributor,microsoft.support/*
+data box reader,microsoft.authorization/*/read
+data box reader,microsoft.databox/*/read
+data box reader,microsoft.databox/jobs/listcredentials/action
+data box reader,microsoft.databox/jobs/listsecrets/action
+data box reader,microsoft.databox/locations/availableskus/action
+data box reader,microsoft.databox/locations/regionconfiguration/action
+data box reader,microsoft.databox/locations/validateaddress/action
+data box reader,microsoft.databox/locations/validateinputs/action
+data box reader,microsoft.resourcehealth/availabilitystatuses/read
+data box reader,microsoft.support/*
+defender for storage data scanner,microsoft.storage/storageaccounts/blobservices/containers/blobs/delete
+defender for storage data scanner,microsoft.storage/storageaccounts/blobservices/containers/blobs/read
+defender for storage data scanner,microsoft.storage/storageaccounts/blobservices/containers/blobs/tags/read
+defender for storage data scanner,microsoft.storage/storageaccounts/blobservices/containers/blobs/tags/write
+defender for storage data scanner,microsoft.storage/storageaccounts/blobservices/containers/read
+defender for storage data scanner,microsoft.storage/storageaccounts/blobservices/read
+defender for storage data scanner,microsoft.storage/storageaccounts/fileservices/fileshares/files/read
+defender for storage data scanner,microsoft.storage/storageaccounts/fileservices/readfilebackupsemantics/action
+defender for storage data scanner,microsoft.storage/storageaccounts/fileservices/shares/read
+elastic san network admin,microsoft.elasticsan/elasticsans/*/read
+elastic san network admin,microsoft.elasticsan/elasticsans/privateendpointconnections/delete
+elastic san network admin,microsoft.elasticsan/elasticsans/privateendpointconnections/write
+elastic san network admin,microsoft.elasticsan/elasticsans/privateendpointconnectionsapproval/action
+elastic san network admin,microsoft.elasticsan/locations/asyncoperations/read
+elastic san owner,microsoft.authorization/*/read
+elastic san owner,microsoft.elasticsan/elasticsans/*
+elastic san owner,microsoft.elasticsan/locations/*
+elastic san owner,microsoft.resourcehealth/availabilitystatuses/read
+elastic san owner,microsoft.resources/deployments/*
+elastic san owner,microsoft.resources/subscriptions/resourcegroups/read
+elastic san reader,microsoft.authorization/roleassignments/read
+elastic san reader,microsoft.authorization/roledefinitions/read
+elastic san reader,microsoft.elasticsan/elasticsans/*/read
+elastic san reader,microsoft.resourcehealth/availabilitystatuses/read
+elastic san reader,microsoft.resources/subscriptions/resourcegroups/read
+elastic san volume group owner,microsoft.authorization/roleassignments/read
+elastic san volume group owner,microsoft.authorization/roledefinitions/read
+elastic san volume group owner,microsoft.elasticsan/elasticsans/volumegroups/*
+elastic san volume group owner,microsoft.elasticsan/locations/asyncoperations/read
+reader and data access,microsoft.storage/storageaccounts/listaccountsas/action
+reader and data access,microsoft.storage/storageaccounts/listkeys/action
+reader and data access,microsoft.storage/storageaccounts/read
+storage account backup contributor,microsoft.authorization/*/read
+storage account backup contributor,microsoft.authorization/locks/delete
+storage account backup contributor,microsoft.authorization/locks/read
+storage account backup contributor,microsoft.authorization/locks/write
+storage account backup contributor,microsoft.features/features/read
+storage account backup contributor,microsoft.features/providers/features/read
+storage account backup contributor,microsoft.resources/subscriptions/resourcegroups/read
+storage account backup contributor,microsoft.storage/operations/read
+storage account backup contributor,microsoft.storage/storageaccounts/blobservices/containers/read
+storage account backup contributor,microsoft.storage/storageaccounts/blobservices/containers/write
+storage account backup contributor,microsoft.storage/storageaccounts/blobservices/read
+storage account backup contributor,microsoft.storage/storageaccounts/blobservices/write
+storage account backup contributor,microsoft.storage/storageaccounts/objectreplicationpolicies/delete
+storage account backup contributor,microsoft.storage/storageaccounts/objectreplicationpolicies/read
+storage account backup contributor,microsoft.storage/storageaccounts/objectreplicationpolicies/restorepointmarkers/write
+storage account backup contributor,microsoft.storage/storageaccounts/objectreplicationpolicies/write
+storage account backup contributor,microsoft.storage/storageaccounts/read
+storage account backup contributor,microsoft.storage/storageaccounts/restoreblobranges/action
+storage account contributor,microsoft.authorization/*/read
+storage account contributor,microsoft.insights/alertrules/*
+storage account contributor,microsoft.insights/diagnosticsettings/*
+storage account contributor,microsoft.network/virtualnetworks/subnets/joinviaserviceendpoint/action
+storage account contributor,microsoft.resourcehealth/availabilitystatuses/read
+storage account contributor,microsoft.resources/deployments/*
+storage account contributor,microsoft.resources/subscriptions/resourcegroups/read
+storage account contributor,microsoft.storage/storageaccounts/*
+storage account contributor,microsoft.support/*
+storage account key operator service role,microsoft.storage/storageaccounts/listkeys/action
+storage account key operator service role,microsoft.storage/storageaccounts/regeneratekey/action
+storage actions blob data operator,microsoft.authorization/*/read
+storage actions blob data operator,microsoft.insights/alertrules/*
+storage actions blob data operator,microsoft.resources/deployments/*
+storage actions blob data operator,microsoft.resources/subscriptions/resourcegroups/read
+storage actions blob data operator,microsoft.storage/storageaccounts/blobservices/containers/blobs/add/action
+storage actions blob data operator,microsoft.storage/storageaccounts/blobservices/containers/blobs/delete
+storage actions blob data operator,microsoft.storage/storageaccounts/blobservices/containers/blobs/immutablestorage/runassuperuser/action
+storage actions blob data operator,microsoft.storage/storageaccounts/blobservices/containers/blobs/read
+storage actions blob data operator,microsoft.storage/storageaccounts/blobservices/containers/blobs/runassuperuser/action
+storage actions blob data operator,microsoft.storage/storageaccounts/blobservices/containers/blobs/tags/read
+storage actions blob data operator,microsoft.storage/storageaccounts/blobservices/containers/blobs/tags/write
+storage actions blob data operator,microsoft.storage/storageaccounts/blobservices/containers/blobs/write
+storage actions blob data operator,microsoft.storage/storageaccounts/blobservices/containers/read
+storage actions blob data operator,microsoft.storage/storageaccounts/blobservices/containers/write
+storage actions contributor,microsoft.authorization/*/read
+storage actions contributor,microsoft.insights/alertrules/*
+storage actions contributor,microsoft.resources/deployments/*
+storage actions contributor,microsoft.resources/subscriptions/resourcegroups/read
+storage actions contributor,microsoft.storageactions/locations/previewactions/action
+storage actions contributor,microsoft.storageactions/storagetasks/delete
+storage actions contributor,microsoft.storageactions/storagetasks/read
+storage actions contributor,microsoft.storageactions/storagetasks/reports/read
+storage actions contributor,microsoft.storageactions/storagetasks/storagetaskassignments/read
+storage actions contributor,microsoft.storageactions/storagetasks/write
+storage actions task assignment contributor,microsoft.authorization/*/read
+storage actions task assignment contributor,microsoft.authorization/roleassignments/delete
+storage actions task assignment contributor,microsoft.authorization/roleassignments/write
+storage actions task assignment contributor,microsoft.insights/alertrules/*
+storage actions task assignment contributor,microsoft.resources/deployments/*
+storage actions task assignment contributor,microsoft.resources/subscriptions/resourcegroups/read
+storage actions task assignment contributor,microsoft.storage/storageaccounts/blobservices/read
+storage actions task assignment contributor,microsoft.storage/storageaccounts/read
+storage actions task assignment contributor,microsoft.storage/storageaccounts/reports/read
+storage actions task assignment contributor,microsoft.storage/storageaccounts/storagetaskassignments/delete
+storage actions task assignment contributor,microsoft.storage/storageaccounts/storagetaskassignments/read
+storage actions task assignment contributor,microsoft.storage/storageaccounts/storagetaskassignments/reports/read
+storage actions task assignment contributor,microsoft.storage/storageaccounts/storagetaskassignments/write
+storage blob data contributor,microsoft.storage/storageaccounts/blobservices/containers/blobs/add/action
+storage blob data contributor,microsoft.storage/storageaccounts/blobservices/containers/blobs/delete
+storage blob data contributor,microsoft.storage/storageaccounts/blobservices/containers/blobs/move/action
+storage blob data contributor,microsoft.storage/storageaccounts/blobservices/containers/blobs/read
+storage blob data contributor,microsoft.storage/storageaccounts/blobservices/containers/blobs/write
+storage blob data contributor,microsoft.storage/storageaccounts/blobservices/containers/delete
+storage blob data contributor,microsoft.storage/storageaccounts/blobservices/containers/read
+storage blob data contributor,microsoft.storage/storageaccounts/blobservices/containers/write
+storage blob data contributor,microsoft.storage/storageaccounts/blobservices/generateuserdelegationkey/action
+storage blob data owner,microsoft.storage/storageaccounts/blobservices/containers/*
+storage blob data owner,microsoft.storage/storageaccounts/blobservices/containers/blobs/*
+storage blob data owner,microsoft.storage/storageaccounts/blobservices/generateuserdelegationkey/action
+storage blob data reader,microsoft.storage/storageaccounts/blobservices/containers/blobs/read
+storage blob data reader,microsoft.storage/storageaccounts/blobservices/containers/read
+storage blob data reader,microsoft.storage/storageaccounts/blobservices/generateuserdelegationkey/action
+storage blob delegator,microsoft.storage/storageaccounts/blobservices/generateuserdelegationkey/action
+storage connector contributor,microsoft.authorization/*/read
+storage connector contributor,microsoft.insights/alertrules/*
+storage connector contributor,microsoft.resources/deployments/*
+storage connector contributor,microsoft.resources/subscriptions/resourcegroups/read
+storage connector contributor,microsoft.storage/locations/datamanagementrpoperationstatuses/read
+storage connector contributor,microsoft.storage/locations/datamanagementrpoperationstatuses/write
+storage connector contributor,microsoft.storage/storageaccounts/blobservices/containers/blobs/read
+storage connector contributor,microsoft.storage/storageaccounts/blobservices/containers/blobs/write
+storage connector contributor,microsoft.storage/storageaccounts/blobservices/containers/read
+storage connector contributor,microsoft.storage/storageaccounts/blobservices/containers/write
+storage connector contributor,microsoft.storage/storageaccounts/blobservices/read
+storage connector contributor,microsoft.storage/storageaccounts/connectors/delete
+storage connector contributor,microsoft.storage/storageaccounts/connectors/read
+storage connector contributor,microsoft.storage/storageaccounts/connectors/testexistingconnection/action
+storage connector contributor,microsoft.storage/storageaccounts/connectors/write
+storage connector contributor,microsoft.storage/storageaccounts/listservicesas/action
+storage connector contributor,microsoft.storage/storageaccounts/read
+storage datashare contributor,microsoft.authorization/*/read
+storage datashare contributor,microsoft.insights/alertrules/*
+storage datashare contributor,microsoft.resources/deployments/*
+storage datashare contributor,microsoft.resources/subscriptions/resourcegroups/read
+storage datashare contributor,microsoft.storage/locations/datamanagementrpoperationstatuses/read
+storage datashare contributor,microsoft.storage/locations/datamanagementrpoperationstatuses/write
+storage datashare contributor,microsoft.storage/storageaccounts/blobservices/containers/blobs/read
+storage datashare contributor,microsoft.storage/storageaccounts/blobservices/containers/read
+storage datashare contributor,microsoft.storage/storageaccounts/blobservices/read
+storage datashare contributor,microsoft.storage/storageaccounts/datashares/delete
+storage datashare contributor,microsoft.storage/storageaccounts/datashares/read
+storage datashare contributor,microsoft.storage/storageaccounts/datashares/write
+storage datashare contributor,microsoft.storage/storageaccounts/listservicesas/action
+storage datashare contributor,microsoft.storage/storageaccounts/read
+storage file data privileged contributor,microsoft.storage/storageaccounts/fileservices/fileshares/files/delete
+storage file data privileged contributor,microsoft.storage/storageaccounts/fileservices/fileshares/files/modifypermissions/action
+storage file data privileged contributor,microsoft.storage/storageaccounts/fileservices/fileshares/files/read
+storage file data privileged contributor,microsoft.storage/storageaccounts/fileservices/fileshares/files/write
+storage file data privileged contributor,microsoft.storage/storageaccounts/fileservices/readfilebackupsemantics/action
+storage file data privileged contributor,microsoft.storage/storageaccounts/fileservices/writefilebackupsemantics/action
+storage file data privileged reader,microsoft.storage/storageaccounts/fileservices/fileshares/files/read
+storage file data privileged reader,microsoft.storage/storageaccounts/fileservices/readfilebackupsemantics/action
+storage file data smb admin,microsoft.storage/storageaccounts/fileservices/fileshares/files/delete
+storage file data smb admin,microsoft.storage/storageaccounts/fileservices/fileshares/files/modifypermissions/action
+storage file data smb admin,microsoft.storage/storageaccounts/fileservices/fileshares/files/read
+storage file data smb admin,microsoft.storage/storageaccounts/fileservices/fileshares/files/write
+storage file data smb admin,microsoft.storage/storageaccounts/fileservices/readfilebackupsemantics/action
+storage file data smb admin,microsoft.storage/storageaccounts/fileservices/takeownership/action
+storage file data smb admin,microsoft.storage/storageaccounts/fileservices/writefilebackupsemantics/action
+storage file data smb mi admin,microsoft.storage/storageaccounts/fileservices/fileshares/files/delete
+storage file data smb mi admin,microsoft.storage/storageaccounts/fileservices/fileshares/files/modifypermissions/action
+storage file data smb mi admin,microsoft.storage/storageaccounts/fileservices/fileshares/files/read
+storage file data smb mi admin,microsoft.storage/storageaccounts/fileservices/fileshares/files/write
+storage file data smb mi admin,microsoft.storage/storageaccounts/fileservices/readfilebackupsemantics/action
+storage file data smb mi admin,microsoft.storage/storageaccounts/fileservices/runasbuiltinfileadministrator/action
+storage file data smb mi admin,microsoft.storage/storageaccounts/fileservices/takeownership/action
+storage file data smb mi admin,microsoft.storage/storageaccounts/fileservices/writefilebackupsemantics/action
+storage file data smb share contributor,microsoft.storage/storageaccounts/fileservices/fileshares/files/delete
+storage file data smb share contributor,microsoft.storage/storageaccounts/fileservices/fileshares/files/read
+storage file data smb share contributor,microsoft.storage/storageaccounts/fileservices/fileshares/files/write
+storage file data smb share elevated contributor,microsoft.storage/storageaccounts/fileservices/fileshares/files/delete
+storage file data smb share elevated contributor,microsoft.storage/storageaccounts/fileservices/fileshares/files/modifypermissions/action
+storage file data smb share elevated contributor,microsoft.storage/storageaccounts/fileservices/fileshares/files/read
+storage file data smb share elevated contributor,microsoft.storage/storageaccounts/fileservices/fileshares/files/write
+storage file data smb share reader,microsoft.storage/storageaccounts/fileservices/fileshares/files/read
+storage file data smb take ownership,microsoft.storage/storageaccounts/fileservices/takeownership/action
+storage file delegator,microsoft.storage/storageaccounts/fileservices/generateuserdelegationkey/action
+storage queue data contributor,microsoft.storage/storageaccounts/queueservices/queues/delete
+storage queue data contributor,microsoft.storage/storageaccounts/queueservices/queues/messages/delete
+storage queue data contributor,microsoft.storage/storageaccounts/queueservices/queues/messages/process/action
+storage queue data contributor,microsoft.storage/storageaccounts/queueservices/queues/messages/read
+storage queue data contributor,microsoft.storage/storageaccounts/queueservices/queues/messages/write
+storage queue data contributor,microsoft.storage/storageaccounts/queueservices/queues/read
+storage queue data contributor,microsoft.storage/storageaccounts/queueservices/queues/write
+storage queue data message processor,microsoft.storage/storageaccounts/queueservices/queues/messages/process/action
+storage queue data message processor,microsoft.storage/storageaccounts/queueservices/queues/messages/read
+storage queue data message sender,microsoft.storage/storageaccounts/queueservices/queues/messages/add/action
+storage queue data reader,microsoft.storage/storageaccounts/queueservices/queues/messages/read
+storage queue data reader,microsoft.storage/storageaccounts/queueservices/queues/read
+storage queue delegator,microsoft.storage/storageaccounts/queueservices/generateuserdelegationkey/action
+storage table data contributor,microsoft.storage/storageaccounts/tableservices/tables/delete
+storage table data contributor,microsoft.storage/storageaccounts/tableservices/tables/entities/add/action
+storage table data contributor,microsoft.storage/storageaccounts/tableservices/tables/entities/delete
+storage table data contributor,microsoft.storage/storageaccounts/tableservices/tables/entities/read
+storage table data contributor,microsoft.storage/storageaccounts/tableservices/tables/entities/update/action
+storage table data contributor,microsoft.storage/storageaccounts/tableservices/tables/entities/write
+storage table data contributor,microsoft.storage/storageaccounts/tableservices/tables/read
+storage table data contributor,microsoft.storage/storageaccounts/tableservices/tables/write
+storage table data reader,microsoft.storage/storageaccounts/tableservices/tables/entities/read
+storage table data reader,microsoft.storage/storageaccounts/tableservices/tables/read
+storage table delegator,microsoft.storage/storageaccounts/tableservices/generateuserdelegationkey/action

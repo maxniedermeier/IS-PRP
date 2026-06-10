@@ -1,0 +1,364 @@
+role_name,permission_name
+api management developer portal content editor,microsoft.apimanagement/service/contenttypes/contentitems/delete
+api management developer portal content editor,microsoft.apimanagement/service/contenttypes/contentitems/read
+api management developer portal content editor,microsoft.apimanagement/service/contenttypes/contentitems/write
+api management developer portal content editor,microsoft.apimanagement/service/contenttypes/delete
+api management developer portal content editor,microsoft.apimanagement/service/contenttypes/read
+api management developer portal content editor,microsoft.apimanagement/service/contenttypes/write
+api management developer portal content editor,microsoft.apimanagement/service/portalrevisions/read
+api management developer portal content editor,microsoft.apimanagement/service/portalrevisions/write
+api management service contributor,microsoft.apimanagement/service/*
+api management service contributor,microsoft.authorization/*/read
+api management service contributor,microsoft.insights/alertrules/*
+api management service contributor,microsoft.resourcehealth/availabilitystatuses/read
+api management service contributor,microsoft.resources/deployments/*
+api management service contributor,microsoft.resources/subscriptions/resourcegroups/read
+api management service contributor,microsoft.support/*
+api management service workspace api developer,microsoft.apimanagement/service/authorizationservers/read
+api management service workspace api developer,microsoft.apimanagement/service/products/apilinks/*
+api management service workspace api developer,microsoft.apimanagement/service/products/read
+api management service workspace api developer,microsoft.apimanagement/service/read
+api management service workspace api developer,microsoft.apimanagement/service/tags/apilinks/*
+api management service workspace api developer,microsoft.apimanagement/service/tags/operationlinks/*
+api management service workspace api developer,microsoft.apimanagement/service/tags/productlinks/*
+api management service workspace api developer,microsoft.apimanagement/service/tags/read
+api management service workspace api developer,microsoft.authorization/*/read
+api management service workspace api product manager,microsoft.apimanagement/service/authorizationservers/read
+api management service workspace api product manager,microsoft.apimanagement/service/groups/read
+api management service workspace api product manager,microsoft.apimanagement/service/groups/users/*
+api management service workspace api product manager,microsoft.apimanagement/service/products/apilinks/*
+api management service workspace api product manager,microsoft.apimanagement/service/products/read
+api management service workspace api product manager,microsoft.apimanagement/service/read
+api management service workspace api product manager,microsoft.apimanagement/service/tags/apilinks/*
+api management service workspace api product manager,microsoft.apimanagement/service/tags/operationlinks/*
+api management service workspace api product manager,microsoft.apimanagement/service/tags/productlinks/*
+api management service workspace api product manager,microsoft.apimanagement/service/tags/read
+api management service workspace api product manager,microsoft.apimanagement/service/users/read
+api management service workspace api product manager,microsoft.authorization/*/read
+api management workspace api developer,microsoft.apimanagement/service/workspaces/*/read
+api management workspace api developer,microsoft.apimanagement/service/workspaces/apis/*
+api management workspace api developer,microsoft.apimanagement/service/workspaces/apiversionsets/*
+api management workspace api developer,microsoft.apimanagement/service/workspaces/backends/*
+api management workspace api developer,microsoft.apimanagement/service/workspaces/certificates/*
+api management workspace api developer,microsoft.apimanagement/service/workspaces/diagnostics/*
+api management workspace api developer,microsoft.apimanagement/service/workspaces/loggers/*
+api management workspace api developer,microsoft.apimanagement/service/workspaces/namedvalues/*
+api management workspace api developer,microsoft.apimanagement/service/workspaces/policies/*
+api management workspace api developer,microsoft.apimanagement/service/workspaces/policyfragments/*
+api management workspace api developer,microsoft.apimanagement/service/workspaces/products/*
+api management workspace api developer,microsoft.apimanagement/service/workspaces/schemas/*
+api management workspace api developer,microsoft.apimanagement/service/workspaces/tags/*
+api management workspace api developer,microsoft.authorization/*/read
+api management workspace api developer,microsoft.insights/diagnosticsettings/*/read
+api management workspace api developer,microsoft.insights/logs/apimanagementgatewaylogs/read
+api management workspace api developer,microsoft.insights/logs/read
+api management workspace api product manager,microsoft.apimanagement/service/workspaces/*/read
+api management workspace api product manager,microsoft.apimanagement/service/workspaces/groups/*
+api management workspace api product manager,microsoft.apimanagement/service/workspaces/notifications/*
+api management workspace api product manager,microsoft.apimanagement/service/workspaces/products/*
+api management workspace api product manager,microsoft.apimanagement/service/workspaces/subscriptions/*
+api management workspace api product manager,microsoft.apimanagement/service/workspaces/tags/*
+api management workspace api product manager,microsoft.authorization/*/read
+api management workspace api product manager,microsoft.insights/diagnosticsettings/*/read
+api management workspace api product manager,microsoft.insights/logs/apimanagementgatewaylogs/read
+api management workspace api product manager,microsoft.insights/logs/read
+api management workspace contributor,microsoft.apimanagement/service/workspaces/*
+api management workspace contributor,microsoft.authorization/*/read
+api management workspace contributor,microsoft.insights/diagnosticsettings/*/read
+api management workspace contributor,microsoft.insights/logs/apimanagementgatewaylogs/read
+api management workspace contributor,microsoft.insights/logs/read
+api management workspace reader,microsoft.apimanagement/service/workspaces/*/read
+api management workspace reader,microsoft.authorization/*/read
+api management workspace reader,microsoft.insights/diagnosticsettings/*/read
+api management workspace reader,microsoft.insights/logs/apimanagementgatewaylogs/read
+api management workspace reader,microsoft.insights/logs/read
+app configuration data reader,microsoft.appconfiguration/configurationstores/*/read
+app configuration reader,microsoft.appconfiguration/*/read
+app configuration reader,microsoft.authorization/*/read
+app configuration reader,microsoft.insights/alertrules/read
+app configuration reader,microsoft.resources/deployments/read
+app configuration reader,microsoft.resources/subscriptions/resourcegroups/read
+azure api center compliance manager,microsoft.apicenter/services/*/read
+azure api center compliance manager,microsoft.apicenter/services/workspaces/apis/versions/definitions/exportspecification/action
+azure api center compliance manager,microsoft.apicenter/services/workspaces/apis/versions/definitions/updateanalysisstate/action
+azure api center data reader,microsoft.apicenter/services/*/read
+azure api center data reader,microsoft.apicenter/services/workspaces/apis/versions/definitions/exportspecification/action
+azure api center data reader,microsoft.apicenter/services/workspaces/search/action
+azure api center service reader,microsoft.apicenter/services/*/read
+azure api center service reader,microsoft.apicenter/services/workspaces/apis/versions/definitions/exportspecification/action
+azure api center service reader,microsoft.authorization/*/read
+azure api center service reader,microsoft.insights/alertrules/*
+azure api center service reader,microsoft.resourcehealth/availabilitystatuses/read
+azure api center service reader,microsoft.resources/deployments/*/read
+azure api center service reader,microsoft.resources/subscriptions/resourcegroups/read
+azure relay listener,microsoft.relay/*/hybridconnections/read
+azure relay listener,microsoft.relay/*/listen/action
+azure relay listener,microsoft.relay/*/wcfrelays/read
+azure relay owner,microsoft.relay/*
+azure relay sender,microsoft.relay/*/hybridconnections/read
+azure relay sender,microsoft.relay/*/send/action
+azure relay sender,microsoft.relay/*/wcfrelays/read
+azure resource notifications system topics subscriber,microsoft.eventgrid/eventsubscriptions/write
+azure resource notifications system topics subscriber,microsoft.eventgrid/systemtopics/eventsubscriptions/write
+azure resource notifications system topics subscriber,microsoft.resourcenotifications/systemtopics/subscribetoaksresources/action
+azure resource notifications system topics subscriber,microsoft.resourcenotifications/systemtopics/subscribetocomputeresources/action
+azure resource notifications system topics subscriber,microsoft.resourcenotifications/systemtopics/subscribetocomputescheduleresources/action
+azure resource notifications system topics subscriber,microsoft.resourcenotifications/systemtopics/subscribetocontainerserviceeventresources/action
+azure resource notifications system topics subscriber,microsoft.resourcenotifications/systemtopics/subscribetohealthresources/action
+azure resource notifications system topics subscriber,microsoft.resourcenotifications/systemtopics/subscribetoimpactreportingresources/action
+azure resource notifications system topics subscriber,microsoft.resourcenotifications/systemtopics/subscribetomaintenanceresources/action
+azure resource notifications system topics subscriber,microsoft.resourcenotifications/systemtopics/subscribetoresources/action
+azure service bus data owner,microsoft.servicebus/*
+azure service bus data receiver,microsoft.servicebus/*/queues/read
+azure service bus data receiver,microsoft.servicebus/*/receive/action
+azure service bus data receiver,microsoft.servicebus/*/topics/read
+azure service bus data receiver,microsoft.servicebus/*/topics/subscriptions/read
+azure service bus data sender,microsoft.servicebus/*/queues/read
+azure service bus data sender,microsoft.servicebus/*/send/action
+azure service bus data sender,microsoft.servicebus/*/topics/read
+azure service bus data sender,microsoft.servicebus/*/topics/subscriptions/read
+biztalk contributor,microsoft.authorization/*/read
+biztalk contributor,microsoft.biztalkservices/biztalk/*
+biztalk contributor,microsoft.insights/alertrules/*
+biztalk contributor,microsoft.resourcehealth/availabilitystatuses/read
+biztalk contributor,microsoft.resources/deployments/*
+biztalk contributor,microsoft.resources/subscriptions/resourcegroups/read
+biztalk contributor,microsoft.support/*
+deid batch data owner,microsoft.healthdataaiservices/deidservices/batch/delete
+deid batch data owner,microsoft.healthdataaiservices/deidservices/batch/read
+deid batch data owner,microsoft.healthdataaiservices/deidservices/batch/write
+deid data owner,microsoft.healthdataaiservices/deidservices/*
+deid realtime data user,microsoft.healthdataaiservices/deidservices/realtime/action
+dicom data owner,microsoft.healthcareapis/workspaces/dicomservices/resources/*
+dicom data reader,microsoft.healthcareapis/workspaces/dicomservices/resources/read
+durable task data contributor,microsoft.durabletask/*
+durable task data reader,microsoft.durabletask/schedulers/taskhubs/orchestrations/metadata/read
+durable task data reader,microsoft.durabletask/schedulers/taskhubs/orchestrations/read
+durable task worker,microsoft.durabletask/schedulers/taskhubs/orchestrations/execute/action
+eventgrid contributor,microsoft.authorization/*/read
+eventgrid contributor,microsoft.eventgrid/*
+eventgrid contributor,microsoft.insights/alertrules/*
+eventgrid contributor,microsoft.resources/deployments/*
+eventgrid contributor,microsoft.resources/subscriptions/resourcegroups/read
+eventgrid contributor,microsoft.support/*
+eventgrid data sender,microsoft.authorization/*/read
+eventgrid data sender,microsoft.eventgrid/domains/read
+eventgrid data sender,microsoft.eventgrid/events/send/action
+eventgrid data sender,microsoft.eventgrid/namespaces/read
+eventgrid data sender,microsoft.eventgrid/partnernamespaces/read
+eventgrid data sender,microsoft.eventgrid/topics/read
+eventgrid data sender,microsoft.resources/subscriptions/resourcegroups/read
+eventgrid eventsubscription contributor,microsoft.authorization/*/read
+eventgrid eventsubscription contributor,microsoft.eventgrid/eventsubscriptions/*
+eventgrid eventsubscription contributor,microsoft.eventgrid/locations/eventsubscriptions/read
+eventgrid eventsubscription contributor,microsoft.eventgrid/locations/topictypes/eventsubscriptions/read
+eventgrid eventsubscription contributor,microsoft.eventgrid/topictypes/eventsubscriptions/read
+eventgrid eventsubscription contributor,microsoft.insights/alertrules/*
+eventgrid eventsubscription contributor,microsoft.resources/deployments/*
+eventgrid eventsubscription contributor,microsoft.resources/subscriptions/resourcegroups/read
+eventgrid eventsubscription contributor,microsoft.support/*
+eventgrid eventsubscription reader,microsoft.authorization/*/read
+eventgrid eventsubscription reader,microsoft.eventgrid/eventsubscriptions/read
+eventgrid eventsubscription reader,microsoft.eventgrid/locations/eventsubscriptions/read
+eventgrid eventsubscription reader,microsoft.eventgrid/locations/topictypes/eventsubscriptions/read
+eventgrid eventsubscription reader,microsoft.eventgrid/topictypes/eventsubscriptions/read
+eventgrid eventsubscription reader,microsoft.resources/subscriptions/resourcegroups/read
+eventgrid topicspaces publisher,microsoft.authorization/*/read
+eventgrid topicspaces publisher,microsoft.eventgrid/*/read
+eventgrid topicspaces publisher,microsoft.eventgrid/topicspaces/publish/action
+eventgrid topicspaces publisher,microsoft.insights/alertrules/*
+eventgrid topicspaces publisher,microsoft.resources/deployments/*
+eventgrid topicspaces publisher,microsoft.resources/subscriptions/resourcegroups/read
+eventgrid topicspaces subscriber,microsoft.authorization/*/read
+eventgrid topicspaces subscriber,microsoft.eventgrid/*/read
+eventgrid topicspaces subscriber,microsoft.eventgrid/topicspaces/subscribe/action
+eventgrid topicspaces subscriber,microsoft.insights/alertrules/*
+eventgrid topicspaces subscriber,microsoft.resources/deployments/*
+eventgrid topicspaces subscriber,microsoft.resources/subscriptions/resourcegroups/read
+fhir data bulk operator,microsoft.healthcareapis/services/fhir/resources/bulkoperator/action
+fhir data bulk operator,microsoft.healthcareapis/services/fhir/resources/delete
+fhir data bulk operator,microsoft.healthcareapis/services/fhir/resources/export/action
+fhir data bulk operator,microsoft.healthcareapis/services/fhir/resources/harddelete/action
+fhir data bulk operator,microsoft.healthcareapis/services/fhir/resources/import/action
+fhir data bulk operator,microsoft.healthcareapis/services/fhir/resources/read
+fhir data bulk operator,microsoft.healthcareapis/services/fhir/resources/reindex/action
+fhir data bulk operator,microsoft.healthcareapis/services/fhir/resources/write
+fhir data bulk operator,microsoft.healthcareapis/workspaces/fhirservices/resources/bulkoperator/action
+fhir data bulk operator,microsoft.healthcareapis/workspaces/fhirservices/resources/delete
+fhir data bulk operator,microsoft.healthcareapis/workspaces/fhirservices/resources/export/action
+fhir data bulk operator,microsoft.healthcareapis/workspaces/fhirservices/resources/harddelete/action
+fhir data bulk operator,microsoft.healthcareapis/workspaces/fhirservices/resources/import/action
+fhir data bulk operator,microsoft.healthcareapis/workspaces/fhirservices/resources/read
+fhir data bulk operator,microsoft.healthcareapis/workspaces/fhirservices/resources/reindex/action
+fhir data bulk operator,microsoft.healthcareapis/workspaces/fhirservices/resources/write
+fhir data converter,microsoft.healthcareapis/services/fhir/resources/convertdata/action
+fhir data converter,microsoft.healthcareapis/workspaces/fhirservices/resources/convertdata/action
+fhir data exporter,microsoft.healthcareapis/services/fhir/resources/export/action
+fhir data exporter,microsoft.healthcareapis/services/fhir/resources/read
+fhir data exporter,microsoft.healthcareapis/workspaces/fhirservices/resources/export/action
+fhir data exporter,microsoft.healthcareapis/workspaces/fhirservices/resources/read
+fhir data importer,microsoft.healthcareapis/workspaces/fhirservices/resources/import/action
+fhir data importer,microsoft.healthcareapis/workspaces/fhirservices/resources/read
+fhir data reader,microsoft.healthcareapis/services/fhir/resources/read
+fhir data reader,microsoft.healthcareapis/workspaces/fhirservices/resources/read
+fhir data writer,microsoft.healthcareapis/services/fhir/resources/convertdata/action
+fhir data writer,microsoft.healthcareapis/services/fhir/resources/delete
+fhir data writer,microsoft.healthcareapis/services/fhir/resources/editprofiledefinitions/action
+fhir data writer,microsoft.healthcareapis/services/fhir/resources/export/action
+fhir data writer,microsoft.healthcareapis/services/fhir/resources/import/action
+fhir data writer,microsoft.healthcareapis/services/fhir/resources/read
+fhir data writer,microsoft.healthcareapis/services/fhir/resources/reindex/action
+fhir data writer,microsoft.healthcareapis/services/fhir/resources/resourcevalidate/action
+fhir data writer,microsoft.healthcareapis/services/fhir/resources/write
+fhir data writer,microsoft.healthcareapis/workspaces/fhirservices/resources/convertdata/action
+fhir data writer,microsoft.healthcareapis/workspaces/fhirservices/resources/delete
+fhir data writer,microsoft.healthcareapis/workspaces/fhirservices/resources/editprofiledefinitions/action
+fhir data writer,microsoft.healthcareapis/workspaces/fhirservices/resources/export/action
+fhir data writer,microsoft.healthcareapis/workspaces/fhirservices/resources/import/action
+fhir data writer,microsoft.healthcareapis/workspaces/fhirservices/resources/read
+fhir data writer,microsoft.healthcareapis/workspaces/fhirservices/resources/reindex/action
+fhir data writer,microsoft.healthcareapis/workspaces/fhirservices/resources/resourcevalidate/action
+fhir data writer,microsoft.healthcareapis/workspaces/fhirservices/resources/write
+fhir smart user,microsoft.healthcareapis/services/fhir/resources/read
+fhir smart user,microsoft.healthcareapis/services/fhir/resources/readbyid/action
+fhir smart user,microsoft.healthcareapis/services/fhir/resources/search/action
+fhir smart user,microsoft.healthcareapis/services/fhir/resources/smart/action
+fhir smart user,microsoft.healthcareapis/workspaces/fhirservices/resources/read
+fhir smart user,microsoft.healthcareapis/workspaces/fhirservices/resources/readbyid/action
+fhir smart user,microsoft.healthcareapis/workspaces/fhirservices/resources/search/action
+fhir smart user,microsoft.healthcareapis/workspaces/fhirservices/resources/smart/action
+integration service environment contributor,microsoft.authorization/*/read
+integration service environment contributor,microsoft.logic/integrationserviceenvironments/*
+integration service environment contributor,microsoft.support/*
+integration service environment developer,microsoft.authorization/*/read
+integration service environment developer,microsoft.logic/integrationserviceenvironments/*/join/action
+integration service environment developer,microsoft.logic/integrationserviceenvironments/read
+integration service environment developer,microsoft.support/*
+intelligent systems account contributor,microsoft.authorization/*/read
+intelligent systems account contributor,microsoft.insights/alertrules/*
+intelligent systems account contributor,microsoft.intelligentsystems/accounts/*
+intelligent systems account contributor,microsoft.resourcehealth/availabilitystatuses/read
+intelligent systems account contributor,microsoft.resources/deployments/*
+intelligent systems account contributor,microsoft.resources/subscriptions/resourcegroups/read
+intelligent systems account contributor,microsoft.support/*
+logic app contributor,microsoft.authorization/*/read
+logic app contributor,microsoft.classicstorage/storageaccounts/listkeys/action
+logic app contributor,microsoft.classicstorage/storageaccounts/read
+logic app contributor,microsoft.insights/alertrules/*
+logic app contributor,microsoft.insights/diagnosticsettings/*
+logic app contributor,microsoft.insights/logdefinitions/*
+logic app contributor,microsoft.insights/metricalerts/*
+logic app contributor,microsoft.insights/metricdefinitions/*
+logic app contributor,microsoft.logic/*
+logic app contributor,microsoft.resources/deployments/*
+logic app contributor,microsoft.resources/subscriptions/operationresults/read
+logic app contributor,microsoft.resources/subscriptions/resourcegroups/read
+logic app contributor,microsoft.storage/storageaccounts/listkeys/action
+logic app contributor,microsoft.storage/storageaccounts/read
+logic app contributor,microsoft.support/*
+logic app contributor,microsoft.web/connectiongateways/*
+logic app contributor,microsoft.web/connections/*
+logic app contributor,microsoft.web/customapis/*
+logic app contributor,microsoft.web/serverfarms/join/action
+logic app contributor,microsoft.web/serverfarms/read
+logic app contributor,microsoft.web/sites/functions/listsecrets/action
+logic app operator,microsoft.authorization/*/read
+logic app operator,microsoft.insights/alertrules/*/read
+logic app operator,microsoft.insights/diagnosticsettings/*/read
+logic app operator,microsoft.insights/metricalerts/*/read
+logic app operator,microsoft.insights/metricdefinitions/*/read
+logic app operator,microsoft.logic/*/read
+logic app operator,microsoft.logic/workflows/disable/action
+logic app operator,microsoft.logic/workflows/enable/action
+logic app operator,microsoft.logic/workflows/validate/action
+logic app operator,microsoft.resources/deployments/operations/read
+logic app operator,microsoft.resources/subscriptions/operationresults/read
+logic app operator,microsoft.resources/subscriptions/resourcegroups/read
+logic app operator,microsoft.support/*
+logic app operator,microsoft.web/connectiongateways/*/read
+logic app operator,microsoft.web/connections/*/read
+logic app operator,microsoft.web/customapis/*/read
+logic app operator,microsoft.web/serverfarms/read
+logic apps standard contributor (preview),microsoft.authorization/*/read
+logic apps standard contributor (preview),microsoft.insights/alertrules/*
+logic apps standard contributor (preview),microsoft.resources/deployments/operations/read
+logic apps standard contributor (preview),microsoft.resources/subscriptions/operationresults/read
+logic apps standard contributor (preview),microsoft.resources/subscriptions/resourcegroups/read
+logic apps standard contributor (preview),microsoft.support/*
+logic apps standard contributor (preview),microsoft.web/*/read
+logic apps standard contributor (preview),microsoft.web/certificates/*
+logic apps standard contributor (preview),microsoft.web/connectiongateways/*
+logic apps standard contributor (preview),microsoft.web/connections/*
+logic apps standard contributor (preview),microsoft.web/customapis/*
+logic apps standard contributor (preview),microsoft.web/serverfarms/*
+logic apps standard contributor (preview),microsoft.web/sites/*
+logic apps standard developer (preview),microsoft.authorization/*/read
+logic apps standard developer (preview),microsoft.insights/alertrules/*
+logic apps standard developer (preview),microsoft.resources/deployments/operations/read
+logic apps standard developer (preview),microsoft.resources/subscriptions/operationresults/read
+logic apps standard developer (preview),microsoft.resources/subscriptions/resourcegroups/read
+logic apps standard developer (preview),microsoft.support/*
+logic apps standard developer (preview),microsoft.web/*/read
+logic apps standard developer (preview),microsoft.web/connections/*
+logic apps standard developer (preview),microsoft.web/customapis/*
+logic apps standard developer (preview),microsoft.web/sites/config/list/action
+logic apps standard developer (preview),microsoft.web/sites/config/web/appsettings/delete
+logic apps standard developer (preview),microsoft.web/sites/config/web/appsettings/write
+logic apps standard developer (preview),microsoft.web/sites/config/write
+logic apps standard developer (preview),microsoft.web/sites/deployworkflowartifacts/action
+logic apps standard developer (preview),microsoft.web/sites/hostruntime/*
+logic apps standard developer (preview),microsoft.web/sites/listworkflowsconnections/action
+logic apps standard developer (preview),microsoft.web/sites/publish/action
+logic apps standard developer (preview),microsoft.web/sites/slots/config/appsettings/write
+logic apps standard developer (preview),microsoft.web/sites/slots/config/list/action
+logic apps standard developer (preview),microsoft.web/sites/slots/config/web/appsettings/delete
+logic apps standard developer (preview),microsoft.web/sites/slots/deployworkflowartifacts/action
+logic apps standard developer (preview),microsoft.web/sites/slots/listworkflowsconnections/action
+logic apps standard developer (preview),microsoft.web/sites/slots/publish/action
+logic apps standard developer (preview),microsoft.web/sites/workflows/*
+logic apps standard developer (preview),microsoft.web/sites/workflowsconfiguration/*
+logic apps standard operator (preview),microsoft.authorization/*/read
+logic apps standard operator (preview),microsoft.insights/alertrules/*
+logic apps standard operator (preview),microsoft.resources/deployments/operations/read
+logic apps standard operator (preview),microsoft.resources/subscriptions/operationresults/read
+logic apps standard operator (preview),microsoft.resources/subscriptions/resourcegroups/read
+logic apps standard operator (preview),microsoft.support/*
+logic apps standard operator (preview),microsoft.web/*/read
+logic apps standard operator (preview),microsoft.web/sites/applyslotconfig/action
+logic apps standard operator (preview),microsoft.web/sites/hostruntime/*
+logic apps standard operator (preview),microsoft.web/sites/restart/action
+logic apps standard operator (preview),microsoft.web/sites/slots/restart/action
+logic apps standard operator (preview),microsoft.web/sites/slots/slotsswap/action
+logic apps standard operator (preview),microsoft.web/sites/slots/start/action
+logic apps standard operator (preview),microsoft.web/sites/slots/stop/action
+logic apps standard operator (preview),microsoft.web/sites/slotsdiffs/action
+logic apps standard operator (preview),microsoft.web/sites/slotsswap/action
+logic apps standard operator (preview),microsoft.web/sites/start/action
+logic apps standard operator (preview),microsoft.web/sites/stop/action
+logic apps standard operator (preview),microsoft.web/sites/write
+logic apps standard reader (preview),microsoft.authorization/*/read
+logic apps standard reader (preview),microsoft.insights/alertrules/*
+logic apps standard reader (preview),microsoft.resources/deployments/operations/read
+logic apps standard reader (preview),microsoft.resources/subscriptions/operationresults/read
+logic apps standard reader (preview),microsoft.resources/subscriptions/resourcegroups/read
+logic apps standard reader (preview),microsoft.support/*
+logic apps standard reader (preview),microsoft.web/*/read
+scheduler job collections contributor,microsoft.authorization/*/read
+scheduler job collections contributor,microsoft.insights/alertrules/*
+scheduler job collections contributor,microsoft.resourcehealth/availabilitystatuses/read
+scheduler job collections contributor,microsoft.resources/deployments/*
+scheduler job collections contributor,microsoft.resources/subscriptions/resourcegroups/read
+scheduler job collections contributor,microsoft.scheduler/jobcollections/*
+scheduler job collections contributor,microsoft.support/*
+services hub operator,microsoft.authorization/*/read
+services hub operator,microsoft.resources/deployments/*
+services hub operator,microsoft.resources/subscriptions/read
+services hub operator,microsoft.resources/subscriptions/resourcegroups/read
+services hub operator,microsoft.serviceshub/*
+services hub operator,microsoft.serviceshub/connectors/*
+services hub operator,microsoft.serviceshub/connectors/checkassessmententitlement/action
+services hub operator,microsoft.serviceshub/connectors/delete
+services hub operator,microsoft.serviceshub/connectors/read
+services hub operator,microsoft.serviceshub/connectors/write
+services hub operator,microsoft.serviceshub/supportofferingentitlement/read
+services hub operator,microsoft.serviceshub/workspaces/read

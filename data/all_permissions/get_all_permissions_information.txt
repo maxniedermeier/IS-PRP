@@ -1,0 +1,4 @@
+Extracted 17571 explicit permissions from all permission markdown files.
+Extracted 34 additional explicit permissions from traversing the built-in-roles markdown files.
+-> Extracted a total of 17605 explicit permissions.
+Extracted a total of 715 wildcard permissions from traversing the built-in-roles markdown files.

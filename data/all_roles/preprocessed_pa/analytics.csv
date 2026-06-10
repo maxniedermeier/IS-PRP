@@ -1,0 +1,99 @@
+role_name,permission_name
+azure event hubs data owner,microsoft.eventhub/*
+azure event hubs data receiver,microsoft.eventhub/*/eventhubs/consumergroups/read
+azure event hubs data receiver,microsoft.eventhub/*/receive/action
+azure event hubs data sender,microsoft.eventhub/*/eventhubs/read
+azure event hubs data sender,microsoft.eventhub/*/send/action
+data factory contributor,microsoft.authorization/*/read
+data factory contributor,microsoft.datafactory/datafactories/*
+data factory contributor,microsoft.datafactory/factories/*
+data factory contributor,microsoft.eventgrid/eventsubscriptions/write
+data factory contributor,microsoft.insights/alertrules/*
+data factory contributor,microsoft.resourcehealth/availabilitystatuses/read
+data factory contributor,microsoft.resources/deployments/*
+data factory contributor,microsoft.resources/subscriptions/resourcegroups/read
+data factory contributor,microsoft.support/*
+hdinsight cluster operator,microsoft.authorization/*/read
+hdinsight cluster operator,microsoft.hdinsight/*/read
+hdinsight cluster operator,microsoft.hdinsight/clusters/configurations/*
+hdinsight cluster operator,microsoft.hdinsight/clusters/getgatewaysettings/action
+hdinsight cluster operator,microsoft.hdinsight/clusters/updategatewaysettings/action
+hdinsight cluster operator,microsoft.insights/alertrules/*
+hdinsight cluster operator,microsoft.resources/deployments/operations/read
+hdinsight cluster operator,microsoft.resources/subscriptions/resourcegroups/read
+hdinsight cluster operator,microsoft.support/*
+hdinsight domain services contributor,microsoft.aad/*/read
+hdinsight domain services contributor,microsoft.aad/domainservices/*/read
+hdinsight domain services contributor,microsoft.aad/domainservices/oucontainer/*
+hdinsight on aks cluster admin,microsoft.authorization/*/read
+hdinsight on aks cluster admin,microsoft.hdinsight/clusterpools/clusters/availableupgrades/read
+hdinsight on aks cluster admin,microsoft.hdinsight/clusterpools/clusters/delete
+hdinsight on aks cluster admin,microsoft.hdinsight/clusterpools/clusters/instanceviews/read
+hdinsight on aks cluster admin,microsoft.hdinsight/clusterpools/clusters/jobs/read
+hdinsight on aks cluster admin,microsoft.hdinsight/clusterpools/clusters/libraries/read
+hdinsight on aks cluster admin,microsoft.hdinsight/clusterpools/clusters/managelibraries/action
+hdinsight on aks cluster admin,microsoft.hdinsight/clusterpools/clusters/read
+hdinsight on aks cluster admin,microsoft.hdinsight/clusterpools/clusters/resize/action
+hdinsight on aks cluster admin,microsoft.hdinsight/clusterpools/clusters/rollback/action
+hdinsight on aks cluster admin,microsoft.hdinsight/clusterpools/clusters/runjob/action
+hdinsight on aks cluster admin,microsoft.hdinsight/clusterpools/clusters/serviceconfigs/read
+hdinsight on aks cluster admin,microsoft.hdinsight/clusterpools/clusters/upgrade/action
+hdinsight on aks cluster admin,microsoft.hdinsight/clusterpools/clusters/upgradehistories/read
+hdinsight on aks cluster admin,microsoft.hdinsight/clusterpools/clusters/write
+hdinsight on aks cluster admin,microsoft.insights/alertrules/activated/action
+hdinsight on aks cluster admin,microsoft.insights/alertrules/delete
+hdinsight on aks cluster admin,microsoft.insights/alertrules/incidents/read
+hdinsight on aks cluster admin,microsoft.insights/alertrules/read
+hdinsight on aks cluster admin,microsoft.insights/alertrules/resolved/action
+hdinsight on aks cluster admin,microsoft.insights/alertrules/throttled/action
+hdinsight on aks cluster admin,microsoft.insights/alertrules/write
+hdinsight on aks cluster admin,microsoft.insights/logs/read
+hdinsight on aks cluster admin,microsoft.insights/metrics/read
+hdinsight on aks cluster admin,microsoft.resourcehealth/availabilitystatuses/read
+hdinsight on aks cluster admin,microsoft.resources/deployments/*/read
+hdinsight on aks cluster admin,microsoft.resources/deployments/exporttemplate/action
+hdinsight on aks cluster admin,microsoft.resources/deployments/operations/read
+hdinsight on aks cluster admin,microsoft.resources/deployments/read
+hdinsight on aks cluster admin,microsoft.resources/deployments/validate/action
+hdinsight on aks cluster admin,microsoft.resources/deployments/write
+hdinsight on aks cluster admin,microsoft.resources/subscriptions/operationresults/read
+hdinsight on aks cluster admin,microsoft.resources/subscriptions/resourcegroups/deployments/operations/read
+hdinsight on aks cluster admin,microsoft.resources/subscriptions/resourcegroups/deployments/read
+hdinsight on aks cluster admin,microsoft.resources/subscriptions/resourcegroups/read
+hdinsight on aks cluster pool admin,microsoft.authorization/*/read
+hdinsight on aks cluster pool admin,microsoft.hdinsight/clusterpools/availableupgrades/read
+hdinsight on aks cluster pool admin,microsoft.hdinsight/clusterpools/clusters/read
+hdinsight on aks cluster pool admin,microsoft.hdinsight/clusterpools/clusters/write
+hdinsight on aks cluster pool admin,microsoft.hdinsight/clusterpools/delete
+hdinsight on aks cluster pool admin,microsoft.hdinsight/clusterpools/read
+hdinsight on aks cluster pool admin,microsoft.hdinsight/clusterpools/upgrade/action
+hdinsight on aks cluster pool admin,microsoft.hdinsight/clusterpools/upgradehistories/read
+hdinsight on aks cluster pool admin,microsoft.hdinsight/clusterpools/write
+hdinsight on aks cluster pool admin,microsoft.insights/alertrules/activated/action
+hdinsight on aks cluster pool admin,microsoft.insights/alertrules/delete
+hdinsight on aks cluster pool admin,microsoft.insights/alertrules/incidents/read
+hdinsight on aks cluster pool admin,microsoft.insights/alertrules/read
+hdinsight on aks cluster pool admin,microsoft.insights/alertrules/resolved/action
+hdinsight on aks cluster pool admin,microsoft.insights/alertrules/throttled/action
+hdinsight on aks cluster pool admin,microsoft.insights/alertrules/write
+hdinsight on aks cluster pool admin,microsoft.insights/logs/read
+hdinsight on aks cluster pool admin,microsoft.insights/metrics/read
+hdinsight on aks cluster pool admin,microsoft.resourcehealth/availabilitystatuses/read
+hdinsight on aks cluster pool admin,microsoft.resources/deployments/*/read
+hdinsight on aks cluster pool admin,microsoft.resources/deployments/exporttemplate/action
+hdinsight on aks cluster pool admin,microsoft.resources/deployments/operations/read
+hdinsight on aks cluster pool admin,microsoft.resources/deployments/read
+hdinsight on aks cluster pool admin,microsoft.resources/deployments/validate/action
+hdinsight on aks cluster pool admin,microsoft.resources/deployments/write
+hdinsight on aks cluster pool admin,microsoft.resources/subscriptions/operationresults/read
+hdinsight on aks cluster pool admin,microsoft.resources/subscriptions/resourcegroups/deployments/operations/read
+hdinsight on aks cluster pool admin,microsoft.resources/subscriptions/resourcegroups/deployments/read
+hdinsight on aks cluster pool admin,microsoft.resources/subscriptions/resourcegroups/read
+schema registry contributor,microsoft.eventhub/namespaces/schemagroups/*
+schema registry contributor,microsoft.eventhub/namespaces/schemas/*
+schema registry reader,microsoft.eventhub/namespaces/schemagroups/read
+schema registry reader,microsoft.eventhub/namespaces/schemas/read
+stream analytics query tester,microsoft.streamanalytics/locations/compilequery/action
+stream analytics query tester,microsoft.streamanalytics/locations/operationresults/read
+stream analytics query tester,microsoft.streamanalytics/locations/sampleinput/action
+stream analytics query tester,microsoft.streamanalytics/locations/testquery/action

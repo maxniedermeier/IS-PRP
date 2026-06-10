@@ -1,0 +1,101 @@
+permission_name,request
+microsoft.containerregistry/registries/connectedregistries/write,I need to create or update a connected registry for a container registry with the specified parameters.
+microsoft.containerservice/fleets/secrets/write,I need to write secrets.
+microsoft.authorization/policysetdefinitions/read,I need to get information about a policy set definition.
+microsoft.containerregistry/registries/taskruns/delete,I need to delete a taskrun for a container registry.
+microsoft.containerservice/fleets/batch/jobs/write,I need to write jobs.
+microsoft.network/routetables/join/action,I need to join a route table.
+microsoft.resources/deployments/operations/read,I need to get or list deployment operations.
+microsoft.features/providers/features/register/action,I need to register the feature for a subscription in a given resource provider.
+microsoft.network/privateendpoints/privatednszonegroups/write,I need to put a private dns zone group.
+microsoft.containerregistry/registries/connectedregistries/read,I need to get the properties of the specified connected registry or list all the connected registries for the specified container registry.
+microsoft.containerservice/snapshots/*,I need to create and manage a snapshot.
+microsoft.network/publicipaddresses/write,I need to create a public ip address or update an existing public ip address.
+microsoft.compute/virtualmachines/write,I need to create a new virtual machine or update an existing virtual machine.
+microsoft.containerregistry/registries/runs/read,I need to get the properties of a run against a container registry or list runs.
+microsoft.containerservice/fleets/services/write,I need to write services.
+microsoft.hybridcontainerservice/provisionedclusterinstances/agentpools/read,I need to get the agent pools in the hybrid aks provisioned cluster instance.
+microsoft.compute/locations/diskoperations/read,I need to get the status of an asynchronous disk operation.
+microsoft.containerservice/managedclusters/managednamespaces/read,I need to get a managed namespace of a managed cluster.
+microsoft.network/privateendpoints/write,"I need to create a new private endpoint, or update an existing private endpoint."
+microsoft.resources/deployments/*,I need to create and manage a deployment.
+microsoft.insights/alertrules/*,I need to create and manage a classic metric alert.
+microsoft.network/natgateways/join/action,I need to join a nat gateway.
+microsoft.containerregistry/registries/providers/microsoft.insights/metricdefinitions/read,I need to get the available metrics for microsoft containerregistry.
+microsoft.containerservice/managedclusters/managednamespaces/listcredential/action,I need to list cluster credentials of a managed namespace.
+microsoft.hybridcontainerservice/provisionedclusterinstances/write,I need to create the hybrid aks provisioned cluster instance.
+microsoft.servicefabric/locations/environments/clusterversions/read,I need to read any cluster version for a specific environment.
+microsoft.containerregistry/registries/sign/write,I need to push/pull content trust metadata for a container registry.
+microsoft.network/privateendpoints/privatelinkserviceproxies/write,"I need to create a new private link service proxy, or update an existing private link service proxy."
+microsoft.network/virtualnetworks/delete,I need to delete a virtual network.
+microsoft.containerservice/managedclusters/listclustermonitoringusercredential/action,I need to list the clustermonitoringuser credential of a managed cluster.
+microsoft.support/*,I need to create and update a support ticket.
+microsoft.containerregistry/registries/privateendpointconnections/delete,I need to delete the private endpoint connection.
+microsoft.containerregistry/registries/repositories/metadata/delete,I need to delete the metadata of a repository for a container registry.
+microsoft.storage/storageaccounts/delete,I need to delete an existing storage account.
+microsoft.azurestackhci/clusters/read,I need to get clusters.
+microsoft.managedidentity/userassignedidentities/federatedidentitycredentials/read,I need to get or list federated identity credentials.
+microsoft.containerregistry/registries/webhooks/write,I need to create or update a webhook for a container registry with the specified parameters.
+microsoft.compute/virtualmachines/delete,I need to delete the virtual machine.
+microsoft.resources/deployments/read,I need to get or list deployments.
+microsoft.containerservice/fleets/persistentvolumeclaims/write,I need to write persistentvolumeclaims.
+microsoft.hybridcontainerservice/operations/read,I need to read operations.
+microsoft.authorization/roleassignments/delete,I need to delete a role assignment at the specified scope.
+microsoft.resources/subscriptions/resourcegroups/read,I need to get or list resource groups.
+microsoft.compute/virtualmachinescalesets/read,I need to get the properties of a virtual machine scale set.
+microsoft.containerregistry/registries/connectedregistries/deactivate/action,I need to deactivate a connected registry for a container registry.
+microsoft.resources/deployments/write,I need to create or update an deployment.
+microsoft.containerservice/fleets/autoscaling/horizontalpodautoscalers/write,I need to write horizontalpodautoscalers.
+microsoft.containerregistry/registries/tasks/delete,I need to delete a task for a container registry.
+microsoft.app/jobs/write,I need to create or update a container apps job.
+microsoft.resources/deployments/whatif/action,I need to predict template deployment changes.
+microsoft.containerservice/managedclusters/listclusterusercredential/action,I need to list the clusteruser credential of a managed cluster.
+microsoft.containerregistry/registries/exportpipelines/write,I need to create or update an export pipeline for a container registry with the specified parameters.
+microsoft.app/managedenvironments/join/action,I need to allow to create a container app in a managed environment.
+microsoft.features/providers/features/read,I need to get the feature of a subscription in a given resource provider.
+microsoft.containerregistry/registries/pipelineruns/write,I need to create or update a pipeline run for a container registry with the specified parameters.
+microsoft.app/jobs/read,I need to get a container apps job.
+microsoft.compute/availabilitysets/write,I need to create a new availability set or update an existing one.
+microsoft.containerregistry/registries/replications/write,I need to create or update a replication for a container registry with the specified parameters.
+microsoft.containerservice/managedclusters/managednamespaces/*,I need to create and manage namespaces.
+microsoft.insights/alertrules/incidents/read,I need to read a classic metric alert incident.
+microsoft.hybridcontainerservice/provisionedclusterinstances/listuserkubeconfig/action,I need to list the aad user credentials of a provisioned cluster instance used only in direct mode.
+microsoft.network/virtualnetworks/read,I need to get the virtual network definition.
+microsoft.containerregistry/registries/webhooks/read,I need to get the properties of the specified webhook or list all the webhooks for the specified container registry.
+microsoft.network/publicipaddresses/read,I need to get a public ip address definition.
+microsoft.app/jobs/delete,I need to delete a container apps job.
+microsoft.hybridcontainerservice/skus/write,I need to put the vm skus resource type.
+microsoft.storage/storageaccounts/blobservices/containers/blobs/move/action,I need to move the blob from one path to another.
+microsoft.containerregistry/registries/scopemaps/delete,I need to delete a scope map from a container registry.
+microsoft.containerregistry/registries/webhooks/ping/action,I need to trigger a ping event to be sent to the webhook.
+microsoft.hybridcontainerservice/provisionedclusterinstances/upgradeprofiles/read,I need to read upgradeprofiles.
+microsoft.hybridcontainerservice/provisionedclusterinstances/listadminkubeconfig/action,I need to list the admin credentials of a provisioned cluster instance used only in direct mode.
+microsoft.containerregistry/registries/credentialsets/read,I need to get the properties of the specified credential set or list all the credential sets for the specified container registry.
+microsoft.containerservice/fleets/secrets/read,I need to read secrets.
+microsoft.resources/deployments/validate/action,I need to validate a deployment.
+microsoft.containerregistry/registries/runs/listlogsasurl/action,I need to get the log sas url for a run.
+microsoft.containerregistry/registries/cacherules/delete,I need to delete a cache rule from a container registry.
+microsoft.compute/availabilitysets/delete,I need to delete the availability set.
+microsoft.containerregistry/registries/runs/write,I need to update a run.
+microsoft.storage/storageaccounts/blobservices/containers/blobs/add/action,I need to return the result of adding blob content.
+microsoft.containerregistry/registries/providers/microsoft.insights/diagnosticsettings/write,I need to create or update the diagnostic setting for the resource.
+microsoft.compute/virtualmachinescalesets/write,I need to create a new virtual machine scale set or update an existing one.
+microsoft.app/connectedenvironments/daprcomponents/listsecrets/action,I need to list secrets of a dapr component.
+microsoft.resources/subscriptions/operationresults/read,I need to get the subscription operation results.
+microsoft.network/trafficmanagerprofiles/azureendpoints/read,"I need to get an azure endpoint which belongs to a traffic manager profile, including all the properties of that azure endpoint."
+microsoft.network/publicipprefixes/join/action,I need to join a publicipprefix.
+microsoft.containerregistry/registries/agentpools/write,I need to create or update an agentpool for a container registry.
+microsoft.kubernetes/connectedclusters/read,I need to read connectedclusters.
+microsoft.storage/storageaccounts/blobservices/containers/blobs/read,I need to return a blob or a list of blobs.
+microsoft.containerregistry/registries/scopemaps/read,I need to get the properties of the specified scope map or list all the scope maps for the specified container registry.
+microsoft.containerinstance/containergroups/*,I need to create and manage container groups.
+microsoft.resources/deployments/operationstatuses/read,I need to get or list deployment operation statuses.
+microsoft.insights/alertrules/write,I need to create or update a classic metric alert.
+microsoft.containerservice/fleets/replicationcontrollers/write,I need to write replicationcontrollers.
+microsoft.network/loadbalancers/write,I need to create a load balancer or update an existing load balancer.
+microsoft.containerservice/fleets/configmaps/write,I need to write configmaps.
+microsoft.network/virtualnetworks/subnets/read,I need to get a virtual network subnet definition.
+microsoft.storage/storageaccounts/fileservices/shares/read,I need to list file shares.
+microsoft.compute/virtualmachinescalesets/virtualmachines/write,I need to update the properties of a virtual machine in a vm scale set.
+microsoft.hybridcontainerservice/kubernetesversions/read,I need to list the supported kubernetes versions from the underlying custom location.
+microsoft.management/managementgroups/read,I need to list management groups for the authenticated user.

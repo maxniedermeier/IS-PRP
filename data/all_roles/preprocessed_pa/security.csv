@@ -1,0 +1,182 @@
+role_name,permission_name
+app compliance automation administrator,*/read
+app compliance automation administrator,microsoft.appcomplianceautomation/*
+app compliance automation administrator,microsoft.policyinsights/policystates/queryresults/action
+app compliance automation administrator,microsoft.policyinsights/policystates/triggerevaluation/action
+app compliance automation administrator,microsoft.resources/deployments/validate/action
+app compliance automation administrator,microsoft.resources/deployments/write
+app compliance automation administrator,microsoft.resources/resources/read
+app compliance automation administrator,microsoft.resources/subscriptions/read
+app compliance automation administrator,microsoft.resources/subscriptions/resourcegroups/delete
+app compliance automation administrator,microsoft.resources/subscriptions/resourcegroups/read
+app compliance automation administrator,microsoft.resources/subscriptions/resourcegroups/resources/read
+app compliance automation administrator,microsoft.resources/subscriptions/resourcegroups/write
+app compliance automation administrator,microsoft.resources/subscriptions/resources/read
+app compliance automation administrator,microsoft.resources/tags/read
+app compliance automation administrator,microsoft.security/automations/delete
+app compliance automation administrator,microsoft.security/automations/read
+app compliance automation administrator,microsoft.security/automations/write
+app compliance automation administrator,microsoft.security/register/action
+app compliance automation administrator,microsoft.security/unregister/action
+app compliance automation administrator,microsoft.storage/storageaccounts/blobservices/containers/read
+app compliance automation administrator,microsoft.storage/storageaccounts/blobservices/containers/write
+app compliance automation administrator,microsoft.storage/storageaccounts/blobservices/generateuserdelegationkey/action
+app compliance automation administrator,microsoft.storage/storageaccounts/blobservices/read
+app compliance automation administrator,microsoft.storage/storageaccounts/blobservices/write
+app compliance automation administrator,microsoft.storage/storageaccounts/fileservices/write
+app compliance automation administrator,microsoft.storage/storageaccounts/listkeys/action
+app compliance automation administrator,microsoft.storage/storageaccounts/read
+app compliance automation administrator,microsoft.storage/storageaccounts/write
+app compliance automation reader,*/read
+attestation contributor,microsoft.attestation/attestationproviders/attestation/delete
+attestation contributor,microsoft.attestation/attestationproviders/attestation/read
+attestation contributor,microsoft.attestation/attestationproviders/attestation/write
+attestation reader,microsoft.attestation/attestationproviders/attestation/read
+attestation reader,microsoft.attestation/attestationproviders/read
+key vault administrator,microsoft.authorization/*/read
+key vault administrator,microsoft.insights/alertrules/*
+key vault administrator,microsoft.keyvault/checknameavailability/read
+key vault administrator,microsoft.keyvault/deletedvaults/read
+key vault administrator,microsoft.keyvault/locations/*/read
+key vault administrator,microsoft.keyvault/operations/read
+key vault administrator,microsoft.keyvault/vaults/*
+key vault administrator,microsoft.keyvault/vaults/*/read
+key vault administrator,microsoft.resources/deployments/*
+key vault administrator,microsoft.resources/subscriptions/resourcegroups/read
+key vault administrator,microsoft.support/*
+key vault certificate user,microsoft.keyvault/vaults/certificates/read
+key vault certificate user,microsoft.keyvault/vaults/keys/read
+key vault certificate user,microsoft.keyvault/vaults/secrets/getsecret/action
+key vault certificate user,microsoft.keyvault/vaults/secrets/readmetadata/action
+key vault certificates officer,microsoft.authorization/*/read
+key vault certificates officer,microsoft.insights/alertrules/*
+key vault certificates officer,microsoft.keyvault/checknameavailability/read
+key vault certificates officer,microsoft.keyvault/deletedvaults/read
+key vault certificates officer,microsoft.keyvault/locations/*/read
+key vault certificates officer,microsoft.keyvault/operations/read
+key vault certificates officer,microsoft.keyvault/vaults/*/read
+key vault certificates officer,microsoft.keyvault/vaults/certificatecas/*
+key vault certificates officer,microsoft.keyvault/vaults/certificatecontacts/write
+key vault certificates officer,microsoft.keyvault/vaults/certificates/*
+key vault certificates officer,microsoft.resources/deployments/*
+key vault certificates officer,microsoft.resources/subscriptions/resourcegroups/read
+key vault certificates officer,microsoft.support/*
+key vault crypto officer,microsoft.authorization/*/read
+key vault crypto officer,microsoft.insights/alertrules/*
+key vault crypto officer,microsoft.keyvault/checknameavailability/read
+key vault crypto officer,microsoft.keyvault/deletedvaults/read
+key vault crypto officer,microsoft.keyvault/locations/*/read
+key vault crypto officer,microsoft.keyvault/operations/read
+key vault crypto officer,microsoft.keyvault/vaults/*/read
+key vault crypto officer,microsoft.keyvault/vaults/keyrotationpolicies/*
+key vault crypto officer,microsoft.keyvault/vaults/keys/*
+key vault crypto officer,microsoft.resources/deployments/*
+key vault crypto officer,microsoft.resources/subscriptions/resourcegroups/read
+key vault crypto officer,microsoft.support/*
+key vault crypto service encryption user,microsoft.eventgrid/eventsubscriptions/delete
+key vault crypto service encryption user,microsoft.eventgrid/eventsubscriptions/read
+key vault crypto service encryption user,microsoft.eventgrid/eventsubscriptions/write
+key vault crypto service encryption user,microsoft.keyvault/vaults/keys/read
+key vault crypto service encryption user,microsoft.keyvault/vaults/keys/unwrap/action
+key vault crypto service encryption user,microsoft.keyvault/vaults/keys/wrap/action
+key vault crypto service release user,microsoft.keyvault/vaults/keys/release/action
+key vault crypto user,microsoft.keyvault/vaults/keys/backup/action
+key vault crypto user,microsoft.keyvault/vaults/keys/decrypt/action
+key vault crypto user,microsoft.keyvault/vaults/keys/encrypt/action
+key vault crypto user,microsoft.keyvault/vaults/keys/read
+key vault crypto user,microsoft.keyvault/vaults/keys/sign/action
+key vault crypto user,microsoft.keyvault/vaults/keys/unwrap/action
+key vault crypto user,microsoft.keyvault/vaults/keys/update/action
+key vault crypto user,microsoft.keyvault/vaults/keys/verify/action
+key vault crypto user,microsoft.keyvault/vaults/keys/wrap/action
+key vault data access administrator,microsoft.authorization/*/read
+key vault data access administrator,microsoft.authorization/roleassignments/delete
+key vault data access administrator,microsoft.authorization/roleassignments/write
+key vault data access administrator,microsoft.keyvault/vaults/*/read
+key vault data access administrator,microsoft.management/managementgroups/read
+key vault data access administrator,microsoft.resources/deployments/*
+key vault data access administrator,microsoft.resources/subscriptions/read
+key vault data access administrator,microsoft.resources/subscriptions/resourcegroups/read
+key vault data access administrator,microsoft.support/*
+key vault reader,microsoft.authorization/*/read
+key vault reader,microsoft.insights/alertrules/*
+key vault reader,microsoft.keyvault/checknameavailability/read
+key vault reader,microsoft.keyvault/deletedvaults/read
+key vault reader,microsoft.keyvault/locations/*/read
+key vault reader,microsoft.keyvault/operations/read
+key vault reader,microsoft.keyvault/vaults/*/read
+key vault reader,microsoft.keyvault/vaults/secrets/readmetadata/action
+key vault reader,microsoft.resources/deployments/*
+key vault reader,microsoft.resources/subscriptions/resourcegroups/read
+key vault reader,microsoft.support/*
+key vault secrets officer,microsoft.authorization/*/read
+key vault secrets officer,microsoft.insights/alertrules/*
+key vault secrets officer,microsoft.keyvault/checknameavailability/read
+key vault secrets officer,microsoft.keyvault/deletedvaults/read
+key vault secrets officer,microsoft.keyvault/locations/*/read
+key vault secrets officer,microsoft.keyvault/operations/read
+key vault secrets officer,microsoft.keyvault/vaults/*/read
+key vault secrets officer,microsoft.keyvault/vaults/secrets/*
+key vault secrets officer,microsoft.resources/deployments/*
+key vault secrets officer,microsoft.resources/subscriptions/resourcegroups/read
+key vault secrets officer,microsoft.support/*
+key vault secrets user,microsoft.keyvault/vaults/secrets/getsecret/action
+key vault secrets user,microsoft.keyvault/vaults/secrets/readmetadata/action
+locks contributor,microsoft.authorization/locks/delete
+locks contributor,microsoft.authorization/locks/read
+locks contributor,microsoft.authorization/locks/write
+managed hsm contributor,microsoft.keyvault/deletedmanagedhsms/read
+managed hsm contributor,microsoft.keyvault/locations/deletedmanagedhsms/purge/action
+managed hsm contributor,microsoft.keyvault/locations/deletedmanagedhsms/read
+managed hsm contributor,microsoft.keyvault/locations/managedhsmoperationresults/read
+managed hsm contributor,microsoft.keyvault/managedhsms/*
+microsoft sentinel automation contributor,microsoft.authorization/*/read
+microsoft sentinel automation contributor,microsoft.logic/workflows/runs/read
+microsoft sentinel automation contributor,microsoft.logic/workflows/triggers/listcallbackurl/action
+microsoft sentinel automation contributor,microsoft.logic/workflows/triggers/read
+microsoft sentinel automation contributor,microsoft.web/sites/hostruntime/webhooks/api/workflows/runs/read
+microsoft sentinel automation contributor,microsoft.web/sites/hostruntime/webhooks/api/workflows/triggers/listcallbackurl/action
+microsoft sentinel automation contributor,microsoft.web/sites/hostruntime/webhooks/api/workflows/triggers/read
+microsoft sentinel playbook operator,microsoft.logic/workflows/read
+microsoft sentinel playbook operator,microsoft.logic/workflows/triggers/listcallbackurl/action
+microsoft sentinel playbook operator,microsoft.web/sites/hostruntime/webhooks/api/workflows/triggers/listcallbackurl/action
+microsoft sentinel playbook operator,microsoft.web/sites/read
+security admin,microsoft.authorization/*/read
+security admin,microsoft.authorization/policyassignments/*
+security admin,microsoft.authorization/policydefinitions/*
+security admin,microsoft.authorization/policyexemptions/*
+security admin,microsoft.authorization/policysetdefinitions/*
+security admin,microsoft.insights/alertrules/*
+security admin,microsoft.iotfirmwaredefense/*
+security admin,microsoft.iotsecurity/*
+security admin,microsoft.management/managementgroups/read
+security admin,microsoft.operationalinsights/workspaces/*/read
+security admin,microsoft.resources/deployments/*
+security admin,microsoft.resources/subscriptions/resourcegroups/read
+security admin,microsoft.security/*
+security admin,microsoft.support/*
+security assessment contributor,microsoft.security/assessments/write
+security manager (legacy),microsoft.authorization/*/read
+security manager (legacy),microsoft.classiccompute/*/read
+security manager (legacy),microsoft.classiccompute/virtualmachines/*/write
+security manager (legacy),microsoft.classicnetwork/*/read
+security manager (legacy),microsoft.insights/alertrules/*
+security manager (legacy),microsoft.resourcehealth/availabilitystatuses/read
+security manager (legacy),microsoft.resources/deployments/*
+security manager (legacy),microsoft.resources/subscriptions/resourcegroups/read
+security manager (legacy),microsoft.security/*
+security manager (legacy),microsoft.support/*
+security reader,microsoft.authorization/*/read
+security reader,microsoft.insights/alertrules/read
+security reader,microsoft.iotsecurity/*/read
+security reader,microsoft.iotsecurity/defendersettings/downloadmanageractivation/action
+security reader,microsoft.iotsecurity/defendersettings/packagedownloads/action
+security reader,microsoft.management/managementgroups/read
+security reader,microsoft.operationalinsights/workspaces/*/read
+security reader,microsoft.resources/deployments/*/read
+security reader,microsoft.resources/subscriptions/resourcegroups/read
+security reader,microsoft.security/*/read
+security reader,microsoft.security/iotdefendersettings/downloadmanageractivation/action
+security reader,microsoft.security/iotdefendersettings/packagedownloads/action
+security reader,microsoft.security/iotsensors/downloadresetpassword/action
+security reader,microsoft.support/*/read

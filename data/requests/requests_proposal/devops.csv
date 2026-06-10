@@ -1,0 +1,67 @@
+id,json_permission_name,permission_name,request
+0,microsoft.authorization/*/read,[microsoft.authorization](../permissions/management-and-governance.md#microsoftauthorization)/*/read,I need to read roles and role assignments.
+1,microsoft.authorization/roleassignments/delete,[microsoft.authorization](../permissions/management-and-governance.md#microsoftauthorization)/roleassignments/delete,I need to delete a role assignment at the specified scope.
+2,microsoft.authorization/roleassignments/write,[microsoft.authorization](../permissions/management-and-governance.md#microsoftauthorization)/roleassignments/write,I need to create a role assignment at the specified scope.
+3,microsoft.chaos/experiments/cancel/action,[microsoft.chaos](../permissions/devops.md#microsoftchaos)/experiments/cancel/action,I need to cancel a running chaos experiment to stop the fault injection.
+4,microsoft.chaos/experiments/executions/getexecutiondetails/action,[microsoft.chaos](../permissions/devops.md#microsoftchaos)/experiments/executions/getexecutiondetails/action,I need to get details of a chaos experiment execution for a given chaos experiment.
+5,microsoft.chaos/experiments/start/action,[microsoft.chaos](../permissions/devops.md#microsoftchaos)/experiments/start/action,I need to start a chaos experiment to inject faults.
+6,microsoft.chaos/locations/operationresults/read,[microsoft.chaos](../permissions/devops.md#microsoftchaos)/locations/operationresults/read,I need to get an operation result.
+7,microsoft.chaos/locations/operationstatuses/read,[microsoft.chaos](../permissions/devops.md#microsoftchaos)/locations/operationstatuses/read,I need to get an operation status.
+8,microsoft.chaos/locations/targettypes/capabilitytypes/read,[microsoft.chaos](../permissions/devops.md#microsoftchaos)/locations/targettypes/capabilitytypes/read,I need to get all capabilitytype.
+9,microsoft.chaos/locations/targettypes/read,[microsoft.chaos](../permissions/devops.md#microsoftchaos)/locations/targettypes/read,I need to get all targettypes.
+10,microsoft.chaos/targets/capabilities/delete,[microsoft.chaos](../permissions/devops.md#microsoftchaos)/targets/capabilities/delete,I need to delete a capability resource that extends a target resource.
+11,microsoft.chaos/targets/capabilities/read,[microsoft.chaos](../permissions/devops.md#microsoftchaos)/targets/capabilities/read,I need to get all capabilities that extend a target resource.
+12,microsoft.chaos/targets/capabilities/write,[microsoft.chaos](../permissions/devops.md#microsoftchaos)/targets/capabilities/write,I need to create or update a capability resource that extends a target resource.
+13,microsoft.chaos/targets/delete,[microsoft.chaos](../permissions/devops.md#microsoftchaos)/targets/delete,I need to delete a target resource that extends a tracked resource.
+14,microsoft.chaos/targets/read,[microsoft.chaos](../permissions/devops.md#microsoftchaos)/targets/read,I need to get all targets that extend a tracked resource.
+15,microsoft.chaos/targets/write,[microsoft.chaos](../permissions/devops.md#microsoftchaos)/targets/write,I need to create or update a target resource that extends a tracked resource.
+16,microsoft.devcenter/projects/read,[microsoft.devcenter](../permissions/devops.md#microsoftdevcenter)/projects/read,I need to get a specific project.
+17,microsoft.devcenter/projects/users/devboxes/useractionmanage/action,[microsoft.devcenter](../permissions/devops.md#microsoftdevcenter)/projects/users/devboxes/useractionmanage/action,I need to allow a user to skip or delay dev box actions.
+18,microsoft.devcenter/projects/users/devboxes/useractionread/action,[microsoft.devcenter](../permissions/devops.md#microsoftdevcenter)/projects/users/devboxes/useractionread/action,I need to allow a user to read dev box actions.
+19,microsoft.devcenter/projects/users/devboxes/usercustomize/action,[microsoft.devcenter](../permissions/devops.md#microsoftdevcenter)/projects/users/devboxes/usercustomize/action,I need to allow a user to customize their own dev box resources.
+20,microsoft.devcenter/projects/users/devboxes/userdelete/action,[microsoft.devcenter](../permissions/devops.md#microsoftdevcenter)/projects/users/devboxes/userdelete/action,I need to allow a user to delete their own dev box resources.
+21,microsoft.devcenter/projects/users/devboxes/usergetremoteconnection/action,[microsoft.devcenter](../permissions/devops.md#microsoftdevcenter)/projects/users/devboxes/usergetremoteconnection/action,I need to allow a user to get the rdp connection information for their own dev box resources.
+22,microsoft.devcenter/projects/users/devboxes/userread/action,[microsoft.devcenter](../permissions/devops.md#microsoftdevcenter)/projects/users/devboxes/userread/action,I need to allow a user to read their own dev box resources.
+23,microsoft.devcenter/projects/users/devboxes/userstart/action,[microsoft.devcenter](../permissions/devops.md#microsoftdevcenter)/projects/users/devboxes/userstart/action,I need to allow a user to start their own dev box resources.
+24,microsoft.devcenter/projects/users/devboxes/userstop/action,[microsoft.devcenter](../permissions/devops.md#microsoftdevcenter)/projects/users/devboxes/userstop/action,I need to allow a user to stop their own dev box resources.
+25,microsoft.devcenter/projects/users/devboxes/userupcomingactionmanage/action,[microsoft.devcenter](../permissions/devops.md#microsoftdevcenter)/projects/users/devboxes/userupcomingactionmanage/action,I need to allow a user to skip or delay upcoming actions.
+26,microsoft.devcenter/projects/users/devboxes/userupcomingactionread/action,[microsoft.devcenter](../permissions/devops.md#microsoftdevcenter)/projects/users/devboxes/userupcomingactionread/action,I need to allow a user to read upcoming actions.
+27,microsoft.devcenter/projects/users/devboxes/userwrite/action,[microsoft.devcenter](../permissions/devops.md#microsoftdevcenter)/projects/users/devboxes/userwrite/action,I need to allow a user to create and update their own dev box resources.
+28,microsoft.devopsinfrastructure/locations/operationstatuses/write,[microsoft.devopsinfrastructure](../permissions/devops.md#microsoftdevopsinfrastructure)/locations/operationstatuses/write,I need to write operationstatuses.
+29,microsoft.devopsinfrastructure/pools/delete,[microsoft.devopsinfrastructure](../permissions/devops.md#microsoftdevopsinfrastructure)/pools/delete,I need to delete a pool.
+30,microsoft.devopsinfrastructure/pools/write,[microsoft.devopsinfrastructure](../permissions/devops.md#microsoftdevopsinfrastructure)/pools/write,I need to update a pool.
+31,microsoft.devopsinfrastructure/register/action,[microsoft.devopsinfrastructure](../permissions/devops.md#microsoftdevopsinfrastructure)/register/action,I need to register the subscription for microsoft.devopsinfrastructure.
+32,microsoft.devopsinfrastructure/unregister/action,[microsoft.devopsinfrastructure](../permissions/devops.md#microsoftdevopsinfrastructure)/unregister/action,I need to unregister the subscription for microsoft.devopsinfrastructure.
+33,microsoft.insights/alertrules/*,[microsoft.insights](../permissions/monitor.md#microsoftinsights)/alertrules/*,I need to create and manage a classic metric alert.
+34,microsoft.labservices/*,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/*,I need to create and manage lab services components.
+35,microsoft.labservices/*/read,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/*/read,I need to read lab services properties.
+36,microsoft.labservices/labaccounts/createlab/action,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labaccounts/createlab/action,I need to create a lab in a lab account.
+37,microsoft.labservices/labaccounts/getpricingandavailability/action,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labaccounts/getpricingandavailability/action,"I need to get the pricing and availability of combinations of sizes, geographies, and operating systems for the lab account."
+38,microsoft.labservices/labaccounts/getrestrictionsandusage/action,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labaccounts/getrestrictionsandusage/action,I need to get core restrictions and usage for this subscription.
+39,microsoft.labservices/labplans/createlab/action,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labplans/createlab/action,I need to create a new lab from a lab plan.
+40,microsoft.labservices/labplans/images/read,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labplans/images/read,I need to get the properties of an image.
+41,microsoft.labservices/labplans/read,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labplans/read,I need to get the properties of a lab plan.
+42,microsoft.labservices/labplans/saveimage/action,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labplans/saveimage/action,I need to create an image from a virtual machine in the gallery attached to the lab plan.
+43,microsoft.labservices/labs/delete,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/delete,"I need to delete the lab and all its users, schedules and virtual machines."
+44,microsoft.labservices/labs/publish/action,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/publish/action,I need to publish a lab by propagating image of the template virtual machine to all virtual machines in the lab.
+45,microsoft.labservices/labs/read,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/read,I need to get the properties of a lab.
+46,microsoft.labservices/labs/schedules/delete,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/schedules/delete,I need to delete the schedule.
+47,microsoft.labservices/labs/schedules/read,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/schedules/read,I need to get the properties of a schedule.
+48,microsoft.labservices/labs/schedules/write,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/schedules/write,I need to create new or update an existing schedule.
+49,microsoft.labservices/labs/syncgroup/action,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/syncgroup/action,I need to update the list of users from the active directory group assigned to the lab.
+50,microsoft.labservices/labs/users/delete,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/users/delete,I need to delete the user.
+51,microsoft.labservices/labs/users/invite/action,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/users/invite/action,I need to send email invitation to a user to join the lab.
+52,microsoft.labservices/labs/users/read,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/users/read,I need to get the properties of a user.
+53,microsoft.labservices/labs/users/write,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/users/write,I need to create new or update an existing user.
+54,microsoft.labservices/labs/virtualmachines/read,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/virtualmachines/read,I need to get the properties of a virtual machine.
+55,microsoft.labservices/labs/virtualmachines/redeploy/action,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/virtualmachines/redeploy/action,I need to redeploy a virtual machine to a different compute node.
+56,microsoft.labservices/labs/virtualmachines/reimage/action,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/virtualmachines/reimage/action,I need to reimage a virtual machine to the last published image.
+57,microsoft.labservices/labs/virtualmachines/resetpassword/action,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/virtualmachines/resetpassword/action,I need to reset local user's password on a virtual machine.
+58,microsoft.labservices/labs/virtualmachines/start/action,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/virtualmachines/start/action,I need to start a virtual machine.
+59,microsoft.labservices/labs/virtualmachines/stop/action,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/virtualmachines/stop/action,I need to stop and deallocate a virtual machine.
+60,microsoft.labservices/labs/write,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/labs/write,I need to create new or update an existing lab.
+61,microsoft.labservices/locations/usages/read,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/locations/usages/read,I need to get usage in a location.
+62,microsoft.labservices/skus/read,[microsoft.labservices](../permissions/devops.md#microsoftlabservices)/skus/read,I need to get the properties of a lab services sku.
+63,microsoft.resources/deployments/*,[microsoft.resources](../permissions/management-and-governance.md#microsoftresources)/deployments/*,I need to create and manage a deployment.
+64,microsoft.resources/subscriptions/resourcegroups/read,[microsoft.resources](../permissions/management-and-governance.md#microsoftresources)/subscriptions/resourcegroups/read,I need to get or list resource groups.
+65,microsoft.support/*,[microsoft.support](../permissions/general.md#microsoftsupport)/*,I need to create and update a support ticket.

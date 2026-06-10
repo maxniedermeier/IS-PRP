@@ -1,0 +1,101 @@
+permission_name,request
+microsoft.healthbot/healthbots/authenticationproviders/read,I need to list and view details of agent's authentication providers.
+microsoft.healthbot/healthbots/audittrails/read,I need to audit all activity in your bot.
+microsoft.search/searchservices/privateendpointconnections/read,I need to return the list of private endpoint connections or get the properties for the specified private endpoint connections.
+microsoft.cognitiveservices/accounts/commitmentplans/delete,I need to delete commitment plans.
+microsoft.insights/webtests/*,I need to create and manage insights web tests.
+microsoft.healthbot/healthbots/resources/files/read,I need to allow reading and listing of resource files in the health bot.
+microsoft.apimanagement/service/privateendpointconnections/write,I need to approve or reject private endpoint connections.
+microsoft.machinelearningservices/workspaces/privatelinkresources/read,I need to get the available private link resources for the specified instance of the machine learning services workspace(s).
+microsoft.cognitiveservices/accounts/face/group/action,I need to divide candidate faces into groups based on face similarity.
+microsoft.network/virtualnetworks/subnets/joinviaserviceendpoint/action,I need to join resource such as storage account or sql database to a subnet.
+microsoft.network/applicationgateways/privatelinkresources/read,I need to get applicationgateway privatelink resources.
+microsoft.cognitiveservices/accounts/commitmentplans/read,I need to read commitment plans.
+microsoft.insights/components/*,I need to create and manage insights components.
+microsoft.insights/diagnosticsettings/read,I need to read a resource diagnostic setting.
+microsoft.network/applicationgateways/privateendpointconnections/read,I need to get application gateway privateendpoint connections.
+microsoft.healthbot/healthbots/dataconnections/read,I need to list and view details of reusable data connections.
+microsoft.healthbot/healthbots/openapiplugins/read,I need to list and view openapi plugins' details.
+microsoft.search/searchservices/read,I need to read the search service.
+microsoft.network/privatelinkservices/privateendpointconnections/write,"I need to create a new private endpoint connection, or update an existing private endpoint connection."
+microsoft.eventhub/namespaces/privatelinkresources/read,I need to get the resource types that support private endpoint connections.
+microsoft.dbforpostgresql/flexibleservers/privateendpointconnectionsapproval/action,I need to determine if the user is allowed to approve a private endpoint connection.
+microsoft.cognitiveservices/accounts/privatelinkresources/read,I need to read private link resources for an account.
+microsoft.dbforpostgresql/servergroupsv2/privatelinkresources/read,I need to get the private link resources for the corresponding postgresql sgv2.
+microsoft.storage/storageaccounts/*,I need to create and manage storage accounts.
+microsoft.resources/deployments/*,I need to create and manage a deployment.
+microsoft.healthbot/healthbots/registeredskills/read,I need to list registered skills and view manifest urls and details.
+microsoft.resources/subscriptions/read,I need to get the list of subscriptions.
+microsoft.cognitiveservices/locations/usages/read,I need to read all usages data.
+microsoft.search/searchservices/delete,I need to delete the search service.
+microsoft.documentdb/databaseaccounts/privateendpointconnections/read,I need to read a private endpoint connection or list all the private endpoint connections of a database account.
+microsoft.authorization/roledefinitions/read,I need to get information about a role definition.
+microsoft.healthbot/healthbots/metadata/read,I need to get metadata and configurations related to the bot.
+microsoft.insights/metrics/read,I need to read metrics.
+microsoft.insights/topology/read,I need to read topology.
+microsoft.network/applicationgateways/read,I need to get an application gateway.
+microsoft.healthbot/healthbots/copilotstudiosolution/restorebuiltintemplate/read,I need to apply copilot features when opening the management portal.
+microsoft.storage/storageaccounts/read,I need to return the list of storage accounts or get the properties for the specified storage account.
+microsoft.insights/alertrules/*,I need to create and manage a classic metric alert.
+microsoft.resources/subscriptions/resourcegroups/write,I need to create or update a resource group.
+microsoft.cognitiveservices/accounts/deployments/delete,I need to delete deployments.
+microsoft.documentdb/databaseaccounts/read,I need to read a database account.
+microsoft.cognitiveservices/accounts/raipolicies/read,I need to get all applicable policies under the account including default policies.
+microsoft.features/providers/features/read,I need to get the feature of a subscription in a given resource provider.
+microsoft.features/providers/features/register/action,I need to register the feature for a subscription in a given resource provider.
+microsoft.cognitiveservices/accounts/listkeys/action,I need to list keys.
+microsoft.keyvault/vaults/privatelinkresources/read,I need to get the available private link resources for the specified instance of key vault.
+microsoft.insights/privatelinkscopes/privatelinkresources/read,I need to read a private link resource.
+microsoft.insights/privatelinkscopes/privateendpointconnections/write,I need to create or update a private endpoint connection.
+microsoft.authorization/roleassignments/write,I need to create a role assignment at the specified scope.
+microsoft.documentdb/databaseaccounts/privateendpointconnections/write,I need to create or update a private endpoint connection of a database account.
+microsoft.support/*,I need to create and update a support ticket.
+microsoft.healthbot/healthbots/exposedskill/read,I need to view the agent's exposed skill enablement status and details.
+microsoft.apimanagement/service/privatelinkresources/read,I need to get private link group resources.
+microsoft.healthbot/healthbots/users/read,I need to read portal users as configured in classic access control.
+microsoft.cognitiveservices/accounts/face/verify/action,I need to verify whether two faces belong to a same person or whether one face belongs to a person.
+microsoft.features/features/read,I need to get the features of a subscription.
+microsoft.insights/metricdefinitions/read,I need to read metric definitions.
+microsoft.machinelearningservices/registries/privatelinkresources/read,I need to get the available private link resources for the specified instance of the machine learning services registry(ies).
+microsoft.cognitiveservices/accounts/raipolicies/delete,I need to delete a custom responsible ai policy that's not referenced by an existing deployment.
+microsoft.insights/privatelinkscopes/read,I need to read a private link scope.
+microsoft.cognitiveservices/accounts/raipolicies/write,I need to create or update a custom responsible ai policy.
+microsoft.authorization/roleassignments/delete,I need to delete a role assignment at the specified scope.
+microsoft.authorization/roleassignments/read,I need to get information about a role assignment.
+microsoft.keyvault/vaults/read,I need to view the properties of a key vault.
+microsoft.resources/subscriptions/operationresults/read,I need to get the subscription operation results.
+microsoft.cognitiveservices/accounts/luis/apps/testdatasets/write,I need to update last test results of an existing batch test data set for a given application.
+microsoft.resourcehealth/availabilitystatuses/read,I need to get the availability statuses for all resources in the specified scope.
+microsoft.healthbot/healthbots/configuration/read,"I need to view agent's configuration, including healthcare intelligence configurations and environment variables."
+microsoft.search/searchservices/listadminkeys/action,I need to read the admin keys.
+microsoft.cognitiveservices/accounts/privateendpointconnections/read,I need to read private endpoint connections.
+microsoft.apimanagement/service/privateendpointconnections/read,I need to get private endpoint connections.
+microsoft.sql/servers/privatelinkresources/read,I need to get the private link resources for the corresponding sql server.
+microsoft.insights/logdefinitions/read,I need to read log definitions.
+microsoft.search/searchservices/sharedprivatelinkresources/read,I need to return the list of shared private link resources or get the properties for the specified shared private link resource.
+microsoft.insights/alertrules/read,I need to read a classic metric alert.
+microsoft.search/searchservices/indexes/documents/read,I need to read documents or suggested query terms from an index.
+microsoft.cognitiveservices/accounts/read,I need to read api accounts.
+microsoft.machinelearningservices/workspaces/read,I need to get the machine learning services workspace(s).
+microsoft.resources/subscriptions/resourcegroups/read,I need to get or list resource groups.
+microsoft.network/privatelinkservices/read,I need to get an private link service resource.
+microsoft.insights/transactions/read,I need to read transactions.
+microsoft.dbformysql/flexibleservers/read,I need to return the list of servers or get the properties for the specified server.
+microsoft.containerregistry/registries/privateendpointconnections/write,I need to approve/reject the private endpoint connection.
+microsoft.search/searchservices/indexes/contentsecurity/elevatedoperations/read,I need to enable the option to read all documents in an index regardless of permission filters.
+microsoft.storage/storageaccounts/privatelinkresources/read,I need to get storageaccount groupids.
+microsoft.authorization/*/read,I need to read roles and role assignments.
+microsoft.insights/autoscalesettings/write,I need to create or update an autoscale setting.
+microsoft.network/privatelinkservices/privateendpointconnections/read,I need to get an private endpoint connection definition.
+microsoft.cognitiveservices/accounts/commitmentplans/write,I need to write commitment plans.
+microsoft.machinelearningservices/registries/read,I need to get the machine learning services registry(ies).
+microsoft.search/searchservices/*,I need to create and manage search services.
+microsoft.cognitiveservices/accounts/deployments/write,I need to write deployments.
+microsoft.cognitiveservices/accounts/immersivereader/getcontentmodelforreader/action,I need to create an immersive reader session.
+microsoft.dbformysql/flexibleservers/privatelinkresources/read,I need to get the private link resources for the corresponding mysql server.
+microsoft.dbforpostgresql/servergroupsv2/privateendpointconnectionsapproval/action,I need to determine if user is allowed to approve a private endpoint connection for postgresql sgv2.
+microsoft.documentdb/databaseaccounts/privatelinkresources/read,I need to read a private link resource or list all the private link resources of a database account.
+microsoft.search/searchservices/write,I need to create or update the search service.
+microsoft.apimanagement/service/read,I need to read metadata for an api management service instance.
+microsoft.cognitiveservices/accounts/face/detect/action,"I need to detect human faces in an image, return face rectangles, and optionally with faceids, landmarks, and attributes."
+microsoft.resources/deployments/operations/read,I need to get or list deployment operations.

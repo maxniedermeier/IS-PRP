@@ -1,0 +1,501 @@
+request;permission;role
+I need to read a private endpoint connection or list all the private endpoint connections of a database account.;microsoft.dbformariadb/servers/privateendpointconnections/read;none
+I need to read a private endpoint connection or list all the private endpoint connections of a database account.;microsoft.dbformariadb/servers/privateendpointconnections/read;none
+I need to read a private endpoint connection or list all the private endpoint connections of a database account.;microsoft.dbformariadb/servers/privateendpointconnections/read;none
+I need to read a private endpoint connection or list all the private endpoint connections of a database account.;microsoft.dbformariadb/servers/privateendpointconnections/read;none
+I need to read a private endpoint connection or list all the private endpoint connections of a database account.;microsoft.dbformariadb/servers/privateendpointconnections/read;none
+I need to get the feature of a subscription in a given resource provider.;microsoft.resources/subscriptions/features/read;contributor
+I need to get the feature of a subscription in a given resource provider.;microsoft.resources/subscriptions/features/read;contributor
+I need to get the feature of a subscription in a given resource provider.;microsoft.resources/subscriptions/features/read;contributor
+I need to get the feature of a subscription in a given resource provider.;microsoft.resources/subscriptions/features/read;contributor
+I need to get the feature of a subscription in a given resource provider.;microsoft.resources/subscriptions/features/read;contributor
+I need to read roles and role assignments.;microsoft.authorization/roleassignments/read;reader
+I need to read roles and role assignments.;microsoft.authorization/roleassignments/read;reader
+I need to read roles and role assignments.;microsoft.authorization/roleassignments/read;reader
+I need to read roles and role assignments.;microsoft.authorization/roleassignments/read;reader
+I need to read roles and role assignments.;microsoft.authorization/roleassignments/read;reader
+I need to determine if the user is allowed to approve a private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/approve/action;azure ai inference deployment operator
+I need to determine if the user is allowed to approve a private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/approve/action;azure ai inference deployment operator
+I need to determine if the user is allowed to approve a private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/approve/action;azure ai inference deployment operator
+I need to determine if the user is allowed to approve a private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/approve/action;azure ai inference deployment operator
+I need to determine if the user is allowed to approve a private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/approve/action;azure ai inference deployment operator
+I need to get private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to get private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to get private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to get private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to get private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to read the admin keys.;microsoft.machinelearning/workspaces/keys/read;azure ai inference deployment operator
+I need to read the admin keys.;microsoft.machinelearning/workspaces/keys/read;azure ai inference deployment operator
+I need to read the admin keys.;microsoft.machinelearning/workspaces/keys/read;azure ai inference deployment operator
+I need to read the admin keys.;microsoft.machinelearning/workspaces/keys/read;azure ai inference deployment operator
+I need to read the admin keys.;microsoft.machinelearning/workspaces/keys/read;azure ai inference deployment operator
+I need to read a classic metric alert.;microsoft.insights/alertrules/read;monitoring reader
+I need to read a classic metric alert.;microsoft.insights/alertrules/read;monitoring reader
+I need to read a classic metric alert.;microsoft.insights/alertrules/read;monitoring reader
+I need to read a classic metric alert.;microsoft.insights/alertrules/read;monitoring reader
+I need to read a classic metric alert.;microsoft.insights/alertrules/read;monitoring reader
+I need to read a database account.;microsoft.sql/servers/databases/read;none
+I need to read a database account.;microsoft.sql/servers/databases/read;none
+I need to read a database account.;microsoft.sql/servers/databases/read;none
+I need to read a database account.;microsoft.sql/servers/databases/read;none
+I need to read a database account.;microsoft.sql/servers/databases/read;none
+I need to view agent's configuration, including healthcare intelligence configurations and environment variables.;microsoft.healthbot/healthbots/agents/read;none
+I need to view agent's configuration, including healthcare intelligence configurations and environment variables.;microsoft.healthbot/healthbots/agents/read;none
+I need to view agent's configuration, including healthcare intelligence configurations and environment variables.;microsoft.healthbot/healthbots/agents/read;none
+I need to view agent's configuration, including healthcare intelligence configurations and environment variables.;microsoft.healthbot/healthbots/agents/read;none
+I need to view agent's configuration, including healthcare intelligence configurations and environment variables.;microsoft.healthbot/healthbots/agents/read;none
+I need to get all applicable policies under the account including default policies.;microsoft.machinelearning/workspaces/policies/read;azure ml workspace contributor
+I need to get all applicable policies under the account including default policies.;microsoft.machinelearning/workspaces/policies/read;azure ml workspace contributor
+I need to get all applicable policies under the account including default policies.;microsoft.machinelearning/workspaces/policies/read;azure ml workspace contributor
+I need to get all applicable policies under the account including default policies.;microsoft.machinelearning/workspaces/policies/read;azure ml workspace contributor
+I need to get all applicable policies under the account including default policies.;microsoft.machinelearning/workspaces/policies/read;azure ml workspace contributor
+I need to read transactions.;microsoft.insights/transactions/read;none
+I need to read transactions.;microsoft.insights/transactions/read;none
+I need to read transactions.;microsoft.insights/transactions/read;none
+I need to read transactions.;microsoft.insights/transactions/read;none
+I need to read transactions.;microsoft.insights/transactions/read;none
+I need to read documents or suggested query terms from an index.;microsoft.cognitiveservices/accounts/operations/read;cognitive services language reader
+I need to read documents or suggested query terms from an index.;microsoft.cognitiveservices/accounts/operations/read;cognitive services language reader
+I need to read documents or suggested query terms from an index.;microsoft.cognitiveservices/accounts/operations/read;cognitive services language reader
+I need to read documents or suggested query terms from an index.;microsoft.cognitiveservices/accounts/operations/read;cognitive services language reader
+I need to read documents or suggested query terms from an index.;microsoft.cognitiveservices/accounts/operations/read;cognitive services language reader
+I need to read private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to read private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to read private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to read private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to read private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to get the available private link resources for the specified instance of the machine learning services workspace(s).;microsoft.machinelearningservices/workspaces/privatelinkresources/read;azure ml workspace contributor
+I need to get the available private link resources for the specified instance of the machine learning services workspace(s).;microsoft.machinelearningservices/workspaces/privatelinkresources/read;azure ml workspace contributor
+I need to get the available private link resources for the specified instance of the machine learning services workspace(s).;microsoft.machinelearningservices/workspaces/privatelinkresources/read;azure ml workspace contributor
+I need to get the available private link resources for the specified instance of the machine learning services workspace(s).;microsoft.machinelearningservices/workspaces/privatelinkresources/read;azure ml workspace contributor
+I need to get the available private link resources for the specified instance of the machine learning services workspace(s).;microsoft.machinelearningservices/workspaces/privatelinkresources/read;azure ml workspace contributor
+I need to read a private link scope.;microsoft.insights/privatelinkscopes/read;azure ai inference deployment operator
+I need to read a private link scope.;microsoft.insights/privatelinkscopes/read;azure ai inference deployment operator
+I need to read a private link scope.;microsoft.insights/privatelinkscopes/read;azure ai inference deployment operator
+I need to read a private link scope.;microsoft.insights/privatelinkscopes/read;azure ai inference deployment operator
+I need to read a private link scope.;microsoft.insights/privatelinkscopes/read;azure ai inference deployment operator
+I need to create a new private endpoint connection, or update an existing private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to create a new private endpoint connection, or update an existing private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to create a new private endpoint connection, or update an existing private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to create a new private endpoint connection, or update an existing private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to create a new private endpoint connection, or update an existing private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to get applicationgateway privatelink resources.;microsoft.network/applicationgateway/privateendpoints/read;none
+I need to get applicationgateway privatelink resources.;microsoft.network/applicationgateway/privateendpoints/read;none
+I need to get applicationgateway privatelink resources.;microsoft.network/applicationgateway/privateendpoints/read;none
+I need to get applicationgateway privatelink resources.;microsoft.network/applicationgateway/privateendpoints/read;none
+I need to get applicationgateway privatelink resources.;microsoft.network/applicationgateway/privateendpoints/read;none
+I need to read a private link resource or list all the private link resources of a database account.;microsoft.dbformariadb/servers/privatelinkresources/read;none
+I need to read a private link resource or list all the private link resources of a database account.;microsoft.dbformariadb/servers/privatelinkresources/read;none
+I need to read a private link resource or list all the private link resources of a database account.;microsoft.dbformariadb/servers/privatelinkresources/read;none
+I need to read a private link resource or list all the private link resources of a database account.;microsoft.dbformariadb/servers/privatelinkresources/read;none
+I need to read a private link resource or list all the private link resources of a database account.;microsoft.dbformariadb/servers/privatelinkresources/read;none
+I need to enable the option to read all documents in an index regardless of permission filters.;microsoft.search/searchservices/dataprotectionpolicies/read;none
+I need to enable the option to read all documents in an index regardless of permission filters.;microsoft.search/searchservices/dataprotectionpolicies/read;none
+I need to enable the option to read all documents in an index regardless of permission filters.;microsoft.search/searchservices/dataprotectionpolicies/read;none
+I need to enable the option to read all documents in an index regardless of permission filters.;microsoft.search/searchservices/dataprotectionpolicies/read;none
+I need to enable the option to read all documents in an index regardless of permission filters.;microsoft.search/searchservices/dataprotectionpolicies/read;none
+I need to get the machine learning services registry(ies).;microsoft.machinelearningservices/registries/read;machine learning contributor
+I need to get the machine learning services registry(ies).;microsoft.machinelearningservices/registries/read;machine learning contributor
+I need to get the machine learning services registry(ies).;microsoft.machinelearningservices/registries/read;machine learning contributor
+I need to get the machine learning services registry(ies).;microsoft.machinelearningservices/registries/read;machine learning contributor
+I need to get the machine learning services registry(ies).;microsoft.machinelearningservices/registries/read;machine learning contributor
+I need to verify whether two faces belong to a same person or whether one face belongs to a person.;microsoft.cognitiveservices/accounts/face/*;cognitive services face contributor
+I need to verify whether two faces belong to a same person or whether one face belongs to a person.;microsoft.cognitiveservices/accounts/face/*;cognitive services face contributor
+I need to verify whether two faces belong to a same person or whether one face belongs to a person.;microsoft.cognitiveservices/accounts/face/*;cognitive services face contributor
+I need to verify whether two faces belong to a same person or whether one face belongs to a person.;microsoft.cognitiveservices/accounts/face/*;cognitive services face contributor
+I need to verify whether two faces belong to a same person or whether one face belongs to a person.;microsoft.cognitiveservices/accounts/face/*;cognitive services face contributor
+I need to get the resource types that support private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to get the resource types that support private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to get the resource types that support private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to get the resource types that support private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to get the resource types that support private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to create or update an autoscale setting.;microsoft.insights/autoscalesettings/*;azure ai inference deployment operator
+I need to create or update an autoscale setting.;microsoft.insights/autoscalesettings/*;azure ai inference deployment operator
+I need to create or update an autoscale setting.;microsoft.insights/autoscalesettings/*;azure ai inference deployment operator
+I need to create or update an autoscale setting.;microsoft.insights/autoscalesettings/*;azure ai inference deployment operator
+I need to create or update an autoscale setting.;microsoft.insights/autoscalesettings/*;azure ai inference deployment operator
+I need to read portal users as configured in classic access control.;microsoft.authorization/roleassignments/read;reader
+I need to read portal users as configured in classic access control.;microsoft.authorization/roleassignments/read;reader
+I need to read portal users as configured in classic access control.;microsoft.authorization/roleassignments/read;reader
+I need to read portal users as configured in classic access control.;microsoft.authorization/roleassignments/read;reader
+I need to read portal users as configured in classic access control.;microsoft.authorization/roleassignments/read;reader
+I need to list and view details of reusable data connections.;microsoft.healthbot/healthbots/dataconnections/read;none
+I need to list and view details of reusable data connections.;microsoft.healthbot/healthbots/dataconnections/read;none
+I need to list and view details of reusable data connections.;microsoft.healthbot/healthbots/dataconnections/read;none
+I need to list and view details of reusable data connections.;microsoft.healthbot/healthbots/dataconnections/read;none
+I need to list and view details of reusable data connections.;microsoft.healthbot/healthbots/dataconnections/read;none
+I need to get information about a role definition.;microsoft.authorization/roledefinitions/read;security admin
+I need to get information about a role definition.;microsoft.authorization/roledefinitions/read;security admin
+I need to get information about a role definition.;microsoft.authorization/roledefinitions/read;security admin
+I need to get information about a role definition.;microsoft.authorization/roledefinitions/read;security admin
+I need to get information about a role definition.;microsoft.authorization/roledefinitions/read;security admin
+I need to get or list deployment operations.;microsoft.machinelearning/workspaces/deployments/operations/read;azure ai inference deployment operator
+I need to get or list deployment operations.;microsoft.machinelearning/workspaces/deployments/operations/read;azure ai inference deployment operator
+I need to get or list deployment operations.;microsoft.machinelearning/workspaces/deployments/operations/read;azure ai inference deployment operator
+I need to get or list deployment operations.;microsoft.machinelearning/workspaces/deployments/operations/read;azure ai inference deployment operator
+I need to get or list deployment operations.;microsoft.machinelearning/workspaces/deployments/operations/read;azure ai inference deployment operator
+I need to divide candidate faces into groups based on face similarity.;microsoft.cognitiveservices/accounts/face/*;cognitive services face contributor
+I need to divide candidate faces into groups based on face similarity.;microsoft.cognitiveservices/accounts/face/*;cognitive services face contributor
+I need to divide candidate faces into groups based on face similarity.;microsoft.cognitiveservices/accounts/face/*;cognitive services face contributor
+I need to divide candidate faces into groups based on face similarity.;microsoft.cognitiveservices/accounts/face/*;cognitive services face contributor
+I need to divide candidate faces into groups based on face similarity.;microsoft.cognitiveservices/accounts/face/*;cognitive services face contributor
+I need to get the features of a subscription.;microsoft.insights/features/read;reader
+I need to get the features of a subscription.;microsoft.insights/features/read;reader
+I need to get the features of a subscription.;microsoft.insights/features/read;reader
+I need to get the features of a subscription.;microsoft.insights/features/read;reader
+I need to get the features of a subscription.;microsoft.insights/features/read;reader
+I need to read api accounts.;microsoft.apimanagement/service/apis/read;cognitive services api management reader
+I need to read api accounts.;microsoft.apimanagement/service/apis/read;cognitive services api management reader
+I need to read api accounts.;microsoft.apimanagement/service/apis/read;cognitive services api management reader
+I need to read api accounts.;microsoft.apimanagement/service/apis/read;cognitive services api management reader
+I need to read api accounts.;microsoft.apimanagement/service/apis/read;cognitive services api management reader
+I need to read a resource diagnostic setting.;microsoft.insights/diagnosticsettings/read;azure ai inference deployment operator
+I need to read a resource diagnostic setting.;microsoft.insights/diagnosticsettings/read;azure ai inference deployment operator
+I need to read a resource diagnostic setting.;microsoft.insights/diagnosticsettings/read;azure ai inference deployment operator
+I need to read a resource diagnostic setting.;microsoft.insights/diagnosticsettings/read;azure ai inference deployment operator
+I need to read a resource diagnostic setting.;microsoft.insights/diagnosticsettings/read;azure ai inference deployment operator
+I need to get the list of subscriptions.;microsoft.authorization/subscriptions/read;owner
+I need to get the list of subscriptions.;microsoft.authorization/subscriptions/read;owner
+I need to get the list of subscriptions.;microsoft.authorization/subscriptions/read;owner
+I need to get the list of subscriptions.;microsoft.authorization/subscriptions/read;owner
+I need to get the list of subscriptions.;microsoft.authorization/subscriptions/read;owner
+I need to get the private link resources for the corresponding mysql server.;microsoft.dbformysql/servers/privatelinkresources/read;none
+I need to get the private link resources for the corresponding mysql server.;microsoft.dbformysql/servers/privatelinkresources/read;none
+I need to get the private link resources for the corresponding mysql server.;microsoft.dbformysql/servers/privatelinkresources/read;none
+I need to get the private link resources for the corresponding mysql server.;microsoft.dbformysql/servers/privatelinkresources/read;none
+I need to get the private link resources for the corresponding mysql server.;microsoft.dbformysql/servers/privatelinkresources/read;none
+I need to approve or reject private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to approve or reject private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to approve or reject private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to approve or reject private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to approve or reject private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to read all usages data.;microsoft.insights/usagedata/read;cognitive services metrics advisor reader
+I need to read all usages data.;microsoft.insights/usagedata/read;cognitive services metrics advisor reader
+I need to read all usages data.;microsoft.insights/usagedata/read;cognitive services metrics advisor reader
+I need to read all usages data.;microsoft.insights/usagedata/read;cognitive services metrics advisor reader
+I need to read all usages data.;microsoft.insights/usagedata/read;cognitive services metrics advisor reader
+I need to get an application gateway.;microsoft.network/applicationgateways/read;none
+I need to get an application gateway.;microsoft.network/applicationgateways/read;none
+I need to get an application gateway.;microsoft.network/applicationgateways/read;none
+I need to get an application gateway.;microsoft.network/applicationgateways/read;none
+I need to get an application gateway.;microsoft.network/applicationgateways/read;none
+I need to register the feature for a subscription in a given resource provider.;microsoft.features/registrations/write;azure ai inference deployment operator
+I need to register the feature for a subscription in a given resource provider.;microsoft.features/registrations/write;azure ai inference deployment operator
+I need to register the feature for a subscription in a given resource provider.;microsoft.features/registrations/write;azure ai inference deployment operator
+I need to register the feature for a subscription in a given resource provider.;microsoft.features/registrations/write;azure ai inference deployment operator
+I need to register the feature for a subscription in a given resource provider.;microsoft.features/registrations/write;azure ai inference deployment operator
+I need to delete deployments.;microsoft.machinelearning/workspaces/deployments/delete;azure ai inference deployment operator
+I need to delete deployments.;microsoft.machinelearning/workspaces/deployments/delete;azure ai inference deployment operator
+I need to delete deployments.;microsoft.machinelearning/workspaces/deployments/delete;azure ai inference deployment operator
+I need to delete deployments.;microsoft.machinelearning/workspaces/deployments/delete;azure ai inference deployment operator
+I need to delete deployments.;microsoft.machinelearning/workspaces/deployments/delete;azure ai inference deployment operator
+I need to get an private link service resource.;microsoft.network/privatelinkservices/read;none
+I need to get an private link service resource.;microsoft.network/privatelinkservices/read;none
+I need to get an private link service resource.;microsoft.network/privatelinkservices/read;none
+I need to get an private link service resource.;microsoft.network/privatelinkservices/read;none
+I need to get an private link service resource.;microsoft.network/privatelinkservices/read;none
+I need to create and manage insights web tests.;microsoft.insights/webtests/*;none
+I need to create and manage insights web tests.;microsoft.insights/webtests/*;none
+I need to create and manage insights web tests.;microsoft.insights/webtests/*;none
+I need to create and manage insights web tests.;microsoft.insights/webtests/*;none
+I need to create and manage insights web tests.;microsoft.insights/webtests/*;none
+I need to view the properties of a key vault.;microsoft.keyvault/vaults/read;cognitive services key vault reader
+I need to view the properties of a key vault.;microsoft.keyvault/vaults/read;cognitive services key vault reader
+I need to view the properties of a key vault.;microsoft.keyvault/vaults/read;cognitive services key vault reader
+I need to view the properties of a key vault.;microsoft.keyvault/vaults/read;cognitive services key vault reader
+I need to view the properties of a key vault.;microsoft.keyvault/vaults/read;cognitive services key vault reader
+I need to read private link resources for an account.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to read private link resources for an account.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to read private link resources for an account.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to read private link resources for an account.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to read private link resources for an account.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to get storageaccount groupids.;microsoft.storage/storageaccounts/read;storage account reader
+I need to get storageaccount groupids.;microsoft.storage/storageaccounts/read;storage account reader
+I need to get storageaccount groupids.;microsoft.storage/storageaccounts/read;storage account reader
+I need to get storageaccount groupids.;microsoft.storage/storageaccounts/read;storage account reader
+I need to get storageaccount groupids.;microsoft.storage/storageaccounts/read;storage account reader
+I need to read metrics.;microsoft.insights/metrics/read;cognitive services metrics advisor user
+I need to read metrics.;microsoft.insights/metrics/read;cognitive services metrics advisor user
+I need to read metrics.;microsoft.insights/metrics/read;cognitive services metrics advisor user
+I need to read metrics.;microsoft.insights/metrics/read;cognitive services metrics advisor user
+I need to read metrics.;microsoft.insights/metrics/read;cognitive services metrics advisor user
+I need to list registered skills and view manifest urls and details.;microsoft.cognitiveservices/accounts/skills/read;cognitive services speech contributor
+I need to list registered skills and view manifest urls and details.;microsoft.cognitiveservices/accounts/skills/read;cognitive services speech contributor
+I need to list registered skills and view manifest urls and details.;microsoft.cognitiveservices/accounts/skills/read;cognitive services speech contributor
+I need to list registered skills and view manifest urls and details.;microsoft.cognitiveservices/accounts/skills/read;cognitive services speech contributor
+I need to list registered skills and view manifest urls and details.;microsoft.cognitiveservices/accounts/skills/read;cognitive services speech contributor
+I need to get the available private link resources for the specified instance of key vault.;microsoft.keyvault/vaults/privatelinkresources/read;key vault contributor
+I need to get the available private link resources for the specified instance of key vault.;microsoft.keyvault/vaults/privatelinkresources/read;key vault contributor
+I need to get the available private link resources for the specified instance of key vault.;microsoft.keyvault/vaults/privatelinkresources/read;key vault contributor
+I need to get the available private link resources for the specified instance of key vault.;microsoft.keyvault/vaults/privatelinkresources/read;key vault contributor
+I need to get the available private link resources for the specified instance of key vault.;microsoft.keyvault/vaults/privatelinkresources/read;key vault contributor
+I need to get the availability statuses for all resources in the specified scope.;microsoft.insights/availabilitystatuses/read;monitoring reader
+I need to get the availability statuses for all resources in the specified scope.;microsoft.insights/availabilitystatuses/read;monitoring reader
+I need to get the availability statuses for all resources in the specified scope.;microsoft.insights/availabilitystatuses/read;monitoring reader
+I need to get the availability statuses for all resources in the specified scope.;microsoft.insights/availabilitystatuses/read;monitoring reader
+I need to get the availability statuses for all resources in the specified scope.;microsoft.insights/availabilitystatuses/read;monitoring reader
+I need to create and manage a deployment.;microsoft.machinelearning/workspaces/deployments/*;azure ai inference deployment operator
+I need to create and manage a deployment.;microsoft.machinelearning/workspaces/deployments/*;azure ai inference deployment operator
+I need to create and manage a deployment.;microsoft.machinelearning/workspaces/deployments/*;azure ai inference deployment operator
+I need to create and manage a deployment.;microsoft.machinelearning/workspaces/deployments/*;azure ai inference deployment operator
+I need to create and manage a deployment.;microsoft.machinelearning/workspaces/deployments/*;azure ai inference deployment operator
+I need to get metadata and configurations related to the bot.;microsoft.healthbot/healthbots/read;none
+I need to get metadata and configurations related to the bot.;microsoft.healthbot/healthbots/read;none
+I need to get metadata and configurations related to the bot.;microsoft.healthbot/healthbots/read;none
+I need to get metadata and configurations related to the bot.;microsoft.healthbot/healthbots/read;none
+I need to get metadata and configurations related to the bot.;microsoft.healthbot/healthbots/read;none
+I need to determine if user is allowed to approve a private endpoint connection for postgresql sgv2.;microsoft.dbforpostgresql/servers/virtualnetworkrules/read;none
+I need to determine if user is allowed to approve a private endpoint connection for postgresql sgv2.;microsoft.dbforpostgresql/servers/virtualnetworkrules/read;none
+I need to determine if user is allowed to approve a private endpoint connection for postgresql sgv2.;microsoft.dbforpostgresql/servers/virtualnetworkrules/read;none
+I need to determine if user is allowed to approve a private endpoint connection for postgresql sgv2.;microsoft.dbforpostgresql/servers/virtualnetworkrules/read;none
+I need to determine if user is allowed to approve a private endpoint connection for postgresql sgv2.;microsoft.dbforpostgresql/servers/virtualnetworkrules/read;none
+I need to get information about a role assignment.;microsoft.authorization/roleassignments/read;reader
+I need to get information about a role assignment.;microsoft.authorization/roleassignments/read;reader
+I need to get information about a role assignment.;microsoft.authorization/roleassignments/read;reader
+I need to get information about a role assignment.;microsoft.authorization/roleassignments/read;reader
+I need to get information about a role assignment.;microsoft.authorization/roleassignments/read;reader
+I need to get the private link resources for the corresponding postgresql sgv2.;microsoft.dbforpostgresql/servers/virtualnetworkrules/read;none
+I need to get the private link resources for the corresponding postgresql sgv2.;microsoft.dbforpostgresql/servers/virtualnetworkrules/read;none
+I need to get the private link resources for the corresponding postgresql sgv2.;microsoft.dbforpostgresql/servers/virtualnetworkrules/read;none
+I need to get the private link resources for the corresponding postgresql sgv2.;microsoft.dbforpostgresql/servers/virtualnetworkrules/read;none
+I need to get the private link resources for the corresponding postgresql sgv2.;microsoft.dbforpostgresql/servers/virtualnetworkrules/read;none
+I need to return the list of private endpoint connections or get the properties for the specified private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to return the list of private endpoint connections or get the properties for the specified private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to return the list of private endpoint connections or get the properties for the specified private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to return the list of private endpoint connections or get the properties for the specified private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to return the list of private endpoint connections or get the properties for the specified private endpoint connections.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to create or update a private endpoint connection of a database account.;microsoft.sql/servers/databases/privateendpointconnections/write;none
+I need to create or update a private endpoint connection of a database account.;microsoft.sql/servers/databases/privateendpointconnections/write;none
+I need to create or update a private endpoint connection of a database account.;microsoft.sql/servers/databases/privateendpointconnections/write;none
+I need to create or update a private endpoint connection of a database account.;microsoft.sql/servers/databases/privateendpointconnections/write;none
+I need to create or update a private endpoint connection of a database account.;microsoft.sql/servers/databases/privateendpointconnections/write;none
+I need to update last test results of an existing batch test data set for a given application.;microsoft.machinelearningservices/workspaces/batchinferencejobs/write;azure ml batch inference operator
+I need to update last test results of an existing batch test data set for a given application.;microsoft.machinelearningservices/workspaces/batchinferencejobs/write;azure ml batch inference operator
+I need to update last test results of an existing batch test data set for a given application.;microsoft.machinelearningservices/workspaces/batchinferencejobs/write;azure ml batch inference operator
+I need to update last test results of an existing batch test data set for a given application.;microsoft.machinelearningservices/workspaces/batchinferencejobs/write;azure ml batch inference operator
+I need to update last test results of an existing batch test data set for a given application.;microsoft.machinelearningservices/workspaces/batchinferencejobs/write;azure ml batch inference operator
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;contributor
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;contributor
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;contributor
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;contributor
+I need to get or list resource groups.;microsoft.resources/subscriptions/resourcegroups/read;contributor
+I need to create or update the search service.;microsoft.search/searchservices/*;cognitive services search service contributor
+I need to create or update the search service.;microsoft.search/searchservices/*;cognitive services search service contributor
+I need to create or update the search service.;microsoft.search/searchservices/*;cognitive services search service contributor
+I need to create or update the search service.;microsoft.search/searchservices/*;cognitive services search service contributor
+I need to create or update the search service.;microsoft.search/searchservices/*;cognitive services search service contributor
+I need to get application gateway privateendpoint connections.;microsoft.network/applicationgateways/privateendpointconnections/read;none
+I need to get application gateway privateendpoint connections.;microsoft.network/applicationgateways/privateendpointconnections/read;none
+I need to get application gateway privateendpoint connections.;microsoft.network/applicationgateways/privateendpointconnections/read;none
+I need to get application gateway privateendpoint connections.;microsoft.network/applicationgateways/privateendpointconnections/read;none
+I need to get application gateway privateendpoint connections.;microsoft.network/applicationgateways/privateendpointconnections/read;none
+I need to get the subscription operation results.;microsoft.insights/operations/read;monitoring reader
+I need to get the subscription operation results.;microsoft.insights/operations/read;monitoring reader
+I need to get the subscription operation results.;microsoft.insights/operations/read;monitoring reader
+I need to get the subscription operation results.;microsoft.insights/operations/read;monitoring reader
+I need to get the subscription operation results.;microsoft.insights/operations/read;monitoring reader
+I need to get private link group resources.;microsoft.insights/privatelinkscopes/read;none
+I need to get private link group resources.;microsoft.insights/privatelinkscopes/read;none
+I need to get private link group resources.;microsoft.insights/privatelinkscopes/read;none
+I need to get private link group resources.;microsoft.insights/privatelinkscopes/read;none
+I need to get private link group resources.;microsoft.insights/privatelinkscopes/read;none
+I need to create and manage search services.;microsoft.search/searchservices/*;cognitive services search services contributor
+I need to create and manage search services.;microsoft.search/searchservices/*;cognitive services search services contributor
+I need to create and manage search services.;microsoft.search/searchservices/*;cognitive services search services contributor
+I need to create and manage search services.;microsoft.search/searchservices/*;cognitive services search services contributor
+I need to create and manage search services.;microsoft.search/searchservices/*;cognitive services search services contributor
+I need to join resource such as storage account or sql database to a subnet.;microsoft.network/virtualnetworks/join/action;network contributor
+I need to join resource such as storage account or sql database to a subnet.;microsoft.network/virtualnetworks/join/action;network contributor
+I need to join resource such as storage account or sql database to a subnet.;microsoft.network/virtualnetworks/join/action;network contributor
+I need to join resource such as storage account or sql database to a subnet.;microsoft.network/virtualnetworks/join/action;network contributor
+I need to join resource such as storage account or sql database to a subnet.;microsoft.network/virtualnetworks/join/action;network contributor
+I need to view the agent's exposed skill enablement status and details.;microsoft.healthbot/healthbots/skills/read;none
+I need to view the agent's exposed skill enablement status and details.;microsoft.healthbot/healthbots/skills/read;none
+I need to view the agent's exposed skill enablement status and details.;microsoft.healthbot/healthbots/skills/read;none
+I need to view the agent's exposed skill enablement status and details.;microsoft.healthbot/healthbots/skills/read;none
+I need to view the agent's exposed skill enablement status and details.;microsoft.healthbot/healthbots/skills/read;none
+I need to delete the search service.;microsoft.search/searchservices/delete;cognitive services search service contributor
+I need to delete the search service.;microsoft.search/searchservices/delete;cognitive services search service contributor
+I need to delete the search service.;microsoft.search/searchservices/delete;cognitive services search service contributor
+I need to delete the search service.;microsoft.search/searchservices/delete;cognitive services search service contributor
+I need to delete the search service.;microsoft.search/searchservices/delete;cognitive services search service contributor
+I need to create and update a support ticket.;microsoft.support/tickets/*;none
+I need to create and update a support ticket.;microsoft.support/tickets/*;none
+I need to create and update a support ticket.;microsoft.support/tickets/*;none
+I need to create and update a support ticket.;microsoft.support/tickets/*;none
+I need to create and update a support ticket.;microsoft.support/tickets/*;none
+I need to return the list of servers or get the properties for the specified server.;microsoft.machinelearningservices/workspaces/computes/read;azure ml compute contributor
+I need to return the list of servers or get the properties for the specified server.;microsoft.machinelearningservices/workspaces/computes/read;azure ml compute contributor
+I need to return the list of servers or get the properties for the specified server.;microsoft.machinelearningservices/workspaces/computes/read;azure ml compute contributor
+I need to return the list of servers or get the properties for the specified server.;microsoft.machinelearningservices/workspaces/computes/read;azure ml compute contributor
+I need to return the list of servers or get the properties for the specified server.;microsoft.machinelearningservices/workspaces/computes/read;azure ml compute contributor
+I need to approve/reject the private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to approve/reject the private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to approve/reject the private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to approve/reject the private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to approve/reject the private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to create or update a custom responsible ai policy.;microsoft.machinelearningservices/workspaces/customresponsibleaipolicies/*;azure ai responsible ai policy contributor
+I need to create or update a custom responsible ai policy.;microsoft.machinelearningservices/workspaces/customresponsibleaipolicies/*;azure ai responsible ai policy contributor
+I need to create or update a custom responsible ai policy.;microsoft.machinelearningservices/workspaces/customresponsibleaipolicies/*;azure ai responsible ai policy contributor
+I need to create or update a custom responsible ai policy.;microsoft.machinelearningservices/workspaces/customresponsibleaipolicies/*;azure ai responsible ai policy contributor
+I need to create or update a custom responsible ai policy.;microsoft.machinelearningservices/workspaces/customresponsibleaipolicies/*;azure ai responsible ai policy contributor
+I need to get the machine learning services workspace(s).;microsoft.machinelearningservices/workspaces/read;machine learning workspace contributor
+I need to get the machine learning services workspace(s).;microsoft.machinelearningservices/workspaces/read;machine learning workspace contributor
+I need to get the machine learning services workspace(s).;microsoft.machinelearningservices/workspaces/read;machine learning workspace contributor
+I need to get the machine learning services workspace(s).;microsoft.machinelearningservices/workspaces/read;machine learning workspace contributor
+I need to get the machine learning services workspace(s).;microsoft.machinelearningservices/workspaces/read;machine learning workspace contributor
+I need to audit all activity in your bot.;microsoft.healthbot/healthbots/auditlogs/read;none
+I need to audit all activity in your bot.;microsoft.healthbot/healthbots/auditlogs/read;none
+I need to audit all activity in your bot.;microsoft.healthbot/healthbots/auditlogs/read;none
+I need to audit all activity in your bot.;microsoft.healthbot/healthbots/auditlogs/read;none
+I need to audit all activity in your bot.;microsoft.healthbot/healthbots/auditlogs/read;none
+I need to list and view openapi plugins' details.;microsoft.machinelearningservices/workspaces/openapiplugins/read;azure ai inference deployment operator
+I need to list and view openapi plugins' details.;microsoft.machinelearningservices/workspaces/openapiplugins/read;azure ai inference deployment operator
+I need to list and view openapi plugins' details.;microsoft.machinelearningservices/workspaces/openapiplugins/read;azure ai inference deployment operator
+I need to list and view openapi plugins' details.;microsoft.machinelearningservices/workspaces/openapiplugins/read;azure ai inference deployment operator
+I need to list and view openapi plugins' details.;microsoft.machinelearningservices/workspaces/openapiplugins/read;azure ai inference deployment operator
+I need to list and view details of agent's authentication providers.;microsoft.machinelearning/workspaces/agents/authenticationproviders/read;azure ai inference deployment operator
+I need to list and view details of agent's authentication providers.;microsoft.machinelearning/workspaces/agents/authenticationproviders/read;azure ai inference deployment operator
+I need to list and view details of agent's authentication providers.;microsoft.machinelearning/workspaces/agents/authenticationproviders/read;azure ai inference deployment operator
+I need to list and view details of agent's authentication providers.;microsoft.machinelearning/workspaces/agents/authenticationproviders/read;azure ai inference deployment operator
+I need to list and view details of agent's authentication providers.;microsoft.machinelearning/workspaces/agents/authenticationproviders/read;azure ai inference deployment operator
+I need to get the private link resources for the corresponding sql server.;microsoft.sql/servers/privateendpointconnections/read;sql server contributor
+I need to get the private link resources for the corresponding sql server.;microsoft.sql/servers/privateendpointconnections/read;sql server contributor
+I need to get the private link resources for the corresponding sql server.;microsoft.sql/servers/privateendpointconnections/read;sql server contributor
+I need to get the private link resources for the corresponding sql server.;microsoft.sql/servers/privateendpointconnections/read;sql server contributor
+I need to get the private link resources for the corresponding sql server.;microsoft.sql/servers/privateendpointconnections/read;sql server contributor
+I need to detect human faces in an image, return face rectangles, and optionally with faceids, landmarks, and attributes.;microsoft.cognitiveservices/accounts/operations/read;cognitive services face contributor
+I need to detect human faces in an image, return face rectangles, and optionally with faceids, landmarks, and attributes.;microsoft.cognitiveservices/accounts/operations/read;cognitive services face contributor
+I need to detect human faces in an image, return face rectangles, and optionally with faceids, landmarks, and attributes.;microsoft.cognitiveservices/accounts/operations/read;cognitive services face contributor
+I need to detect human faces in an image, return face rectangles, and optionally with faceids, landmarks, and attributes.;microsoft.cognitiveservices/accounts/operations/read;cognitive services face contributor
+I need to detect human faces in an image, return face rectangles, and optionally with faceids, landmarks, and attributes.;microsoft.cognitiveservices/accounts/operations/read;cognitive services face contributor
+I need to read commitment plans.;microsoft.machinelearning/workspaces/commitmentplans/read;azure ai commitment plan reader
+I need to read commitment plans.;microsoft.machinelearning/workspaces/commitmentplans/read;azure ai commitment plan reader
+I need to read commitment plans.;microsoft.machinelearning/workspaces/commitmentplans/read;azure ai commitment plan reader
+I need to read commitment plans.;microsoft.machinelearning/workspaces/commitmentplans/read;azure ai commitment plan reader
+I need to read commitment plans.;microsoft.machinelearning/workspaces/commitmentplans/read;azure ai commitment plan reader
+I need to read a private link resource.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to read a private link resource.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to read a private link resource.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to read a private link resource.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to read a private link resource.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to read the search service.;microsoft.search/searchservices/read;cognitive services search service contributor
+I need to read the search service.;microsoft.search/searchservices/read;cognitive services search service contributor
+I need to read the search service.;microsoft.search/searchservices/read;cognitive services search service contributor
+I need to read the search service.;microsoft.search/searchservices/read;cognitive services search service contributor
+I need to read the search service.;microsoft.search/searchservices/read;cognitive services search service contributor
+I need to create and manage insights components.;microsoft.insights/components/*;azure ai insights contributor
+I need to create and manage insights components.;microsoft.insights/components/*;azure ai insights contributor
+I need to create and manage insights components.;microsoft.insights/components/*;azure ai insights contributor
+I need to create and manage insights components.;microsoft.insights/components/*;azure ai insights contributor
+I need to create and manage insights components.;microsoft.insights/components/*;azure ai insights contributor
+I need to read metric definitions.;microsoft.insights/metricdefinitions/read;cognitive services metrics advisor reader
+I need to read metric definitions.;microsoft.insights/metricdefinitions/read;cognitive services metrics advisor reader
+I need to read metric definitions.;microsoft.insights/metricdefinitions/read;cognitive services metrics advisor reader
+I need to read metric definitions.;microsoft.insights/metricdefinitions/read;cognitive services metrics advisor reader
+I need to read metric definitions.;microsoft.insights/metricdefinitions/read;cognitive services metrics advisor reader
+I need to allow reading and listing of resource files in the health bot.;microsoft.healthbot/healthbots/resourcefiles/read;cognitive services health bot reader
+I need to allow reading and listing of resource files in the health bot.;microsoft.healthbot/healthbots/resourcefiles/read;cognitive services health bot reader
+I need to allow reading and listing of resource files in the health bot.;microsoft.healthbot/healthbots/resourcefiles/read;cognitive services health bot reader
+I need to allow reading and listing of resource files in the health bot.;microsoft.healthbot/healthbots/resourcefiles/read;cognitive services health bot reader
+I need to allow reading and listing of resource files in the health bot.;microsoft.healthbot/healthbots/resourcefiles/read;cognitive services health bot reader
+I need to return the list of shared private link resources or get the properties for the specified shared private link resource.;microsoft.insights/privatelinkscopes/sharedprivatelinkresources/read;none
+I need to return the list of shared private link resources or get the properties for the specified shared private link resource.;microsoft.insights/privatelinkscopes/sharedprivatelinkresources/read;none
+I need to return the list of shared private link resources or get the properties for the specified shared private link resource.;microsoft.insights/privatelinkscopes/sharedprivatelinkresources/read;none
+I need to return the list of shared private link resources or get the properties for the specified shared private link resource.;microsoft.insights/privatelinkscopes/sharedprivatelinkresources/read;none
+I need to return the list of shared private link resources or get the properties for the specified shared private link resource.;microsoft.insights/privatelinkscopes/sharedprivatelinkresources/read;none
+I need to read metadata for an api management service instance.;microsoft.apimanagement/service/read;api management service reader role
+I need to read metadata for an api management service instance.;microsoft.apimanagement/service/read;api management service reader role
+I need to read metadata for an api management service instance.;microsoft.apimanagement/service/read;api management service reader role
+I need to read metadata for an api management service instance.;microsoft.apimanagement/service/read;api management service reader role
+I need to read metadata for an api management service instance.;microsoft.apimanagement/service/read;api management service reader role
+I need to apply copilot features when opening the management portal.;microsoft.copilot/accounts/read;none
+I need to apply copilot features when opening the management portal.;microsoft.copilot/accounts/read;none
+I need to apply copilot features when opening the management portal.;microsoft.copilot/accounts/read;none
+I need to apply copilot features when opening the management portal.;microsoft.copilot/accounts/read;none
+I need to apply copilot features when opening the management portal.;microsoft.copilot/accounts/read;none
+I need to write commitment plans.;microsoft.machinelearning/workspaces/commitmentplans/write;azure ml commitment plan contributor
+I need to write commitment plans.;microsoft.machinelearning/workspaces/commitmentplans/write;azure ml commitment plan contributor
+I need to write commitment plans.;microsoft.machinelearning/workspaces/commitmentplans/write;azure ml commitment plan contributor
+I need to write commitment plans.;microsoft.machinelearning/workspaces/commitmentplans/write;azure ml commitment plan contributor
+I need to write commitment plans.;microsoft.machinelearning/workspaces/commitmentplans/write;azure ml commitment plan contributor
+I need to create an immersive reader session.;microsoft.cognitiveservices/accounts/immersivereadersessions/create;cognitive services immersive reader contributor
+I need to create an immersive reader session.;microsoft.cognitiveservices/accounts/immersivereadersessions/create;cognitive services immersive reader contributor
+I need to create an immersive reader session.;microsoft.cognitiveservices/accounts/immersivereadersessions/create;cognitive services immersive reader contributor
+I need to create an immersive reader session.;microsoft.cognitiveservices/accounts/immersivereadersessions/create;cognitive services immersive reader contributor
+I need to create an immersive reader session.;microsoft.cognitiveservices/accounts/immersivereadersessions/create;cognitive services immersive reader contributor
+I need to delete a role assignment at the specified scope.;microsoft.authorization/roleassignments/delete;user access administrator
+I need to delete a role assignment at the specified scope.;microsoft.authorization/roleassignments/delete;user access administrator
+I need to delete a role assignment at the specified scope.;microsoft.authorization/roleassignments/delete;user access administrator
+I need to delete a role assignment at the specified scope.;microsoft.authorization/roleassignments/delete;user access administrator
+I need to delete a role assignment at the specified scope.;microsoft.authorization/roleassignments/delete;user access administrator
+I need to list keys.;microsoft.machinelearning/workspaces/keys/read;azure ml workspace contributor
+I need to list keys.;microsoft.machinelearning/workspaces/keys/read;azure ml workspace contributor
+I need to list keys.;microsoft.machinelearning/workspaces/keys/read;azure ml workspace contributor
+I need to list keys.;microsoft.machinelearning/workspaces/keys/read;azure ml workspace contributor
+I need to list keys.;microsoft.machinelearning/workspaces/keys/read;azure ml workspace contributor
+I need to read topology.;microsoft.machinelearning/workspaces/topologies/read;azure ai inference deployment operator
+I need to read topology.;microsoft.machinelearning/workspaces/topologies/read;azure ai inference deployment operator
+I need to read topology.;microsoft.machinelearning/workspaces/topologies/read;azure ai inference deployment operator
+I need to read topology.;microsoft.machinelearning/workspaces/topologies/read;azure ai inference deployment operator
+I need to read topology.;microsoft.machinelearning/workspaces/topologies/read;azure ai inference deployment operator
+I need to get an private endpoint connection definition.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to get an private endpoint connection definition.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to get an private endpoint connection definition.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to get an private endpoint connection definition.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to get an private endpoint connection definition.;microsoft.insights/privatelinkscopes/privateendpointconnections/read;azure ai inference deployment operator
+I need to delete a custom responsible ai policy that's not referenced by an existing deployment.;microsoft.responsibleaipolicies/policies/delete;azure ai responsible ai policy contributor
+I need to delete a custom responsible ai policy that's not referenced by an existing deployment.;microsoft.responsibleaipolicies/policies/delete;azure ai responsible ai policy contributor
+I need to delete a custom responsible ai policy that's not referenced by an existing deployment.;microsoft.responsibleaipolicies/policies/delete;azure ai responsible ai policy contributor
+I need to delete a custom responsible ai policy that's not referenced by an existing deployment.;microsoft.responsibleaipolicies/policies/delete;azure ai responsible ai policy contributor
+I need to delete a custom responsible ai policy that's not referenced by an existing deployment.;microsoft.responsibleaipolicies/policies/delete;azure ai responsible ai policy contributor
+I need to get the available private link resources for the specified instance of the machine learning services registry(ies).;microsoft.machinelearningservices/registries/privatelinkresources/read;azure ai registry reader
+I need to get the available private link resources for the specified instance of the machine learning services registry(ies).;microsoft.machinelearningservices/registries/privatelinkresources/read;azure ai registry reader
+I need to get the available private link resources for the specified instance of the machine learning services registry(ies).;microsoft.machinelearningservices/registries/privatelinkresources/read;azure ai registry reader
+I need to get the available private link resources for the specified instance of the machine learning services registry(ies).;microsoft.machinelearningservices/registries/privatelinkresources/read;azure ai registry reader
+I need to get the available private link resources for the specified instance of the machine learning services registry(ies).;microsoft.machinelearningservices/registries/privatelinkresources/read;azure ai registry reader
+I need to delete commitment plans.;microsoft.machinelearning/workspaces/commitmentplans/delete;azure ai commitment plan operator
+I need to delete commitment plans.;microsoft.machinelearning/workspaces/commitmentplans/delete;azure ai commitment plan operator
+I need to delete commitment plans.;microsoft.machinelearning/workspaces/commitmentplans/delete;azure ai commitment plan operator
+I need to delete commitment plans.;microsoft.machinelearning/workspaces/commitmentplans/delete;azure ai commitment plan operator
+I need to delete commitment plans.;microsoft.machinelearning/workspaces/commitmentplans/delete;azure ai commitment plan operator
+I need to create and manage a classic metric alert.;microsoft.insights/metricalerts/write;monitoring contributor
+I need to create and manage a classic metric alert.;microsoft.insights/metricalerts/write;monitoring contributor
+I need to create and manage a classic metric alert.;microsoft.insights/metricalerts/write;monitoring contributor
+I need to create and manage a classic metric alert.;microsoft.insights/metricalerts/write;monitoring contributor
+I need to create and manage a classic metric alert.;microsoft.insights/metricalerts/write;monitoring contributor
+I need to create or update a resource group.;microsoft.resources/subscriptions/resourcegroups/write;owner
+I need to create or update a resource group.;microsoft.resources/subscriptions/resourcegroups/write;owner
+I need to create or update a resource group.;microsoft.resources/subscriptions/resourcegroups/write;owner
+I need to create or update a resource group.;microsoft.resources/subscriptions/resourcegroups/write;owner
+I need to create or update a resource group.;microsoft.resources/subscriptions/resourcegroups/write;owner
+I need to create or update a private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to create or update a private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to create or update a private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to create or update a private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to create or update a private endpoint connection.;microsoft.insights/privatelinkscopes/privateendpointconnections/write;azure ai inference deployment operator
+I need to read log definitions.;microsoft.insights/components/logdefinitions/read;azure ai inference deployment operator
+I need to read log definitions.;microsoft.insights/components/logdefinitions/read;azure ai inference deployment operator
+I need to read log definitions.;microsoft.insights/components/logdefinitions/read;azure ai inference deployment operator
+I need to read log definitions.;microsoft.insights/components/logdefinitions/read;azure ai inference deployment operator
+I need to read log definitions.;microsoft.insights/components/logdefinitions/read;azure ai inference deployment operator
+I need to write deployments.;microsoft.machinelearning/workspaces/deployments/write;azure ai inference deployment operator
+I need to write deployments.;microsoft.machinelearning/workspaces/deployments/write;azure ai inference deployment operator
+I need to write deployments.;microsoft.machinelearning/workspaces/deployments/write;azure ai inference deployment operator
+I need to write deployments.;microsoft.machinelearning/workspaces/deployments/write;azure ai inference deployment operator
+I need to write deployments.;microsoft.machinelearning/workspaces/deployments/write;azure ai inference deployment operator
+I need to create a role assignment at the specified scope.;microsoft.authorization/roleassignments/write;owner
+I need to create a role assignment at the specified scope.;microsoft.authorization/roleassignments/write;owner
+I need to create a role assignment at the specified scope.;microsoft.authorization/roleassignments/write;owner
+I need to create a role assignment at the specified scope.;microsoft.authorization/roleassignments/write;owner
+I need to create a role assignment at the specified scope.;microsoft.authorization/roleassignments/write;owner
+I need to return the list of storage accounts or get the properties for the specified storage account.;microsoft.storage/storageaccounts/read;azure ai inference deployment operator
+I need to return the list of storage accounts or get the properties for the specified storage account.;microsoft.storage/storageaccounts/read;azure ai inference deployment operator
+I need to return the list of storage accounts or get the properties for the specified storage account.;microsoft.storage/storageaccounts/read;azure ai inference deployment operator
+I need to return the list of storage accounts or get the properties for the specified storage account.;microsoft.storage/storageaccounts/read;azure ai inference deployment operator
+I need to return the list of storage accounts or get the properties for the specified storage account.;microsoft.storage/storageaccounts/read;azure ai inference deployment operator
+I need to create and manage storage accounts.;microsoft.storage/storageaccounts/*;azure ai inference deployment operator
+I need to create and manage storage accounts.;microsoft.storage/storageaccounts/*;azure ai inference deployment operator
+I need to create and manage storage accounts.;microsoft.storage/storageaccounts/*;azure ai inference deployment operator
+I need to create and manage storage accounts.;microsoft.storage/storageaccounts/*;azure ai inference deployment operator
+I need to create and manage storage accounts.;microsoft.storage/storageaccounts/*;azure ai inference deployment operator

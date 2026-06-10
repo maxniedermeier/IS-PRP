@@ -1,0 +1,191 @@
+role_name,permission_name
+application insights component contributor,microsoft.authorization/*/read
+application insights component contributor,microsoft.insights/alertrules/*
+application insights component contributor,microsoft.insights/components/*
+application insights component contributor,microsoft.insights/generatelivetoken/read
+application insights component contributor,microsoft.insights/metricalerts/*
+application insights component contributor,microsoft.insights/scheduledqueryrules/*
+application insights component contributor,microsoft.insights/topology/read
+application insights component contributor,microsoft.insights/transactions/read
+application insights component contributor,microsoft.insights/webtests/*
+application insights component contributor,microsoft.resourcehealth/availabilitystatuses/read
+application insights component contributor,microsoft.resources/deployments/*
+application insights component contributor,microsoft.resources/subscriptions/resourcegroups/read
+application insights component contributor,microsoft.support/*
+application insights snapshot debugger,microsoft.authorization/*/read
+application insights snapshot debugger,microsoft.insights/alertrules/*
+application insights snapshot debugger,microsoft.insights/components/*/read
+application insights snapshot debugger,microsoft.insights/snapshots/read
+application insights snapshot debugger,microsoft.resources/deployments/*
+application insights snapshot debugger,microsoft.resources/subscriptions/resourcegroups/read
+application insights snapshot debugger,microsoft.support/*
+azure managed grafana workspace contributor,microsoft.authorization/*/read
+azure managed grafana workspace contributor,microsoft.dashboard/grafana/delete
+azure managed grafana workspace contributor,microsoft.dashboard/grafana/grafanadefinitions/delete
+azure managed grafana workspace contributor,microsoft.dashboard/grafana/grafanadefinitions/read
+azure managed grafana workspace contributor,microsoft.dashboard/grafana/grafanadefinitions/write
+azure managed grafana workspace contributor,microsoft.dashboard/grafana/integrationfabrics/delete
+azure managed grafana workspace contributor,microsoft.dashboard/grafana/integrationfabrics/write
+azure managed grafana workspace contributor,microsoft.dashboard/grafana/managedprivateendpoints/action
+azure managed grafana workspace contributor,microsoft.dashboard/grafana/managedprivateendpoints/delete
+azure managed grafana workspace contributor,microsoft.dashboard/grafana/managedprivateendpoints/write
+azure managed grafana workspace contributor,microsoft.dashboard/grafana/privateendpointconnectionproxies/delete
+azure managed grafana workspace contributor,microsoft.dashboard/grafana/privateendpointconnectionproxies/validate/action
+azure managed grafana workspace contributor,microsoft.dashboard/grafana/privateendpointconnectionproxies/write
+azure managed grafana workspace contributor,microsoft.dashboard/grafana/privateendpointconnections/delete
+azure managed grafana workspace contributor,microsoft.dashboard/grafana/privateendpointconnections/write
+azure managed grafana workspace contributor,microsoft.dashboard/grafana/privateendpointconnectionsapproval/action
+azure managed grafana workspace contributor,microsoft.dashboard/grafana/write
+azure managed grafana workspace contributor,microsoft.dashboard/locations/operationstatuses/write
+azure managed grafana workspace contributor,microsoft.insights/alertrules/activated/action
+azure managed grafana workspace contributor,microsoft.insights/alertrules/delete
+azure managed grafana workspace contributor,microsoft.insights/alertrules/incidents/read
+azure managed grafana workspace contributor,microsoft.insights/alertrules/read
+azure managed grafana workspace contributor,microsoft.insights/alertrules/resolved/action
+azure managed grafana workspace contributor,microsoft.insights/alertrules/throttled/action
+azure managed grafana workspace contributor,microsoft.insights/alertrules/write
+azure managed grafana workspace contributor,microsoft.resources/deployments/cancel/action
+azure managed grafana workspace contributor,microsoft.resources/deployments/delete
+azure managed grafana workspace contributor,microsoft.resources/deployments/exporttemplate/action
+azure managed grafana workspace contributor,microsoft.resources/deployments/operations/read
+azure managed grafana workspace contributor,microsoft.resources/deployments/operationstatuses/read
+azure managed grafana workspace contributor,microsoft.resources/deployments/read
+azure managed grafana workspace contributor,microsoft.resources/deployments/validate/action
+azure managed grafana workspace contributor,microsoft.resources/deployments/whatif/action
+azure managed grafana workspace contributor,microsoft.resources/deployments/write
+azure managed grafana workspace contributor,microsoft.resources/subscriptions/resourcegroups/read
+data purger,microsoft.insights/components/*/read
+data purger,microsoft.insights/components/purge/action
+data purger,microsoft.operationalinsights/workspaces/*/read
+data purger,microsoft.operationalinsights/workspaces/purge/action
+grafana admin,microsoft.dashboard/grafana/actasgrafanaadmin/action
+grafana editor,microsoft.dashboard/grafana/actasgrafanaeditor/action
+grafana limited viewer,microsoft.dashboard/grafana/actasgrafanalimitedviewer/action
+grafana viewer,microsoft.dashboard/grafana/actasgrafanaviewer/action
+log analytics contributor,*/read
+log analytics contributor,microsoft.classiccompute/virtualmachines/extensions/*
+log analytics contributor,microsoft.classicstorage/storageaccounts/listkeys/action
+log analytics contributor,microsoft.compute/virtualmachines/extensions/*
+log analytics contributor,microsoft.hybridcompute/machines/extensions/write
+log analytics contributor,microsoft.insights/alertrules/*
+log analytics contributor,microsoft.insights/diagnosticsettings/*
+log analytics contributor,microsoft.operationalinsights/*
+log analytics contributor,microsoft.operationsmanagement/*
+log analytics contributor,microsoft.resources/deployments/*
+log analytics contributor,microsoft.resources/subscriptions/resourcegroups/deployments/*
+log analytics contributor,microsoft.storage/storageaccounts/listkeys/action
+log analytics contributor,microsoft.support/*
+log analytics data reader,microsoft.operationalinsights/workspaces/query/read
+log analytics data reader,microsoft.operationalinsights/workspaces/read
+log analytics data reader,microsoft.operationalinsights/workspaces/tables/data/read
+monitoring contributor,*/read
+monitoring contributor,microsoft.alertsmanagement/actionrules/*
+monitoring contributor,microsoft.alertsmanagement/alerts/*
+monitoring contributor,microsoft.alertsmanagement/alertssummary/*
+monitoring contributor,microsoft.alertsmanagement/investigations/*
+monitoring contributor,microsoft.alertsmanagement/issues/*
+monitoring contributor,microsoft.alertsmanagement/migratefromsmartdetection/*
+monitoring contributor,microsoft.alertsmanagement/prometheusrulegroups/*
+monitoring contributor,microsoft.alertsmanagement/smartdetectoralertrules/*
+monitoring contributor,microsoft.alertsmanagement/smartgroups/*
+monitoring contributor,microsoft.insights/actiongroups/*
+monitoring contributor,microsoft.insights/activitylogalerts/*
+monitoring contributor,microsoft.insights/alertrules/*
+monitoring contributor,microsoft.insights/components/*
+monitoring contributor,microsoft.insights/createnotifications/*
+monitoring contributor,microsoft.insights/datacollectionendpoints/*
+monitoring contributor,microsoft.insights/datacollectionruleassociations/*
+monitoring contributor,microsoft.insights/datacollectionrules/*
+monitoring contributor,microsoft.insights/diagnosticsettings/*
+monitoring contributor,microsoft.insights/eventtypes/*
+monitoring contributor,microsoft.insights/logdefinitions/*
+monitoring contributor,microsoft.insights/metricalerts/*
+monitoring contributor,microsoft.insights/metricdefinitions/*
+monitoring contributor,microsoft.insights/metrics/*
+monitoring contributor,microsoft.insights/notificationstatus/*
+monitoring contributor,microsoft.insights/privatelinkscopeoperationstatuses/*
+monitoring contributor,microsoft.insights/privatelinkscopes/*
+monitoring contributor,microsoft.insights/register/action
+monitoring contributor,microsoft.insights/scheduledqueryrules/*
+monitoring contributor,microsoft.insights/webtests/*
+monitoring contributor,microsoft.insights/workbooks/*
+monitoring contributor,microsoft.insights/workbooktemplates/*
+monitoring contributor,microsoft.monitor/accounts/*
+monitoring contributor,microsoft.monitor/investigations/*
+monitoring contributor,microsoft.monitor/settings/*
+monitoring contributor,microsoft.operationalinsights/locations/workspaces/failover/action
+monitoring contributor,microsoft.operationalinsights/workspaces/failback/action
+monitoring contributor,microsoft.operationalinsights/workspaces/intelligencepacks/*
+monitoring contributor,microsoft.operationalinsights/workspaces/savedsearches/*
+monitoring contributor,microsoft.operationalinsights/workspaces/search/action
+monitoring contributor,microsoft.operationalinsights/workspaces/sharedkeys/action
+monitoring contributor,microsoft.operationalinsights/workspaces/sharedkeys/read
+monitoring contributor,microsoft.operationalinsights/workspaces/storageinsightconfigs/*
+monitoring contributor,microsoft.operationalinsights/workspaces/write
+monitoring contributor,microsoft.resources/deployments/*
+monitoring contributor,microsoft.support/*
+monitoring metrics publisher,microsoft.insights/metrics/write
+monitoring metrics publisher,microsoft.insights/register/action
+monitoring metrics publisher,microsoft.insights/telemetry/write
+monitoring metrics publisher,microsoft.resources/subscriptions/resourcegroups/read
+monitoring metrics publisher,microsoft.support/*
+monitoring policy contributor,*/read
+monitoring policy contributor,microsoft.alertsmanagement/actionrules/*
+monitoring policy contributor,microsoft.alertsmanagement/alerts/*
+monitoring policy contributor,microsoft.alertsmanagement/alertssummary/*
+monitoring policy contributor,microsoft.alertsmanagement/investigations/*
+monitoring policy contributor,microsoft.alertsmanagement/issues/*
+monitoring policy contributor,microsoft.alertsmanagement/migratefromsmartdetection/*
+monitoring policy contributor,microsoft.alertsmanagement/prometheusrulegroups/*
+monitoring policy contributor,microsoft.alertsmanagement/smartdetectoralertrules/*
+monitoring policy contributor,microsoft.alertsmanagement/smartgroups/*
+monitoring policy contributor,microsoft.insights/actiongroups/*
+monitoring policy contributor,microsoft.insights/activitylogalerts/*
+monitoring policy contributor,microsoft.insights/alertrules/*
+monitoring policy contributor,microsoft.insights/components/*
+monitoring policy contributor,microsoft.insights/createnotifications/*
+monitoring policy contributor,microsoft.insights/datacollectionendpoints/*
+monitoring policy contributor,microsoft.insights/datacollectionruleassociations/*
+monitoring policy contributor,microsoft.insights/datacollectionrules/*
+monitoring policy contributor,microsoft.insights/diagnosticsettings/*
+monitoring policy contributor,microsoft.insights/eventtypes/*
+monitoring policy contributor,microsoft.insights/logdefinitions/*
+monitoring policy contributor,microsoft.insights/metricalerts/*
+monitoring policy contributor,microsoft.insights/metricdefinitions/*
+monitoring policy contributor,microsoft.insights/metrics/*
+monitoring policy contributor,microsoft.insights/notificationstatus/*
+monitoring policy contributor,microsoft.insights/privatelinkscopeoperationstatuses/*
+monitoring policy contributor,microsoft.insights/privatelinkscopes/*
+monitoring policy contributor,microsoft.insights/register/action
+monitoring policy contributor,microsoft.insights/scheduledqueryrules/*
+monitoring policy contributor,microsoft.insights/webtests/*
+monitoring policy contributor,microsoft.insights/workbooks/*
+monitoring policy contributor,microsoft.insights/workbooktemplates/*
+monitoring policy contributor,microsoft.monitor/accounts/*
+monitoring policy contributor,microsoft.monitor/investigations/*
+monitoring policy contributor,microsoft.operationalinsights/locations/workspaces/failover/action
+monitoring policy contributor,microsoft.operationalinsights/workspaces/failback/action
+monitoring policy contributor,microsoft.operationalinsights/workspaces/intelligencepacks/*
+monitoring policy contributor,microsoft.operationalinsights/workspaces/savedsearches/*
+monitoring policy contributor,microsoft.operationalinsights/workspaces/search/action
+monitoring policy contributor,microsoft.operationalinsights/workspaces/sharedkeys/action
+monitoring policy contributor,microsoft.operationalinsights/workspaces/sharedkeys/read
+monitoring policy contributor,microsoft.operationalinsights/workspaces/storageinsightconfigs/*
+monitoring policy contributor,microsoft.operationalinsights/workspaces/write
+monitoring policy contributor,microsoft.policyinsights/remediations/*
+monitoring policy contributor,microsoft.resources/deployments/*
+monitoring policy contributor,microsoft.resources/subscriptions/resourcegroups/*
+monitoring policy contributor,microsoft.support/*
+monitoring reader,*/read
+monitoring reader,microsoft.operationalinsights/workspaces/search/action
+monitoring reader,microsoft.support/*
+workbook contributor,microsoft.insights/workbooks/delete
+workbook contributor,microsoft.insights/workbooks/read
+workbook contributor,microsoft.insights/workbooks/revisions/read
+workbook contributor,microsoft.insights/workbooks/write
+workbook contributor,microsoft.insights/workbooktemplates/delete
+workbook contributor,microsoft.insights/workbooktemplates/read
+workbook contributor,microsoft.insights/workbooktemplates/write
+workbook reader,microsoft.insights/workbooks/read
+workbook reader,microsoft.insights/workbooks/revisions/read
+workbook reader,microsoft.insights/workbooktemplates/read

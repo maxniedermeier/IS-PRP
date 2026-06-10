@@ -1,0 +1,610 @@
+role_name,permission_name
+advisor recommendations contributor (assessments and reviews),microsoft.advisor/recommendations/available/action
+advisor recommendations contributor (assessments and reviews),microsoft.advisor/recommendations/read
+advisor recommendations contributor (assessments and reviews),microsoft.advisor/recommendations/write
+advisor reviews contributor,microsoft.advisor/resiliencyreviews/read
+advisor reviews contributor,microsoft.advisor/triagerecommendations/approve/action
+advisor reviews contributor,microsoft.advisor/triagerecommendations/read
+advisor reviews contributor,microsoft.advisor/triagerecommendations/reject/action
+advisor reviews contributor,microsoft.advisor/triagerecommendations/reset/action
+advisor reviews contributor,microsoft.advisor/triageresources/read
+advisor reviews contributor,microsoft.authorization/*/read
+advisor reviews contributor,microsoft.insights/alertrules/*
+advisor reviews contributor,microsoft.resources/deployments/*
+advisor reviews contributor,microsoft.resources/subscriptions/resourcegroups/read
+advisor reviews reader,microsoft.advisor/resiliencyreviews/read
+advisor reviews reader,microsoft.advisor/triagerecommendations/read
+advisor reviews reader,microsoft.advisor/triageresources/read
+automation contributor,microsoft.authorization/*/read
+automation contributor,microsoft.automation/automationaccounts/*
+automation contributor,microsoft.insights/actiongroups/*
+automation contributor,microsoft.insights/activitylogalerts/*
+automation contributor,microsoft.insights/diagnosticsettings/*
+automation contributor,microsoft.insights/metricalerts/*
+automation contributor,microsoft.insights/scheduledqueryrules/*
+automation contributor,microsoft.operationalinsights/workspaces/sharedkeys/action
+automation contributor,microsoft.resources/deployments/*
+automation contributor,microsoft.resources/subscriptions/resourcegroups/read
+automation contributor,microsoft.support/*
+automation job operator,microsoft.authorization/*/read
+automation job operator,microsoft.automation/automationaccounts/hybridrunbookworkergroups/read
+automation job operator,microsoft.automation/automationaccounts/jobs/output/read
+automation job operator,microsoft.automation/automationaccounts/jobs/read
+automation job operator,microsoft.automation/automationaccounts/jobs/resume/action
+automation job operator,microsoft.automation/automationaccounts/jobs/stop/action
+automation job operator,microsoft.automation/automationaccounts/jobs/streams/read
+automation job operator,microsoft.automation/automationaccounts/jobs/suspend/action
+automation job operator,microsoft.automation/automationaccounts/jobs/write
+automation job operator,microsoft.insights/alertrules/*
+automation job operator,microsoft.resources/deployments/*
+automation job operator,microsoft.resources/subscriptions/resourcegroups/read
+automation job operator,microsoft.support/*
+automation operator,microsoft.authorization/*/read
+automation operator,microsoft.automation/automationaccounts/hybridrunbookworkergroups/read
+automation operator,microsoft.automation/automationaccounts/jobs/output/read
+automation operator,microsoft.automation/automationaccounts/jobs/read
+automation operator,microsoft.automation/automationaccounts/jobs/resume/action
+automation operator,microsoft.automation/automationaccounts/jobs/stop/action
+automation operator,microsoft.automation/automationaccounts/jobs/streams/read
+automation operator,microsoft.automation/automationaccounts/jobs/suspend/action
+automation operator,microsoft.automation/automationaccounts/jobs/write
+automation operator,microsoft.automation/automationaccounts/jobschedules/read
+automation operator,microsoft.automation/automationaccounts/jobschedules/write
+automation operator,microsoft.automation/automationaccounts/linkedworkspace/read
+automation operator,microsoft.automation/automationaccounts/read
+automation operator,microsoft.automation/automationaccounts/runbooks/read
+automation operator,microsoft.automation/automationaccounts/schedules/read
+automation operator,microsoft.automation/automationaccounts/schedules/write
+automation operator,microsoft.insights/alertrules/*
+automation operator,microsoft.resourcehealth/availabilitystatuses/read
+automation operator,microsoft.resources/deployments/*
+automation operator,microsoft.resources/subscriptions/resourcegroups/read
+automation operator,microsoft.support/*
+automation runbook operator,microsoft.authorization/*/read
+automation runbook operator,microsoft.automation/automationaccounts/runbooks/read
+automation runbook operator,microsoft.insights/alertrules/*
+automation runbook operator,microsoft.resources/deployments/*
+automation runbook operator,microsoft.resources/subscriptions/resourcegroups/read
+automation runbook operator,microsoft.support/*
+azure center for sap solutions administrator,microsoft.advisor/configurations/read
+azure center for sap solutions administrator,microsoft.advisor/recommendations/read
+azure center for sap solutions administrator,microsoft.authorization/*/read
+azure center for sap solutions administrator,microsoft.compute/availabilitysets/read
+azure center for sap solutions administrator,microsoft.compute/disks/read
+azure center for sap solutions administrator,microsoft.compute/sshpublickeys/*/generatekeypair/action
+azure center for sap solutions administrator,microsoft.compute/sshpublickeys/read
+azure center for sap solutions administrator,microsoft.compute/sshpublickeys/write
+azure center for sap solutions administrator,microsoft.compute/virtualmachines/extensions/delete
+azure center for sap solutions administrator,microsoft.compute/virtualmachines/extensions/read
+azure center for sap solutions administrator,microsoft.compute/virtualmachines/read
+azure center for sap solutions administrator,microsoft.insights/alertrules/*
+azure center for sap solutions administrator,microsoft.insights/metricdefinitions/read
+azure center for sap solutions administrator,microsoft.insights/metrics/read
+azure center for sap solutions administrator,microsoft.network/loadbalancers/backendaddresspools/read
+azure center for sap solutions administrator,microsoft.network/loadbalancers/frontendipconfigurations/read
+azure center for sap solutions administrator,microsoft.network/loadbalancers/inboundnatrules/read
+azure center for sap solutions administrator,microsoft.network/loadbalancers/loadbalancingrules/read
+azure center for sap solutions administrator,microsoft.network/loadbalancers/networkinterfaces/read
+azure center for sap solutions administrator,microsoft.network/loadbalancers/outboundrules/read
+azure center for sap solutions administrator,microsoft.network/loadbalancers/providers/microsoft.insights/logdefinitions/read
+azure center for sap solutions administrator,microsoft.network/loadbalancers/providers/microsoft.insights/metricdefinitions/read
+azure center for sap solutions administrator,microsoft.network/loadbalancers/read
+azure center for sap solutions administrator,microsoft.network/loadbalancers/virtualmachines/read
+azure center for sap solutions administrator,microsoft.network/networkinterfaces/ipconfigurations/read
+azure center for sap solutions administrator,microsoft.network/networkinterfaces/loadbalancers/read
+azure center for sap solutions administrator,microsoft.network/networkinterfaces/providers/microsoft.insights/metricdefinitions/read
+azure center for sap solutions administrator,microsoft.network/networkinterfaces/read
+azure center for sap solutions administrator,microsoft.network/networksecuritygroups/join/action
+azure center for sap solutions administrator,microsoft.network/privateendpoints/read
+azure center for sap solutions administrator,microsoft.network/routetables/join/action
+azure center for sap solutions administrator,microsoft.network/virtualnetworks/providers/microsoft.insights/metricdefinitions/read
+azure center for sap solutions administrator,microsoft.network/virtualnetworks/read
+azure center for sap solutions administrator,microsoft.network/virtualnetworks/subnets/read
+azure center for sap solutions administrator,microsoft.network/virtualnetworks/subnets/virtualmachines/read
+azure center for sap solutions administrator,microsoft.network/virtualnetworks/subnets/write
+azure center for sap solutions administrator,microsoft.resourcehealth/availabilitystatuses/read
+azure center for sap solutions administrator,microsoft.resources/deployments/*
+azure center for sap solutions administrator,microsoft.resources/subscriptions/read
+azure center for sap solutions administrator,microsoft.resources/subscriptions/resourcegroups/deployments/*
+azure center for sap solutions administrator,microsoft.resources/subscriptions/resourcegroups/read
+azure center for sap solutions administrator,microsoft.resources/subscriptions/resourcegroups/write
+azure center for sap solutions administrator,microsoft.storage/storageaccounts/blobservices/containers/blobs/read
+azure center for sap solutions administrator,microsoft.storage/storageaccounts/blobservices/containers/read
+azure center for sap solutions administrator,microsoft.storage/storageaccounts/blobservices/read
+azure center for sap solutions administrator,microsoft.storage/storageaccounts/fileservices/read
+azure center for sap solutions administrator,microsoft.storage/storageaccounts/fileservices/shares/read
+azure center for sap solutions administrator,microsoft.storage/storageaccounts/read
+azure center for sap solutions administrator,microsoft.workloads/connectors/*/delete
+azure center for sap solutions administrator,microsoft.workloads/connectors/*/read
+azure center for sap solutions administrator,microsoft.workloads/connectors/*/write
+azure center for sap solutions administrator,microsoft.workloads/locations/*/action
+azure center for sap solutions administrator,microsoft.workloads/locations/*/read
+azure center for sap solutions administrator,microsoft.workloads/sapvirtualinstances/*/delete
+azure center for sap solutions administrator,microsoft.workloads/sapvirtualinstances/*/read
+azure center for sap solutions administrator,microsoft.workloads/sapvirtualinstances/*/start/action
+azure center for sap solutions administrator,microsoft.workloads/sapvirtualinstances/*/stop/action
+azure center for sap solutions administrator,microsoft.workloads/sapvirtualinstances/*/write
+azure center for sap solutions reader,microsoft.advisor/configurations/read
+azure center for sap solutions reader,microsoft.advisor/recommendations/read
+azure center for sap solutions reader,microsoft.authorization/*/read
+azure center for sap solutions reader,microsoft.compute/availabilitysets/read
+azure center for sap solutions reader,microsoft.compute/disks/read
+azure center for sap solutions reader,microsoft.compute/virtualmachines/extensions/read
+azure center for sap solutions reader,microsoft.compute/virtualmachines/read
+azure center for sap solutions reader,microsoft.insights/alertrules/read
+azure center for sap solutions reader,microsoft.insights/metricdefinitions/read
+azure center for sap solutions reader,microsoft.insights/metrics/read
+azure center for sap solutions reader,microsoft.network/loadbalancers/backendaddresspools/read
+azure center for sap solutions reader,microsoft.network/loadbalancers/frontendipconfigurations/read
+azure center for sap solutions reader,microsoft.network/loadbalancers/inboundnatrules/read
+azure center for sap solutions reader,microsoft.network/loadbalancers/loadbalancingrules/read
+azure center for sap solutions reader,microsoft.network/loadbalancers/networkinterfaces/read
+azure center for sap solutions reader,microsoft.network/loadbalancers/outboundrules/read
+azure center for sap solutions reader,microsoft.network/loadbalancers/providers/microsoft.insights/logdefinitions/read
+azure center for sap solutions reader,microsoft.network/loadbalancers/providers/microsoft.insights/metricdefinitions/read
+azure center for sap solutions reader,microsoft.network/loadbalancers/read
+azure center for sap solutions reader,microsoft.network/loadbalancers/virtualmachines/read
+azure center for sap solutions reader,microsoft.network/networkinterfaces/ipconfigurations/read
+azure center for sap solutions reader,microsoft.network/networkinterfaces/loadbalancers/read
+azure center for sap solutions reader,microsoft.network/networkinterfaces/providers/microsoft.insights/metricdefinitions/read
+azure center for sap solutions reader,microsoft.network/networkinterfaces/read
+azure center for sap solutions reader,microsoft.network/privateendpoints/read
+azure center for sap solutions reader,microsoft.network/virtualnetworks/providers/microsoft.insights/metricdefinitions/read
+azure center for sap solutions reader,microsoft.network/virtualnetworks/read
+azure center for sap solutions reader,microsoft.network/virtualnetworks/subnets/read
+azure center for sap solutions reader,microsoft.network/virtualnetworks/subnets/virtualmachines/read
+azure center for sap solutions reader,microsoft.resourcehealth/availabilitystatuses/read
+azure center for sap solutions reader,microsoft.resources/deployments/read
+azure center for sap solutions reader,microsoft.resources/subscriptions/read
+azure center for sap solutions reader,microsoft.resources/subscriptions/resourcegroups/deployments/read
+azure center for sap solutions reader,microsoft.resources/subscriptions/resourcegroups/read
+azure center for sap solutions reader,microsoft.storage/storageaccounts/blobservices/containers/read
+azure center for sap solutions reader,microsoft.storage/storageaccounts/blobservices/read
+azure center for sap solutions reader,microsoft.storage/storageaccounts/fileservices/read
+azure center for sap solutions reader,microsoft.storage/storageaccounts/fileservices/shares/read
+azure center for sap solutions reader,microsoft.storage/storageaccounts/read
+azure center for sap solutions reader,microsoft.workloads/locations/*/read
+azure center for sap solutions reader,microsoft.workloads/locations/operationstatuses/read
+azure center for sap solutions reader,microsoft.workloads/operations/read
+azure center for sap solutions reader,microsoft.workloads/sapvirtualinstances/*/read
+azure center for sap solutions service role,microsoft.compute/availabilitysets/read
+azure center for sap solutions service role,microsoft.compute/availabilitysets/write
+azure center for sap solutions service role,microsoft.compute/disks/read
+azure center for sap solutions service role,microsoft.compute/disks/write
+azure center for sap solutions service role,microsoft.compute/skus/read
+azure center for sap solutions service role,microsoft.compute/sshpublickeys/read
+azure center for sap solutions service role,microsoft.compute/virtualmachines/extensions/delete
+azure center for sap solutions service role,microsoft.compute/virtualmachines/extensions/read
+azure center for sap solutions service role,microsoft.compute/virtualmachines/extensions/write
+azure center for sap solutions service role,microsoft.compute/virtualmachines/instanceview/read
+azure center for sap solutions service role,microsoft.compute/virtualmachines/read
+azure center for sap solutions service role,microsoft.compute/virtualmachines/write
+azure center for sap solutions service role,microsoft.network/loadbalancers/backendaddresspools/join/action
+azure center for sap solutions service role,microsoft.network/loadbalancers/backendaddresspools/read
+azure center for sap solutions service role,microsoft.network/loadbalancers/backendaddresspools/write
+azure center for sap solutions service role,microsoft.network/loadbalancers/frontendipconfigurations/join/action
+azure center for sap solutions service role,microsoft.network/loadbalancers/frontendipconfigurations/read
+azure center for sap solutions service role,microsoft.network/loadbalancers/inboundnatrules/read
+azure center for sap solutions service role,microsoft.network/loadbalancers/loadbalancingrules/read
+azure center for sap solutions service role,microsoft.network/loadbalancers/networkinterfaces/read
+azure center for sap solutions service role,microsoft.network/loadbalancers/outboundrules/read
+azure center for sap solutions service role,microsoft.network/loadbalancers/providers/microsoft.insights/logdefinitions/read
+azure center for sap solutions service role,microsoft.network/loadbalancers/providers/microsoft.insights/metricdefinitions/read
+azure center for sap solutions service role,microsoft.network/loadbalancers/read
+azure center for sap solutions service role,microsoft.network/loadbalancers/virtualmachines/read
+azure center for sap solutions service role,microsoft.network/loadbalancers/write
+azure center for sap solutions service role,microsoft.network/networkinterfaces/ipconfigurations/join/action
+azure center for sap solutions service role,microsoft.network/networkinterfaces/ipconfigurations/read
+azure center for sap solutions service role,microsoft.network/networkinterfaces/join/action
+azure center for sap solutions service role,microsoft.network/networkinterfaces/loadbalancers/read
+azure center for sap solutions service role,microsoft.network/networkinterfaces/read
+azure center for sap solutions service role,microsoft.network/networkinterfaces/write
+azure center for sap solutions service role,microsoft.network/privateendpoints/read
+azure center for sap solutions service role,microsoft.network/privateendpoints/write
+azure center for sap solutions service role,microsoft.network/virtualnetworks/checkipaddressavailability/read
+azure center for sap solutions service role,microsoft.network/virtualnetworks/read
+azure center for sap solutions service role,microsoft.network/virtualnetworks/subnets/join/action
+azure center for sap solutions service role,microsoft.network/virtualnetworks/subnets/joinloadbalancer/action
+azure center for sap solutions service role,microsoft.network/virtualnetworks/subnets/read
+azure center for sap solutions service role,microsoft.network/virtualnetworks/subnets/virtualmachines/read
+azure center for sap solutions service role,microsoft.network/virtualnetworks/virtualmachines/read
+azure center for sap solutions service role,microsoft.resources/deployments/*
+azure center for sap solutions service role,microsoft.resources/subscriptions/read
+azure center for sap solutions service role,microsoft.resources/subscriptions/resourcegroups/deployments/*
+azure center for sap solutions service role,microsoft.resources/subscriptions/resourcegroups/read
+azure center for sap solutions service role,microsoft.resources/subscriptions/resourcegroups/write
+azure center for sap solutions service role,microsoft.storage/storageaccounts/blobservices/containers/read
+azure center for sap solutions service role,microsoft.storage/storageaccounts/blobservices/read
+azure center for sap solutions service role,microsoft.storage/storageaccounts/fileservices/read
+azure center for sap solutions service role,microsoft.storage/storageaccounts/fileservices/shares/read
+azure center for sap solutions service role,microsoft.storage/storageaccounts/fileservices/shares/write
+azure center for sap solutions service role,microsoft.storage/storageaccounts/fileservices/write
+azure center for sap solutions service role,microsoft.storage/storageaccounts/privateendpointconnectionsapproval/action
+azure center for sap solutions service role,microsoft.storage/storageaccounts/read
+azure center for sap solutions service role,microsoft.storage/storageaccounts/write
+azure connected machine onboarding,microsoft.guestconfiguration/guestconfigurationassignments/read
+azure connected machine onboarding,microsoft.hybridcompute/gateways/read
+azure connected machine onboarding,microsoft.hybridcompute/machines/addextensions/action
+azure connected machine onboarding,microsoft.hybridcompute/machines/read
+azure connected machine onboarding,microsoft.hybridcompute/machines/write
+azure connected machine onboarding,microsoft.hybridcompute/privatelinkscopes/read
+azure connected machine onboarding,microsoft.hybridcompute/settings/read
+azure connected machine onboarding,microsoft.hybridcompute/settings/write
+azure connected machine onboarding,microsoft.insights/datacollectionruleassociations/delete
+azure connected machine onboarding,microsoft.insights/datacollectionruleassociations/read
+azure connected machine onboarding,microsoft.insights/datacollectionruleassociations/write
+azure connected machine resource administrator,microsoft.hybridcompute/*/read
+azure connected machine resource administrator,microsoft.hybridcompute/gateways/*
+azure connected machine resource administrator,microsoft.hybridcompute/licenses/*
+azure connected machine resource administrator,microsoft.hybridcompute/locations/*
+azure connected machine resource administrator,microsoft.hybridcompute/machines/*
+azure connected machine resource administrator,microsoft.hybridcompute/machines/extensions/*
+azure connected machine resource administrator,microsoft.hybridcompute/machines/licenseprofiles/*
+azure connected machine resource administrator,microsoft.hybridcompute/machines/runcommands/*
+azure connected machine resource administrator,microsoft.hybridcompute/machines/upgradeextensions/action
+azure connected machine resource administrator,microsoft.hybridcompute/privatelinkscopes/*
+azure connected machine resource administrator,microsoft.hybridcompute/settings/*
+azure connected machine resource administrator,microsoft.resources/deployments/*
+azure connected machine resource manager,microsoft.attestation/attestationproviders/attestation/delete
+azure connected machine resource manager,microsoft.attestation/attestationproviders/attestation/read
+azure connected machine resource manager,microsoft.attestation/attestationproviders/attestation/write
+azure connected machine resource manager,microsoft.attestation/attestationproviders/delete
+azure connected machine resource manager,microsoft.attestation/attestationproviders/read
+azure connected machine resource manager,microsoft.attestation/attestationproviders/write
+azure connected machine resource manager,microsoft.authorization/*/read
+azure connected machine resource manager,microsoft.edgemarketplace/locations/operationstatuses/read
+azure connected machine resource manager,microsoft.edgemarketplace/offers/generateaccesstoken/action
+azure connected machine resource manager,microsoft.edgemarketplace/offers/getaccesstoken/action
+azure connected machine resource manager,microsoft.edgemarketplace/offers/read
+azure connected machine resource manager,microsoft.edgemarketplace/publishers/read
+azure connected machine resource manager,microsoft.extendedlocation/customlocations/read
+azure connected machine resource manager,microsoft.guestconfiguration/guestconfigurationassignments/*/read
+azure connected machine resource manager,microsoft.guestconfiguration/guestconfigurationassignments/read
+azure connected machine resource manager,microsoft.guestconfiguration/guestconfigurationassignments/write
+azure connected machine resource manager,microsoft.hybridcompute/*/read
+azure connected machine resource manager,microsoft.hybridcompute/machines/delete
+azure connected machine resource manager,microsoft.hybridcompute/machines/extensions/delete
+azure connected machine resource manager,microsoft.hybridcompute/machines/extensions/read
+azure connected machine resource manager,microsoft.hybridcompute/machines/extensions/write
+azure connected machine resource manager,microsoft.hybridcompute/machines/licenseprofiles/delete
+azure connected machine resource manager,microsoft.hybridcompute/machines/licenseprofiles/read
+azure connected machine resource manager,microsoft.hybridcompute/machines/licenseprofiles/write
+azure connected machine resource manager,microsoft.hybridcompute/machines/read
+azure connected machine resource manager,microsoft.hybridcompute/machines/upgradeextensions/action
+azure connected machine resource manager,microsoft.hybridcompute/machines/write
+azure connected machine resource manager,microsoft.hybridcompute/settings/read
+azure connected machine resource manager,microsoft.hybridcompute/settings/write
+azure connected machine resource manager,microsoft.hybridconnectivity/endpoints/read
+azure connected machine resource manager,microsoft.hybridconnectivity/endpoints/serviceconfigurations/read
+azure connected machine resource manager,microsoft.hybridconnectivity/endpoints/serviceconfigurations/write
+azure connected machine resource manager,microsoft.hybridconnectivity/endpoints/write
+azure connected machine resource manager,microsoft.resources/subscriptions/resourcegroups/read
+azure customer lockbox approver for subscription,microsoft.authorization/*/read
+azure customer lockbox approver for subscription,microsoft.customerlockbox/requests/read
+azure customer lockbox approver for subscription,microsoft.customerlockbox/requests/updateapproval/action
+azure customer lockbox approver for subscription,microsoft.insights/eventtypes/values/read
+azure customer lockbox approver for subscription,microsoft.resources/subscriptions/read
+azure customer lockbox approver for subscription,microsoft.resources/subscriptions/resourcegroups/read
+billing reader,microsoft.authorization/*/read
+billing reader,microsoft.billing/*/read
+billing reader,microsoft.commerce/*/read
+billing reader,microsoft.consumption/*/read
+billing reader,microsoft.costmanagement/*/read
+billing reader,microsoft.management/managementgroups/read
+billing reader,microsoft.support/*
+blueprint contributor,microsoft.authorization/*/read
+blueprint contributor,microsoft.blueprint/blueprints/*
+blueprint contributor,microsoft.resources/deployments/*
+blueprint contributor,microsoft.resources/subscriptions/resourcegroups/read
+blueprint contributor,microsoft.support/*
+blueprint operator,microsoft.authorization/*/read
+blueprint operator,microsoft.blueprint/blueprintassignments/*
+blueprint operator,microsoft.resources/deployments/*
+blueprint operator,microsoft.resources/subscriptions/resourcegroups/read
+blueprint operator,microsoft.support/*
+carbon optimization reader,microsoft.carbon/carbonemissionreports/action
+carbon optimization reader,microsoft.carbon/carbonemissionreports/read
+cost management contributor,microsoft.advisor/configurations/read
+cost management contributor,microsoft.advisor/recommendations/read
+cost management contributor,microsoft.billing/billingperiods/read
+cost management contributor,microsoft.billing/billingproperty/read
+cost management contributor,microsoft.consumption/*
+cost management contributor,microsoft.costmanagement/*
+cost management contributor,microsoft.management/managementgroups/read
+cost management contributor,microsoft.resources/subscriptions/read
+cost management contributor,microsoft.resources/subscriptions/resourcegroups/read
+cost management contributor,microsoft.support/*
+cost management reader,microsoft.advisor/configurations/read
+cost management reader,microsoft.advisor/recommendations/read
+cost management reader,microsoft.billing/billingperiods/read
+cost management reader,microsoft.billing/billingproperty/read
+cost management reader,microsoft.consumption/*/read
+cost management reader,microsoft.costmanagement/*/read
+cost management reader,microsoft.management/managementgroups/read
+cost management reader,microsoft.resources/subscriptions/read
+cost management reader,microsoft.resources/subscriptions/resourcegroups/read
+cost management reader,microsoft.support/*
+essential machine management administrator,microsoft.insights/datacollectionrules/read
+essential machine management administrator,microsoft.insights/datacollectionrules/write
+essential machine management administrator,microsoft.insights/metricalerts/read
+essential machine management administrator,microsoft.insights/metricalerts/write
+essential machine management administrator,microsoft.managedops/managedops/delete
+essential machine management administrator,microsoft.managedops/managedops/read
+essential machine management administrator,microsoft.managedops/managedops/write
+essential machine management administrator,microsoft.monitor/accounts/read
+essential machine management administrator,microsoft.monitor/accounts/write
+essential machine management administrator,microsoft.operationalinsights/workspaces/listkeys/action
+essential machine management administrator,microsoft.operationalinsights/workspaces/read
+essential machine management administrator,microsoft.operationalinsights/workspaces/sharedkeys/action
+essential machine management administrator,microsoft.operationalinsights/workspaces/sharedkeys/read
+essential machine management administrator,microsoft.operationsmanagement/solutions/read
+essential machine management administrator,microsoft.operationsmanagement/solutions/write
+essential machine management administrator,microsoft.resources/deployments/*
+essential machine management administrator,microsoft.resources/subscriptions/resourcegroups/read
+essential machine management administrator,microsoft.security/pricings/read
+essential machine management administrator,microsoft.security/pricings/write
+hierarchy settings administrator,microsoft.management/managementgroups/settings/delete
+hierarchy settings administrator,microsoft.management/managementgroups/settings/write
+managed application contributor role,*/read
+managed application contributor role,microsoft.resources/deployments/*
+managed application contributor role,microsoft.resources/subscriptions/resourcegroups/*
+managed application contributor role,microsoft.solutions/applications/*
+managed application contributor role,microsoft.solutions/register/action
+managed application operator role,*/read
+managed application operator role,microsoft.solutions/*/action
+managed application operator role,microsoft.solutions/applications/read
+managed application publisher operator,*/read
+managed application publisher operator,microsoft.resources/deployments/*
+managed application publisher operator,microsoft.solutions/jitrequests/*
+managed services registration assignment delete role,microsoft.managedservices/operationstatuses/read
+managed services registration assignment delete role,microsoft.managedservices/registrationassignments/delete
+managed services registration assignment delete role,microsoft.managedservices/registrationassignments/read
+management group contributor,microsoft.authorization/*/read
+management group contributor,microsoft.management/managementgroups/delete
+management group contributor,microsoft.management/managementgroups/read
+management group contributor,microsoft.management/managementgroups/subscriptions/delete
+management group contributor,microsoft.management/managementgroups/subscriptions/read
+management group contributor,microsoft.management/managementgroups/subscriptions/write
+management group contributor,microsoft.management/managementgroups/write
+management group reader,microsoft.authorization/*/read
+management group reader,microsoft.management/managementgroups/read
+management group reader,microsoft.management/managementgroups/subscriptions/read
+new relic apm account contributor,microsoft.authorization/*/read
+new relic apm account contributor,microsoft.insights/alertrules/*
+new relic apm account contributor,microsoft.resourcehealth/availabilitystatuses/read
+new relic apm account contributor,microsoft.resources/deployments/*
+new relic apm account contributor,microsoft.resources/subscriptions/resourcegroups/read
+new relic apm account contributor,microsoft.support/*
+new relic apm account contributor,newrelic.apm/accounts/*
+policy insights data writer (preview),microsoft.authorization/policyassignments/read
+policy insights data writer (preview),microsoft.authorization/policydefinitions/read
+policy insights data writer (preview),microsoft.authorization/policyexemptions/read
+policy insights data writer (preview),microsoft.authorization/policysetdefinitions/read
+policy insights data writer (preview),microsoft.policyinsights/checkdatapolicycompliance/action
+policy insights data writer (preview),microsoft.policyinsights/policyevents/logdataevents/action
+quota request operator,microsoft.authorization/*/read
+quota request operator,microsoft.capacity/register/action
+quota request operator,microsoft.capacity/resourceproviders/locations/servicelimits/read
+quota request operator,microsoft.capacity/resourceproviders/locations/servicelimits/write
+quota request operator,microsoft.capacity/resourceproviders/locations/servicelimitsrequests/read
+quota request operator,microsoft.insights/alertrules/*
+quota request operator,microsoft.quota/quotarequests/read
+quota request operator,microsoft.quota/quotas/read
+quota request operator,microsoft.quota/quotas/write
+quota request operator,microsoft.quota/register/action
+quota request operator,microsoft.quota/usages/read
+quota request operator,microsoft.resources/deployments/*
+quota request operator,microsoft.resources/subscriptions/resourcegroups/read
+quota request operator,microsoft.support/*
+reservation purchaser,microsoft.authorization/roleassignments/read
+reservation purchaser,microsoft.capacity/catalogs/read
+reservation purchaser,microsoft.capacity/register/action
+reservation purchaser,microsoft.compute/register/action
+reservation purchaser,microsoft.consumption/register/action
+reservation purchaser,microsoft.consumption/reservationrecommendationdetails/read
+reservation purchaser,microsoft.consumption/reservationrecommendations/read
+reservation purchaser,microsoft.resources/subscriptions/read
+reservation purchaser,microsoft.resources/subscriptions/resourcegroups/read
+reservation purchaser,microsoft.sql/register/action
+reservation purchaser,microsoft.support/supporttickets/write
+reservations reader,microsoft.authorization/roleassignments/read
+reservations reader,microsoft.capacity/*/read
+resource policy contributor,*/read
+resource policy contributor,microsoft.authorization/policyassignments/*
+resource policy contributor,microsoft.authorization/policydefinitions/*
+resource policy contributor,microsoft.authorization/policyenrollments/*
+resource policy contributor,microsoft.authorization/policyexemptions/*
+resource policy contributor,microsoft.authorization/policysetdefinitions/*
+resource policy contributor,microsoft.policyinsights/*
+resource policy contributor,microsoft.resources/deployments/*
+resource policy contributor,microsoft.support/*
+savings plan purchaser,microsoft.authorization/roleassignments/read
+savings plan purchaser,microsoft.billing/billingproperty/read
+savings plan purchaser,microsoft.billingbenefits/register/action
+savings plan purchaser,microsoft.billingbenefits/savingsplanorders/write
+savings plan purchaser,microsoft.capacity/catalogs/read
+savings plan purchaser,microsoft.capacity/register/action
+savings plan purchaser,microsoft.costmanagement/benefitrecommendations/read
+savings plan purchaser,microsoft.resources/subscriptions/read
+savings plan purchaser,microsoft.resources/subscriptions/resourcegroups/read
+savings plan purchaser,microsoft.support/supporttickets/write
+scheduled patching contributor,microsoft.maintenance/applyupdates/read
+scheduled patching contributor,microsoft.maintenance/configurationassignments/delete
+scheduled patching contributor,microsoft.maintenance/configurationassignments/maintenancescope/inguestpatch/delete
+scheduled patching contributor,microsoft.maintenance/configurationassignments/maintenancescope/inguestpatch/read
+scheduled patching contributor,microsoft.maintenance/configurationassignments/maintenancescope/inguestpatch/write
+scheduled patching contributor,microsoft.maintenance/configurationassignments/read
+scheduled patching contributor,microsoft.maintenance/configurationassignments/write
+scheduled patching contributor,microsoft.maintenance/maintenanceconfigurations/delete
+scheduled patching contributor,microsoft.maintenance/maintenanceconfigurations/maintenancescope/inguestpatch/delete
+scheduled patching contributor,microsoft.maintenance/maintenanceconfigurations/maintenancescope/inguestpatch/read
+scheduled patching contributor,microsoft.maintenance/maintenanceconfigurations/maintenancescope/inguestpatch/write
+scheduled patching contributor,microsoft.maintenance/maintenanceconfigurations/read
+scheduled patching contributor,microsoft.maintenance/maintenanceconfigurations/write
+scheduled patching contributor,microsoft.maintenance/updates/read
+service group reader,*/read
+service group reader,microsoft.authorization/*/read
+site recovery contributor,microsoft.authorization/*/read
+site recovery contributor,microsoft.insights/alertrules/*
+site recovery contributor,microsoft.network/virtualnetworks/read
+site recovery contributor,microsoft.recoveryservices/locations/allocatedstamp/read
+site recovery contributor,microsoft.recoveryservices/locations/allocatestamp/action
+site recovery contributor,microsoft.recoveryservices/vaults/certificates/write
+site recovery contributor,microsoft.recoveryservices/vaults/extendedinformation/*
+site recovery contributor,microsoft.recoveryservices/vaults/monitoringalerts/*
+site recovery contributor,microsoft.recoveryservices/vaults/monitoringconfigurations/notificationconfiguration/read
+site recovery contributor,microsoft.recoveryservices/vaults/read
+site recovery contributor,microsoft.recoveryservices/vaults/refreshcontainers/read
+site recovery contributor,microsoft.recoveryservices/vaults/registeredidentities/*
+site recovery contributor,microsoft.recoveryservices/vaults/replicationalertsettings/*
+site recovery contributor,microsoft.recoveryservices/vaults/replicationevents/read
+site recovery contributor,microsoft.recoveryservices/vaults/replicationfabrics/*
+site recovery contributor,microsoft.recoveryservices/vaults/replicationjobs/*
+site recovery contributor,microsoft.recoveryservices/vaults/replicationoperationstatus/read
+site recovery contributor,microsoft.recoveryservices/vaults/replicationpolicies/*
+site recovery contributor,microsoft.recoveryservices/vaults/replicationrecoveryplans/*
+site recovery contributor,microsoft.recoveryservices/vaults/replicationvaultsettings/*
+site recovery contributor,microsoft.recoveryservices/vaults/storageconfig/*
+site recovery contributor,microsoft.recoveryservices/vaults/tokeninfo/read
+site recovery contributor,microsoft.recoveryservices/vaults/usages/read
+site recovery contributor,microsoft.recoveryservices/vaults/vaulttokens/read
+site recovery contributor,microsoft.resourcehealth/availabilitystatuses/read
+site recovery contributor,microsoft.resources/deployments/*
+site recovery contributor,microsoft.resources/subscriptions/resourcegroups/read
+site recovery contributor,microsoft.storage/storageaccounts/read
+site recovery contributor,microsoft.support/*
+site recovery operator,microsoft.authorization/*/read
+site recovery operator,microsoft.insights/alertrules/*
+site recovery operator,microsoft.network/virtualnetworks/read
+site recovery operator,microsoft.recoveryservices/locations/allocatedstamp/read
+site recovery operator,microsoft.recoveryservices/locations/allocatestamp/action
+site recovery operator,microsoft.recoveryservices/vaults/extendedinformation/read
+site recovery operator,microsoft.recoveryservices/vaults/monitoringalerts/*
+site recovery operator,microsoft.recoveryservices/vaults/monitoringconfigurations/notificationconfiguration/read
+site recovery operator,microsoft.recoveryservices/vaults/read
+site recovery operator,microsoft.recoveryservices/vaults/refreshcontainers/read
+site recovery operator,microsoft.recoveryservices/vaults/registeredidentities/operationresults/read
+site recovery operator,microsoft.recoveryservices/vaults/registeredidentities/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationalertsettings/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationevents/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/checkconsistency/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/reassociategateway/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/renewcertificate/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationnetworks/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationnetworks/replicationnetworkmappings/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotectableitems/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotecteditems/applyrecoverypoint/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotecteditems/failovercommit/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotecteditems/plannedfailover/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotecteditems/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotecteditems/recoverypoints/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotecteditems/repairreplication/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotecteditems/reprotect/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotecteditems/testfailover/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotecteditems/testfailovercleanup/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotecteditems/unplannedfailover/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotecteditems/updatemobilityservice/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotectioncontainermappings/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/switchprotection/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationrecoveryservicesproviders/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationrecoveryservicesproviders/refreshprovider/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationstorageclassifications/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationstorageclassifications/replicationstorageclassificationmappings/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationfabrics/replicationvcenters/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationjobs/*
+site recovery operator,microsoft.recoveryservices/vaults/replicationpolicies/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationrecoveryplans/failovercommit/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationrecoveryplans/plannedfailover/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationrecoveryplans/read
+site recovery operator,microsoft.recoveryservices/vaults/replicationrecoveryplans/reprotect/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationrecoveryplans/testfailover/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationrecoveryplans/testfailovercleanup/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationrecoveryplans/unplannedfailover/action
+site recovery operator,microsoft.recoveryservices/vaults/replicationvaultsettings/read
+site recovery operator,microsoft.recoveryservices/vaults/storageconfig/read
+site recovery operator,microsoft.recoveryservices/vaults/tokeninfo/read
+site recovery operator,microsoft.recoveryservices/vaults/usages/read
+site recovery operator,microsoft.recoveryservices/vaults/vaulttokens/read
+site recovery operator,microsoft.resourcehealth/availabilitystatuses/read
+site recovery operator,microsoft.resources/deployments/*
+site recovery operator,microsoft.resources/subscriptions/resourcegroups/read
+site recovery operator,microsoft.storage/storageaccounts/read
+site recovery operator,microsoft.support/*
+site recovery reader,microsoft.authorization/*/read
+site recovery reader,microsoft.recoveryservices/locations/allocatedstamp/read
+site recovery reader,microsoft.recoveryservices/vaults/extendedinformation/read
+site recovery reader,microsoft.recoveryservices/vaults/monitoringalerts/read
+site recovery reader,microsoft.recoveryservices/vaults/monitoringconfigurations/notificationconfiguration/read
+site recovery reader,microsoft.recoveryservices/vaults/read
+site recovery reader,microsoft.recoveryservices/vaults/refreshcontainers/read
+site recovery reader,microsoft.recoveryservices/vaults/registeredidentities/operationresults/read
+site recovery reader,microsoft.recoveryservices/vaults/registeredidentities/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationalertsettings/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationevents/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationfabrics/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationfabrics/replicationnetworks/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationfabrics/replicationnetworks/replicationnetworkmappings/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotectableitems/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotecteditems/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotecteditems/recoverypoints/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationfabrics/replicationprotectioncontainers/replicationprotectioncontainermappings/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationfabrics/replicationrecoveryservicesproviders/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationfabrics/replicationstorageclassifications/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationfabrics/replicationstorageclassifications/replicationstorageclassificationmappings/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationfabrics/replicationvcenters/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationjobs/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationpolicies/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationrecoveryplans/read
+site recovery reader,microsoft.recoveryservices/vaults/replicationvaultsettings/read
+site recovery reader,microsoft.recoveryservices/vaults/storageconfig/read
+site recovery reader,microsoft.recoveryservices/vaults/tokeninfo/read
+site recovery reader,microsoft.recoveryservices/vaults/usages/read
+site recovery reader,microsoft.recoveryservices/vaults/vaulttokens/read
+site recovery reader,microsoft.support/*
+sre agent administrator,microsoft.app/agents/*/delete
+sre agent administrator,microsoft.app/agents/*/read
+sre agent administrator,microsoft.app/agents/*/write
+sre agent administrator,microsoft.app/agents/read
+sre agent administrator,microsoft.app/agents/threads/approve/action
+sre agent administrator,microsoft.app/agents/write
+sre agent administrator,microsoft.authorization/*/read
+sre agent administrator,microsoft.insights/alertrules/*
+sre agent reader,microsoft.app/agents/graph/read
+sre agent reader,microsoft.app/agents/incidentmanagement/read
+sre agent reader,microsoft.app/agents/memory/read
+sre agent reader,microsoft.app/agents/read
+sre agent reader,microsoft.app/agents/threads/read
+sre agent reader,microsoft.authorization/*/read
+sre agent reader,microsoft.insights/alertrules/*
+sre agent standard user,microsoft.app/agents/graph/read
+sre agent standard user,microsoft.app/agents/graph/write
+sre agent standard user,microsoft.app/agents/incidentmanagement/read
+sre agent standard user,microsoft.app/agents/memory/read
+sre agent standard user,microsoft.app/agents/memory/write
+sre agent standard user,microsoft.app/agents/read
+sre agent standard user,microsoft.app/agents/scheduledtasks/delete
+sre agent standard user,microsoft.app/agents/scheduledtasks/read
+sre agent standard user,microsoft.app/agents/scheduledtasks/write
+sre agent standard user,microsoft.app/agents/threads/read
+sre agent standard user,microsoft.app/agents/threads/write
+sre agent standard user,microsoft.authorization/*/read
+sre agent standard user,microsoft.insights/alertrules/*
+support request contributor,microsoft.authorization/*/read
+support request contributor,microsoft.resources/subscriptions/resourcegroups/read
+support request contributor,microsoft.support/*
+tag contributor,microsoft.authorization/*/read
+tag contributor,microsoft.insights/alertrules/*
+tag contributor,microsoft.resources/deployments/*
+tag contributor,microsoft.resources/subscriptions/resourcegroups/read
+tag contributor,microsoft.resources/subscriptions/resourcegroups/resources/read
+tag contributor,microsoft.resources/subscriptions/resources/read
+tag contributor,microsoft.resources/tags/*
+tag contributor,microsoft.support/*
+template spec contributor,microsoft.authorization/*/read
+template spec contributor,microsoft.resources/deployments/*
+template spec contributor,microsoft.resources/subscriptions/resourcegroups/read
+template spec contributor,microsoft.resources/templatespecs/*
+template spec reader,microsoft.resources/templatespecs/*/read
