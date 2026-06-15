@@ -3,7 +3,7 @@
 ## response_permission: The request-to-permission translation by the text or embedding model.
 ## original_pa: PA relation (mapping role names to permission names).
 ## pa: PA relation after removing roles and permissions assigned to the user.
-## share_assigned_roles: How many roles of the RBAC model should be assigned to a requesting user (0, 25 or 50), in %
+## assigned_explicits: All explicit permissions that were assigned by running the orgmodel_calculator.py script.
 ##########################
 ## Return: ###############
 ## none if the permission is none or not in PA (hallucinated or already assigned).
