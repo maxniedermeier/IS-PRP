@@ -2,7 +2,7 @@
 ## Inputs: ###############
 ## requested_permission: The requested permission, e.g. microsoft.database.table/query
 ## pa: PA relation (mapping role names to permission names).
-## share_assigned_roles: How many roles of the RBAC model should be assigned to a requesting user (0, 25 or 50), in %
+## share_assigned_roles: How many roles of the RBAC model should be assigned to a requesting user, in %
 ##########################
 ## Return: ###############
 ## not_assigned_roles: PA relation s.t.
