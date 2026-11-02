@@ -71,6 +71,6 @@ All other materials are licensed under the MIT license (see *LICENSE* file in th
 
 If you have any questions about the publication or the shown material, please contact max.niedermeier@tum.de
 
-## Citation 
+## Paper 
 
-Not yet published.
+If interested, you can read [Paper-Link](https://doi.org/10.1016/j.is.2026.102825) for more information.
